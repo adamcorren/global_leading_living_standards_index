@@ -127,5 +127,5 @@ standards.
 
 ## Data
 
-The data used in this project is property of sources outlined in  [Source file](https://github.com/adamcorren/global_leading_living_standards_index/blob/main/data/raw_data])
+The data used in this project is property of sources outlined in  [Source file](https://github.com/adamcorren/global_leading_living_standards_index/blob/main/data/raw_data/])
 I don't own any of the data
