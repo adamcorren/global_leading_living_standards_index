@@ -1,6 +1,8 @@
 # Global Leading Living Standards Index 2023
 Annual index, ranking of countries providing the best global living standards
-Project overview and report. Download PDF for best quality.
+Project overview and report. 
+
+Download PDF for best quality.
 
 ## Index Objective 
 
@@ -79,9 +81,7 @@ and overall living standards, offering insights into the
 positive or negative trajectory of a country’s living
 standards.
 
-## License
+## Data
 
-Licensed under [MIT]((https://opensource.org/license/mit/)).
-
-The data used in this project is property of sources outlined in  
+The data used in this project is property of sources outlined in  [Source file](https://github.com/adamcorren/global_leading_living_standards_index/blob/main/data/raw_data/sources.xlsx])
 I don't own any of the data
