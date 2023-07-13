@@ -48,6 +48,50 @@ available. As a result, only 41 out of a possible 161
 countries qualified for inclusion in the 2023 Global
 Leading Living Standards Index.
 
+## Countries in 2023 Index
+
+- Argentina
+- Australia
+- Austria
+- Belgium
+- Brazil
+- Bulgaria
+- Canada
+- Chile
+- Costa Rica
+- Croatia
+- Czechia (Czech Republic)
+- Denmark
+- Estonia
+- Finland
+- France
+- Germany
+- Greece
+- Hungary
+- Indonesia
+- Ireland
+- Israel
+- Italy
+- Japan
+- Korea, Rep. (South Korea)
+- Lithuania
+- Netherlands
+- New Zealand
+- Norway
+- Panama
+- Peru
+- Poland
+- Portugal
+- Romania
+- Slovenia
+- Spain
+- Sweden
+- Switzerland
+- Tunisia
+- United Kingdom
+- United States
+- Uruguay
+
 ## Index Framework 
 
 Once the qualified countries have been identified, they 
