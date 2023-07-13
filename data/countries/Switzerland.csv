@@ -1,0 +1,58 @@
+country,subindex_score,rank,area,indicator,id
+Switzerland,0.8874397638840286,1st,Final Economy Score,,0.5
+Switzerland,0.658374774696519,2nd,All,GDP per Capita PPP,1.0
+Switzerland,1.0,1st,All,Unemployment Rate,2.0
+Switzerland,0.9878226984900146,2nd,All,Inflation Rate,3.0
+Switzerland,1.0,1st,All,Local purchasing power index (points),4.0
+Switzerland,1.0,1st,All,Average monthly wage,5.0
+Switzerland,0.9175392670157066,5th,All,Business Confidence,6.0
+Switzerland,0.7507805996642988,5th,Happiness and Freedom Score,,6.5
+Switzerland,0.4,19th,Happiness and Freedom,Strength of legal rights index (0=weak to 12=strong),7.0
+Switzerland,0.9676375404530745,2nd,Happiness and Freedom,Personal freedom score,8.0
+Switzerland,0.9126360338573157,5th,Happiness and Freedom,Happiness index,9.0
+Switzerland,1.0,1st,Happiness and Freedom,Economic freedom score,10.0
+Switzerland,0.40909090909090917,18th,Happiness and Freedom,Depression rate,11.0
+Switzerland,0.5381679389312978,28th,Happiness and Freedom,"Suicide mortality rate (per 100,000 population)",12.0
+Switzerland,0.6511113930599846,14th,Education & Healthcare Score,,12.5
+Switzerland,0.52,23rd,Education & Healthcare,International Education Database,13.0
+Switzerland,0.4513087702210252,12th,Education & Healthcare,"Government expenditure on education, total (% of government expenditure)",14.0
+Switzerland,0.9175824170804079,16th,Education & Healthcare,Unemployment with advanced education (% of total labor force with advanced education),15.0
+Switzerland,0.35339773442670364,36th,Education & Healthcare,"School enrollment, tertiary (% gross)",16.0
+Switzerland,0.6944318510345857,14th,Education & Healthcare,"Share of youth not in education, employment or training, total (% of youth population)",17.0
+Switzerland,0.4126913689815842,16th,Education & Healthcare,CEO health care index,18.0
+Switzerland,0.96,3rd,Education & Healthcare,Legatum health care ranking,19.0
+Switzerland,0.7275641025641026,13th,Education & Healthcare,Numbeo health index,20.0
+Switzerland,0.6610372246851031,8th,Education & Healthcare,"Physicians (per 1,000 people)",21.0
+Switzerland,0.28883071553228623,9th,Education & Healthcare,Hospital Beds,22.0
+Switzerland,0.8108499981925035,5th,"Climate, Safety and Security Score",,22.5
+Switzerland,0.5112091142962146,34th,"Climate, Safety and Security",Average precipitation in depth (mm per year),23.0
+Switzerland,0.8017061708131193,14th,"Climate, Safety and Security",CO2 emissions (metric tons per capita),24.0
+Switzerland,0.9985181526302791,3rd,"Climate, Safety and Security",Vulnerability and exposure to natural hazards,25.0
+Switzerland,0.9868632269788757,4th,"Climate, Safety and Security","Intentional homicides (per 100,000 people)",26.0
+Switzerland,0.9930555555555556,2nd,"Climate, Safety and Security","Mortality caused by road traffic injury (per 100,000 population)",27.0
+Switzerland,0.03154205859843734,35th,"Climate, Safety and Security",Armed forces personnel (% of total labor force),28.0
+Switzerland,0.8788060827904147,14th,Poverty and Equality Score,,28.5
+Switzerland,1.0,1st,Poverty and Equality,Poverty gap at $2.15 a day (2017 PPP) (%),29.0
+Switzerland,0.9999999340774122,2nd,Poverty and Equality,People using at least basic drinking water services (% of population),30.0
+Switzerland,1.0,1st,Poverty and Equality,Prevalence of moderate or severe food insecurity in the population (%),31.0
+Switzerland,1.0,1st,Poverty and Equality,Access to electricity (% of population),32.0
+Switzerland,0.9070176725749192,4th,Poverty and Equality,Individuals using the Internet (% of population),33.0
+Switzerland,0.5856299212598425,26th,Poverty and Equality,Gender wage gap (%),34.0
+Switzerland,0.6666666666666666,31st,Poverty and Equality,Women Business and the Law Index Score (scale 1-100),35.0
+Switzerland,0.8311776718147863,8th,Poverty and Equality,Proportion of seats held by women in national parliaments (%),36.0
+Switzerland,0.36780942395698324,40th,Final Cost of living Score,,36.5
+Switzerland,0.758139534883721,15th,All,Price to Income Ratio (%),37.0
+Switzerland,0.6296296296296297,9th,All,Mortgage affordability index,38.0
+Switzerland,0.0,41st,All,Rent cost index (points),39.0
+Switzerland,0.3610223642172524,21st,All,Personal Income Tax Rate,40.0
+Switzerland,0.0,41st,All,Groceries cost index (points),41.0
+Switzerland,0.0,41st,All,Restaurant cost index (points),42.0
+Switzerland,0.36991072534988784,28th,Final Growth and Development Score,,42.5
+Switzerland,0.6350768294516375,20th,All,Ease of doing business score (0 = lowest performance to 100 = best performance),43.0
+Switzerland,0.09591969912932974,13th,All,"International tourism, number of arrivals",44.0
+Switzerland,0.06740528502944992,17th,All,Net migration,45.0
+Switzerland,0.2205396033974208,37th,All,Exports of goods and services (annual % growth),46.0
+Switzerland,0.23660403618649967,35th,All,Full Year GDP Growth,47.0
+Switzerland,0.8408844060854362,8th,All,Population growth (annual %),48.0
+Switzerland,0.6619691698968067,4th,Final Score,,
+Switzerland,0.7524918741610482,6th,Final Quality of Life Score,,

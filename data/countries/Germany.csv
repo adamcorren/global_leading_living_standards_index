@@ -1,0 +1,58 @@
+country,subindex_score,rank,area,indicator,id
+Germany,0.7049807403377111,5th,Final Economy Score,,0.5
+Germany,0.46452691697973897,9th,All,GDP per Capita PPP,1.0
+Germany,0.7272727272727273,22nd,All,Unemployment Rate,2.0
+Germany,0.9430102289332684,21st,All,Inflation Rate,3.0
+Germany,0.8782894736842104,5th,All,Local purchasing power index (points),4.0
+Germany,0.5705169842803582,6th,All,Average monthly wage,5.0
+Germany,0.8992146596858637,6th,All,Business Confidence,6.0
+Germany,0.6440648750753069,16th,Happiness and Freedom Score,,6.5
+Germany,0.4,19th,Happiness and Freedom,Strength of legal rights index (0=weak to 12=strong),7.0
+Germany,0.7928802588996767,13th,Happiness and Freedom,Personal freedom score,8.0
+Germany,0.7629987908101572,15th,Happiness and Freedom,Happiness index,9.0
+Germany,0.7942857142857146,16th,Happiness and Freedom,Economic freedom score,10.0
+Germany,0.31818181818181823,29th,Happiness and Freedom,Depression rate,11.0
+Germany,0.6221374045801527,25th,Happiness and Freedom,"Suicide mortality rate (per 100,000 population)",12.0
+Germany,0.7044087799242027,8th,Education & Healthcare Score,,12.5
+Germany,0.94,4th,Education & Healthcare,International Education Database,13.0
+Germany,0.12178175826195325,34th,Education & Healthcare,"Government expenditure on education, total (% of government expenditure)",14.0
+Germany,0.9583987419017963,6th,Education & Healthcare,Unemployment with advanced education (% of total labor force with advanced education),15.0
+Germany,0.3508637685250316,37th,Education & Healthcare,"School enrollment, tertiary (% gross)",16.0
+Germany,0.8017202359425954,9th,Education & Healthcare,"Share of youth not in education, employment or training, total (% of youth population)",17.0
+Germany,0.4138007543820723,15th,Education & Healthcare,CEO health care index,18.0
+Germany,0.86,8th,Education & Healthcare,Legatum health care ranking,19.0
+Germany,0.6442307692307695,18th,Education & Healthcare,Numbeo health index,20.0
+Germany,0.6706072760537612,7th,Education & Healthcare,"Physicians (per 1,000 people)",21.0
+Germany,0.5802792321116929,2nd,Education & Healthcare,Hospital Beds,22.0
+Germany,0.7544126667347528,22nd,"Climate, Safety and Security Score",,22.5
+Germany,0.8188166115398751,17th,"Climate, Safety and Security",Average precipitation in depth (mm per year),23.0
+Germany,0.5444594931664203,33rd,"Climate, Safety and Security",CO2 emissions (metric tons per capita),24.0
+Germany,0.9271425043220548,15th,"Climate, Safety and Security",Vulnerability and exposure to natural hazards,25.0
+Germany,0.9692823460481114,17th,"Climate, Safety and Security","Intentional homicides (per 100,000 people)",26.0
+Germany,0.8819444444444444,8th,"Climate, Safety and Security","Mortality caused by road traffic injury (per 100,000 population)",27.0
+Germany,0.03445441996798103,34th,"Climate, Safety and Security",Armed forces personnel (% of total labor force),28.0
+Germany,0.910879813942169,6th,Poverty and Equality Score,,28.5
+Germany,1.0,1st,Poverty and Equality,Poverty gap at $2.15 a day (2017 PPP) (%),29.0
+Germany,0.9999998681548244,3rd,Poverty and Equality,People using at least basic drinking water services (% of population),30.0
+Germany,0.9730848861283644,3rd,Poverty and Equality,Prevalence of moderate or severe food insecurity in the population (%),31.0
+Germany,1.0,1st,Poverty and Equality,Access to electricity (% of population),32.0
+Germany,0.7948424978094594,14th,Poverty and Equality,Individuals using the Internet (% of population),33.0
+Germany,0.57250656167979,27th,Poverty and Equality,Gender wage gap (%),34.0
+Germany,0.9298245614035088,10th,Poverty and Equality,Women Business and the Law Index Score (scale 1-100),35.0
+Germany,0.6391881492107392,18th,Poverty and Equality,Proportion of seats held by women in national parliaments (%),36.0
+Germany,0.5156687880501784,29th,Final Cost of living Score,,36.5
+Germany,0.7116279069767442,21st,All,Price to Income Ratio (%),37.0
+Germany,0.5185185185185185,17th,All,Mortgage affordability index,38.0
+Germany,0.5331858407079646,30th,All,Rent cost index (points),39.0
+Germany,0.2545260915867945,26th,All,Personal Income Tax Rate,40.0
+Germany,0.7134767836919593,23rd,All,Groceries cost index (points),41.0
+Germany,0.5604626708727654,23rd,All,Restaurant cost index (points),42.0
+Germany,0.4490835948355739,15th,Final Growth and Development Score,,42.5
+Germany,0.7462657095565467,12th,All,Ease of doing business score (0 = lowest performance to 100 = best performance),43.0
+Germany,0.10133777541172227,12th,All,"International tourism, number of arrivals",44.0
+Germany,0.5684060273478421,2nd,All,Net migration,45.0
+Germany,0.3414578645243214,29th,All,Exports of goods and services (annual % growth),46.0
+Germany,0.21572720946416143,38th,All,Full Year GDP Growth,47.0
+Germany,0.7080449580621682,30th,All,Population growth (annual %),48.0
+Germany,0.6515101157580684,6th,Final Score,,
+Germany,0.7265658134692926,11th,Final Quality of Life Score,,

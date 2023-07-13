@@ -1,0 +1,58 @@
+country,subindex_score,rank,area,indicator,id
+Bulgaria,0.4178918881931459,30th,Final Economy Score,,0.5
+Bulgaria,0.15201198723099307,34th,All,GDP per Capita PPP,1.0
+Bulgaria,0.7424242424242424,16th,All,Unemployment Rate,2.0
+Bulgaria,0.8767657087189479,35th,All,Inflation Rate,3.0
+Bulgaria,0.2598684210526316,31st,All,Local purchasing power index (points),4.0
+Bulgaria,0.08413036115147365,33rd,All,Average monthly wage,5.0
+Bulgaria,0.44895287958115176,15th,All,Business Confidence,6.0
+Bulgaria,0.5180275396228688,30th,Happiness and Freedom Score,,6.5
+Bulgaria,0.6,8th,Happiness and Freedom,Strength of legal rights index (0=weak to 12=strong),7.0
+Bulgaria,0.4983818770226539,34th,Happiness and Freedom,Personal freedom score,8.0
+Bulgaria,0.1662636033857315,40th,Happiness and Freedom,Happiness index,9.0
+Bulgaria,0.805714285714286,15th,Happiness and Freedom,Economic freedom score,10.0
+Bulgaria,0.31818181818181823,29th,Happiness and Freedom,Depression rate,11.0
+Bulgaria,0.7213740458015268,15th,Happiness and Freedom,"Suicide mortality rate (per 100,000 population)",12.0
+Bulgaria,0.2495759365505087,37th,Education & Healthcare Score,,12.5
+Bulgaria,0.06,40th,Education & Healthcare,International Education Database,13.0
+Bulgaria,0.14587760208607456,33rd,Education & Healthcare,"Government expenditure on education, total (% of government expenditure)",14.0
+Bulgaria,0.9760596541701683,4th,Education & Healthcare,Unemployment with advanced education (% of total labor force with advanced education),15.0
+Bulgaria,0.5903773861934698,25th,Education & Healthcare,"School enrollment, tertiary (% gross)",16.0
+Bulgaria,0.5074694145187968,28th,Education & Healthcare,"Share of youth not in education, employment or training, total (% of youth population)",17.0
+Bulgaria,0.044153538939427604,39th,Education & Healthcare,CEO health care index,18.0
+Bulgaria,0.24,34th,Education & Healthcare,Legatum health care ranking,19.0
+Bulgaria,0.15705128205128221,37th,Education & Healthcare,Numbeo health index,20.0
+Bulgaria,0.5999577791851383,14th,Education & Healthcare,"Physicians (per 1,000 people)",21.0
+Bulgaria,0.25526468877254216,-,Education & Healthcare,Hospital Beds,22.0
+Bulgaria,0.7829407645449101,10th,"Climate, Safety and Security Score",,22.5
+Bulgaria,0.852627710400588,9th,"Climate, Safety and Security",Average precipitation in depth (mm per year),23.0
+Bulgaria,0.7110606397810266,23rd,"Climate, Safety and Security",CO2 emissions (metric tons per capita),24.0
+Bulgaria,0.9708570017288219,10th,"Climate, Safety and Security",Vulnerability and exposure to natural hazards,25.0
+Bulgaria,0.9665942520688382,21st,"Climate, Safety and Security","Intentional homicides (per 100,000 people)",26.0
+Bulgaria,0.5069444444444444,28th,"Climate, Safety and Security","Mortality caused by road traffic injury (per 100,000 population)",27.0
+Bulgaria,0.20195470171787333,11th,"Climate, Safety and Security",Armed forces personnel (% of total labor force),28.0
+Bulgaria,0.798986882130863,28th,Poverty and Equality Score,,28.5
+Bulgaria,0.9523809523809523,11th,Poverty and Equality,Poverty gap at $2.15 a day (2017 PPP) (%),29.0
+Bulgaria,0.8696596574602472,33rd,Poverty and Equality,People using at least basic drinking water services (% of population),30.0
+Bulgaria,0.7246376811594202,33rd,Poverty and Equality,Prevalence of moderate or severe food insecurity in the population (%),31.0
+Bulgaria,0.9089621008769897,38th,Poverty and Equality,Access to electricity (% of population),32.0
+Bulgaria,0.35687166947792276,36th,Poverty and Equality,Individuals using the Internet (% of population),33.0
+Bulgaria,0.9543963254593175,2nd,Poverty and Equality,Gender wage gap (%),34.0
+Bulgaria,0.7368421052631579,28th,Poverty and Equality,Women Business and the Law Index Score (scale 1-100),35.0
+Bulgaria,0.3563648740312791,32nd,Poverty and Equality,Proportion of seats held by women in national parliaments (%),36.0
+Bulgaria,0.8225766940716582,1st,Final Cost of living Score,,36.5
+Bulgaria,0.7813953488372094,12th,All,Price to Income Ratio (%),37.0
+Bulgaria,0.5555555555555556,14th,All,Mortgage affordability index,38.0
+Bulgaria,0.8893805309734514,6th,All,Rent cost index (points),39.0
+Bulgaria,1.0,1st,All,Personal Income Tax Rate,40.0
+Bulgaria,0.8856172140430351,9th,All,Groceries cost index (points),41.0
+Bulgaria,0.7749737118822293,9th,All,Restaurant cost index (points),42.0
+Bulgaria,0.3201130325193583,34th,Final Growth and Development Score,,42.5
+Bulgaria,0.46802411526180154,32nd,All,Ease of doing business score (0 = lowest performance to 100 = best performance),43.0
+Bulgaria,0.03714516322920781,22nd,All,"International tourism, number of arrivals",44.0
+Bulgaria,0.010885023899877205,35th,All,Net migration,45.0
+Bulgaria,0.5100577062732059,17th,All,Exports of goods and services (annual % growth),46.0
+Bulgaria,0.32707028531663185,22nd,All,Full Year GDP Growth,47.0
+Bulgaria,0.5476843521434163,39th,All,Population growth (annual %),48.0
+Bulgaria,0.533758324489623,30th,Final Score,,
+Bulgaria,0.5201752496949639,34th,Final Quality of Life Score,,

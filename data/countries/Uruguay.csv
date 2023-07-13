@@ -1,0 +1,58 @@
+country,subindex_score,rank,area,indicator,id
+Uruguay,0.3535622049472057,35th,Final Economy Score,,0.5
+Uruguay,0.13467176268757194,35th,All,GDP per Capita PPP,1.0
+Uruguay,0.5,33rd,All,Unemployment Rate,2.0
+Uruguay,0.9390160740379931,22nd,All,Inflation Rate,3.0
+Uruguay,0.1195175438596491,34th,All,Local purchasing power index (points),4.0
+Uruguay,0.06804826300964938,35th,All,Average monthly wage,5.0
+Uruguay,0.4757580715532285,-,All,Business Confidence,6.0
+Uruguay,0.4919835788051179,32nd,Happiness and Freedom Score,,6.5
+Uruguay,0.2,30th,Happiness and Freedom,Strength of legal rights index (0=weak to 12=strong),7.0
+Uruguay,0.7346278317152107,20th,Happiness and Freedom,Personal freedom score,8.0
+Uruguay,0.5538089480048367,24th,Happiness and Freedom,Happiness index,9.0
+Uruguay,0.6257142857142858,35th,Happiness and Freedom,Economic freedom score,10.0
+Uruguay,0.40909090909090917,18th,Happiness and Freedom,Depression rate,11.0
+Uruguay,0.2824427480916031,39th,Happiness and Freedom,"Suicide mortality rate (per 100,000 population)",12.0
+Uruguay,0.4001964463511937,30th,Education & Healthcare Score,,12.5
+Uruguay,0.14,37th,Education & Healthcare,International Education Database,13.0
+Uruguay,0.5262546681464899,8th,Education & Healthcare,"Government expenditure on education, total (% of government expenditure)",14.0
+Uruguay,0.9352433293880262,12th,Education & Healthcare,Unemployment with advanced education (% of total labor force with advanced education),15.0
+Uruguay,0.892894406535934,3rd,Education & Healthcare,"School enrollment, tertiary (% gross)",16.0
+Uruguay,0.34631053941446166,32nd,Education & Healthcare,"Share of youth not in education, employment or training, total (% of youth population)",17.0
+Uruguay,0.2072331928111827,27th,Education & Healthcare,CEO health care index,18.0
+Uruguay,0.36,29th,Education & Healthcare,Legatum health care ranking,19.0
+Uruguay,0.5320512820512823,25th,Education & Healthcare,Numbeo health index,20.0
+Uruguay,0.505289780938926,-,Education & Healthcare,"Physicians (per 1,000 people)",21.0
+Uruguay,0.25526468877254216,-,Education & Healthcare,Hospital Beds,22.0
+Uruguay,0.6777181764309901,28th,"Climate, Safety and Security Score",,22.5
+Uruguay,0.5983094450569644,31st,"Climate, Safety and Security",Average precipitation in depth (mm per year),23.0
+Uruguay,0.9802748270893319,3rd,"Climate, Safety and Security",CO2 emissions (metric tons per capita),24.0
+Uruguay,0.9024450481600396,21st,"Climate, Safety and Security",Vulnerability and exposure to natural hazards,25.0
+Uruguay,0.5743202212478026,38th,"Climate, Safety and Security","Intentional homicides (per 100,000 people)",26.0
+Uruguay,0.11805555555555547,37th,"Climate, Safety and Security","Mortality caused by road traffic injury (per 100,000 population)",27.0
+Uruguay,0.2442915225429942,9th,"Climate, Safety and Security",Armed forces personnel (% of total labor force),28.0
+Uruguay,0.7806209525947028,30th,Poverty and Equality Score,,28.5
+Uruguay,1.0,1st,Poverty and Equality,Poverty gap at $2.15 a day (2017 PPP) (%),29.0
+Uruguay,0.933517631706135,29th,Poverty and Equality,People using at least basic drinking water services (% of population),30.0
+Uruguay,0.5693581780538302,36th,Poverty and Equality,Prevalence of moderate or severe food insecurity in the population (%),31.0
+Uruguay,1.0,1st,Poverty and Equality,Access to electricity (% of population),32.0
+Uruguay,0.6503640103451264,26th,Poverty and Equality,Individuals using the Internet (% of population),33.0
+Uruguay,0.6738754009915426,-,Poverty and Equality,Gender wage gap (%),34.0
+Uruguay,0.6842105263157895,30th,Poverty and Equality,Women Business and the Law Index Score (scale 1-100),35.0
+Uruguay,0.36883470502278926,31st,Poverty and Equality,Proportion of seats held by women in national parliaments (%),36.0
+Uruguay,0.5155872028405126,30th,Final Cost of living Score,,36.5
+Uruguay,0.5720930232558139,32nd,All,Price to Income Ratio (%),37.0
+Uruguay,0.1851851851851852,36th,All,Mortgage affordability index,38.0
+Uruguay,0.7588495575221239,13th,All,Rent cost index (points),39.0
+Uruguay,0.44621938232161873,17th,All,Personal Income Tax Rate,40.0
+Uruguay,0.7451868629671574,22nd,All,Groceries cost index (points),41.0
+Uruguay,0.5257623554153522,24th,All,Restaurant cost index (points),42.0
+Uruguay,0.23179216749798215,40th,Final Growth and Development Score,,42.5
+Uruguay,0.09273880576078831,39th,All,Ease of doing business score (0 = lowest performance to 100 = best performance),43.0
+Uruguay,0.024325531074513577,27th,All,"International tourism, number of arrivals",44.0
+Uruguay,0.023424654683196548,33rd,All,Net migration,45.0
+Uruguay,0.4896079095242923,20th,All,Exports of goods and services (annual % growth),46.0
+Uruguay,0.3966597077244259,18th,All,Full Year GDP Growth,47.0
+Uruguay,0.6847022158920889,31st,All,Population growth (annual %),48.0
+Uruguay,0.4658516537606633,35th,Final Score,,
+Uruguay,0.5407483735894448,32nd,Final Quality of Life Score,,

@@ -1,0 +1,58 @@
+country,subindex_score,rank,area,indicator,id
+Czechia,0.5901536315260418,17th,Final Economy Score,,0.5
+Czechia,0.32946426632500164,21st,All,GDP per Capita PPP,1.0
+Czechia,0.8712121212121212,9th,All,Unemployment Rate,2.0
+Czechia,0.8670238675109596,38th,All,Inflation Rate,3.0
+Czechia,0.48574561403508765,21st,All,Local purchasing power index (points),4.0
+Czechia,0.21355458033791144,23rd,All,Average monthly wage,5.0
+Czechia,0.9280104712041884,4th,All,Business Confidence,6.0
+Czechia,0.6582362325786191,14th,Happiness and Freedom Score,,6.5
+Czechia,0.5,12th,Happiness and Freedom,Strength of legal rights index (0=weak to 12=strong),7.0
+Czechia,0.7734627831715212,16th,Happiness and Freedom,Personal freedom score,8.0
+Czechia,0.7227932285368803,18th,Happiness and Freedom,Happiness index,9.0
+Czechia,0.8228571428571431,11th,Happiness and Freedom,Economic freedom score,10.0
+Czechia,0.31818181818181823,29th,Happiness and Freedom,Depression rate,11.0
+Czechia,0.6259541984732826,24th,Happiness and Freedom,"Suicide mortality rate (per 100,000 population)",12.0
+Czechia,0.5864460431746484,18th,Education & Healthcare Score,,12.5
+Czechia,0.44,27th,Education & Healthcare,International Education Database,13.0
+Czechia,0.2253288048013369,24th,Education & Healthcare,"Government expenditure on education, total (% of government expenditure)",14.0
+Czechia,1.0,1st,Education & Healthcare,Unemployment with advanced education (% of total labor force with advanced education),15.0
+Czechia,0.7110983484207458,18th,Education & Healthcare,"School enrollment, tertiary (% gross)",16.0
+Czechia,0.8429153409799532,6th,Education & Healthcare,"Share of youth not in education, employment or training, total (% of youth population)",17.0
+Czechia,0.5393831817173287,12th,Education & Healthcare,CEO health care index,18.0
+Czechia,0.549,-,Education & Healthcare,Legatum health care ranking,19.0
+Czechia,0.7596153846153847,10th,Education & Healthcare,Numbeo health index,20.0
+Czechia,0.621085778622194,10th,Education & Healthcare,"Physicians (per 1,000 people)",21.0
+Czechia,0.25526468877254216,-,Education & Healthcare,Hospital Beds,22.0
+Czechia,0.7493123837266661,23rd,"Climate, Safety and Security Score",,22.5
+Czechia,0.8272693862550533,16th,"Climate, Safety and Security",Average precipitation in depth (mm per year),23.0
+Czechia,0.4639986514733807,37th,"Climate, Safety and Security",CO2 emissions (metric tons per capita),24.0
+Czechia,0.9992590763151395,2nd,"Climate, Safety and Security",Vulnerability and exposure to natural hazards,25.0
+Czechia,0.9789369992187169,11th,"Climate, Safety and Security","Intentional homicides (per 100,000 people)",26.0
+Czechia,0.7361111111111112,21st,"Climate, Safety and Security","Mortality caused by road traffic injury (per 100,000 population)",27.0
+Czechia,0.04609480957088261,30th,"Climate, Safety and Security",Armed forces personnel (% of total labor force),28.0
+Czechia,0.8646856258862418,18th,Poverty and Equality Score,,28.5
+Czechia,1.0,1st,Poverty and Equality,Poverty gap at $2.15 a day (2017 PPP) (%),29.0
+Czechia,0.9842561526365481,24th,Poverty and Equality,People using at least basic drinking water services (% of population),30.0
+Czechia,0.9254658385093167,12th,Poverty and Equality,Prevalence of moderate or severe food insecurity in the population (%),31.0
+Czechia,1.0,1st,Poverty and Equality,Access to electricity (% of population),32.0
+Czechia,0.5574157279696896,31st,Poverty and Equality,Individuals using the Internet (% of population),33.0
+Czechia,0.6604330708661417,21st,Poverty and Equality,Gender wage gap (%),34.0
+Czechia,0.8245614035087719,23rd,Poverty and Equality,Women Business and the Law Index Score (scale 1-100),35.0
+Czechia,0.38801906055017954,30th,Poverty and Equality,Proportion of seats held by women in national parliaments (%),36.0
+Czechia,0.5947229910223665,12th,Final Cost of living Score,,36.5
+Czechia,0.5162790697674419,35th,All,Price to Income Ratio (%),37.0
+Czechia,0.2592592592592593,31st,All,Mortgage affordability index,38.0
+Czechia,0.6880530973451328,19th,All,Rent cost index (points),39.0
+Czechia,0.7231096911608094,6th,All,Personal Income Tax Rate,40.0
+Czechia,0.8289920724801811,14th,All,Groceries cost index (points),41.0
+Czechia,0.7665615141955835,10th,All,Restaurant cost index (points),42.0
+Czechia,0.37800809740610486,25th,Final Growth and Development Score,,42.5
+Czechia,0.6250743621044244,24th,All,Ease of doing business score (0 = lowest performance to 100 = best performance),43.0
+Czechia,0.3138792052343254,5th,All,"International tourism, number of arrivals",44.0
+Czechia,0.032282178114788784,29th,All,Net migration,45.0
+Czechia,0.35477743921037275,27th,All,Exports of goods and services (annual % growth),46.0
+Czechia,0.26443980514961724,31st,All,Full Year GDP Growth,47.0
+Czechia,0.3611602496547287,40th,All,Population growth (annual %),48.0
+Czechia,0.614283757842918,16th,Final Score,,
+Czechia,0.6870966695337571,15th,Final Quality of Life Score,,

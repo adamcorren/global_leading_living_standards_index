@@ -1,0 +1,58 @@
+country,subindex_score,rank,area,indicator,id
+Italy,0.5464340762113811,21st,Final Economy Score,,0.5
+Italy,0.34236356924146016,19th,All,GDP per Capita PPP,1.0
+Italy,0.5606060606060606,32nd,All,Unemployment Rate,2.0
+Italy,0.9322942036044812,26th,All,Inflation Rate,3.0
+Italy,0.4276315789473684,22nd,All,Local purchasing power index (points),4.0
+Italy,0.3154162750563405,18th,All,Average monthly wage,5.0
+Italy,0.9607329842931938,2nd,All,Business Confidence,6.0
+Italy,0.5069748064428432,31st,Happiness and Freedom Score,,6.5
+Italy,0.0,36th,Happiness and Freedom,Strength of legal rights index (0=weak to 12=strong),7.0
+Italy,0.6796116504854373,24th,Happiness and Freedom,Personal freedom score,8.0
+Italy,0.5326481257557435,25th,Happiness and Freedom,Happiness index,9.0
+Italy,0.7228571428571431,28th,Happiness and Freedom,Economic freedom score,10.0
+Italy,0.363636363636364,23rd,Happiness and Freedom,Depression rate,11.0
+Italy,0.8358778625954199,7th,Happiness and Freedom,"Suicide mortality rate (per 100,000 population)",12.0
+Italy,0.42106254372442464,27th,Education & Healthcare Score,,12.5
+Italy,0.4,29th,Education & Healthcare,International Education Database,13.0
+Italy,0.010419817602850014,39th,Education & Healthcare,"Government expenditure on education, total (% of government expenditure)",14.0
+Italy,0.8551805275783143,30th,Education & Healthcare,Unemployment with advanced education (% of total labor force with advanced education),15.0
+Italy,0.6895039671621102,19th,Education & Healthcare,"School enrollment, tertiary (% gross)",16.0
+Italy,0.24762333408362092,36th,Education & Healthcare,"Share of youth not in education, employment or training, total (% of youth population)",17.0
+Italy,0.23918349234524075,26th,Education & Healthcare,CEO health care index,18.0
+Italy,0.48,24th,Education & Healthcare,Legatum health care ranking,19.0
+Italy,0.4647435897435897,26th,Education & Healthcare,Numbeo health index,20.0
+Italy,0.5849166138906482,15th,Education & Healthcare,"Physicians (per 1,000 people)",21.0
+Italy,0.17626527050610818,16th,Education & Healthcare,Hospital Beds,22.0
+Italy,0.7630087998938847,20th,"Climate, Safety and Security Score",,22.5
+Italy,0.7703050349136347,21st,"Climate, Safety and Security",Average precipitation in depth (mm per year),23.0
+Italy,0.732750834601555,21st,"Climate, Safety and Security",CO2 emissions (metric tons per capita),24.0
+Italy,0.7925413682390714,26th,"Climate, Safety and Security",Vulnerability and exposure to natural hazards,25.0
+Italy,0.9900925891448615,2nd,"Climate, Safety and Security","Intentional homicides (per 100,000 people)",26.0
+Italy,0.7777777777777778,18th,"Climate, Safety and Security","Mortality caused by road traffic injury (per 100,000 population)",27.0
+Italy,0.2586942340373872,8th,"Climate, Safety and Security",Armed forces personnel (% of total labor force),28.0
+Italy,0.8304103094308487,24th,Poverty and Equality Score,,28.5
+Italy,0.6666666666666667,34th,Poverty and Equality,Poverty gap at $2.15 a day (2017 PPP) (%),29.0
+Italy,0.9890609072752532,21st,Poverty and Equality,People using at least basic drinking water services (% of population),30.0
+Italy,0.9151138716356108,15th,Poverty and Equality,Prevalence of moderate or severe food insecurity in the population (%),31.0
+Italy,1.0,1st,Poverty and Equality,Access to electricity (% of population),32.0
+Italy,0.3457831045755765,37th,Poverty and Equality,Individuals using the Internet (% of population),33.0
+Italy,0.7522965879265091,17th,Poverty and Equality,Gender wage gap (%),34.0
+Italy,0.9298245614035088,10th,Poverty and Equality,Women Business and the Law Index Score (scale 1-100),35.0
+Italy,0.6593406591750837,16th,Poverty and Equality,Proportion of seats held by women in national parliaments (%),36.0
+Italy,0.5710849685142566,16th,Final Cost of living Score,,36.5
+Italy,0.758139534883721,15th,All,Price to Income Ratio (%),37.0
+Italy,0.5925925925925926,12th,All,Mortgage affordability index,38.0
+Italy,0.6570796460176991,21st,All,Rent cost index (points),39.0
+Italy,0.2971246006389777,24th,All,Personal Income Tax Rate,40.0
+Italy,0.7021517553793886,24th,All,Groceries cost index (points),41.0
+Italy,0.5005257623554153,25th,All,Restaurant cost index (points),42.0
+Italy,0.38746868551957614,24th,Final Growth and Development Score,,42.5
+Italy,0.4995493314783869,30th,All,Ease of doing business score (0 = lowest performance to 100 = best performance),43.0
+Italy,0.32432896567120606,4th,All,"International tourism, number of arrivals",44.0
+Italy,0.07460126402253318,15th,All,Net migration,45.0
+Italy,0.3606556530253035,26th,All,Exports of goods and services (annual % growth),46.0
+Italy,0.34794711203897005,21st,All,Full Year GDP Growth,47.0
+Italy,0.5962297882924112,37th,All,Population growth (annual %),48.0
+Italy,0.5409668727364925,27th,Final Score,,
+Italy,0.5714916275700229,28th,Final Quality of Life Score,,

@@ -1,0 +1,58 @@
+country,subindex_score,rank,area,indicator,id
+United Kingdom,0.6064863156116085,14th,Final Economy Score,,0.5
+United Kingdom,0.37548046645964084,15th,All,GDP per Capita PPP,1.0
+United Kingdom,0.8636363636363636,11th,All,Unemployment Rate,2.0
+United Kingdom,0.9147588894301023,31st,All,Inflation Rate,3.0
+United Kingdom,0.7828947368421053,10th,All,Local purchasing power index (points),4.0
+United Kingdom,0.39110838063204073,16th,All,Average monthly wage,5.0
+United Kingdom,0.2735602094240837,27th,All,Business Confidence,6.0
+United Kingdom,0.7144519836910628,9th,Happiness and Freedom Score,,6.5
+United Kingdom,0.5,12th,Happiness and Freedom,Strength of legal rights index (0=weak to 12=strong),7.0
+United Kingdom,0.7637540453074437,18th,Happiness and Freedom,Personal freedom score,8.0
+United Kingdom,0.783857315598549,13th,Happiness and Freedom,Happiness index,9.0
+United Kingdom,0.8114285714285716,14th,Happiness and Freedom,Economic freedom score,10.0
+United Kingdom,0.6363636363636365,5th,Happiness and Freedom,Depression rate,11.0
+United Kingdom,0.7900763358778626,10th,Happiness and Freedom,"Suicide mortality rate (per 100,000 population)",12.0
+United Kingdom,0.6611820423491582,13th,Education & Healthcare Score,,12.5
+United Kingdom,0.74,13th,Education & Healthcare,International Education Database,13.0
+United Kingdom,0.21165277851494166,26th,Education & Healthcare,"Government expenditure on education, total (% of government expenditure)",14.0
+United Kingdom,0.9560439560823399,8th,Education & Healthcare,Unemployment with advanced education (% of total labor force with advanced education),15.0
+United Kingdom,0.6840536024708227,20th,Education & Healthcare,"School enrollment, tertiary (% gross)",16.0
+United Kingdom,0.6659121528402159,15th,Education & Healthcare,"Share of youth not in education, employment or training, total (% of youth population)",17.0
+United Kingdom,0.6230308409141335,9th,Education & Healthcare,CEO health care index,18.0
+United Kingdom,0.78,11th,Education & Healthcare,Legatum health care ranking,19.0
+United Kingdom,0.7147435897435895,14th,Education & Healthcare,Numbeo health index,20.0
+United Kingdom,0.41884807543452246,28th,Education & Healthcare,"Physicians (per 1,000 people)",21.0
+United Kingdom,0.10209424083769632,26th,Education & Healthcare,Hospital Beds,22.0
+United Kingdom,0.7645304880254916,19th,"Climate, Safety and Security Score",,22.5
+United Kingdom,0.6277104005880192,29th,"Climate, Safety and Security",Average precipitation in depth (mm per year),23.0
+United Kingdom,0.7393258439401498,20th,"Climate, Safety and Security",CO2 emissions (metric tons per capita),24.0
+United Kingdom,0.8812052358607063,23rd,"Climate, Safety and Security",Vulnerability and exposure to natural hazards,25.0
+United Kingdom,0.9667317058331114,20th,"Climate, Safety and Security","Intentional homicides (per 100,000 people)",26.0
+United Kingdom,0.9236111111111112,5th,"Climate, Safety and Security","Mortality caused by road traffic injury (per 100,000 population)",27.0
+United Kingdom,0.038252561427144484,33rd,"Climate, Safety and Security",Armed forces personnel (% of total labor force),28.0
+United Kingdom,0.8855722929506966,12th,Poverty and Equality Score,,28.5
+United Kingdom,0.8571428571428572,23rd,Poverty and Equality,Poverty gap at $2.15 a day (2017 PPP) (%),29.0
+United Kingdom,0.999999375053865,12th,Poverty and Equality,People using at least basic drinking water services (% of population),30.0
+United Kingdom,0.9730848861283644,3rd,Poverty and Equality,Prevalence of moderate or severe food insecurity in the population (%),31.0
+United Kingdom,1.0,1st,Poverty and Equality,Access to electricity (% of population),32.0
+United Kingdom,0.8866582813427427,5th,Poverty and Equality,Individuals using the Internet (% of population),33.0
+United Kingdom,0.5675853018372703,28th,Poverty and Equality,Gender wage gap (%),34.0
+United Kingdom,0.9298245614035088,10th,Poverty and Equality,Women Business and the Law Index Score (scale 1-100),35.0
+United Kingdom,0.6224945162644968,19th,Poverty and Equality,Proportion of seats held by women in national parliaments (%),36.0
+United Kingdom,0.5391051103729523,21st,Final Cost of living Score,,36.5
+United Kingdom,0.8232558139534883,10th,All,Price to Income Ratio (%),37.0
+United Kingdom,0.6296296296296297,9th,All,Mortgage affordability index,38.0
+United Kingdom,0.4402654867256638,31st,All,Rent cost index (points),39.0
+United Kingdom,0.2545260915867945,26th,All,Personal Income Tax Rate,40.0
+United Kingdom,0.7497168742921858,21st,All,Groceries cost index (points),41.0
+United Kingdom,0.437434279705573,32nd,All,Restaurant cost index (points),42.0
+United Kingdom,0.5098545018625512,8th,Final Growth and Development Score,,42.5
+United Kingdom,0.8843666578667011,5th,All,Ease of doing business score (0 = lowest performance to 100 = best performance),43.0
+United Kingdom,0.08976318455805327,14th,All,"International tourism, number of arrivals",44.0
+United Kingdom,0.37639531576281887,4th,All,Net migration,45.0
+United Kingdom,0.3694700848355934,24th,All,Exports of goods and services (annual % growth),46.0
+United Kingdom,0.3757828810020876,19th,All,Full Year GDP Growth,47.0
+United Kingdom,0.7684875133067144,20th,All,Population growth (annual %),48.0
+United Kingdom,0.6435438905605743,12th,Final Score,,
+United Kingdom,0.7377029135738611,10th,Final Quality of Life Score,,

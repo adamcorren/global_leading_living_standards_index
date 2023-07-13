@@ -1,0 +1,58 @@
+country,subindex_score,rank,area,indicator,id
+Brazil,0.3195421077936887,37th,Final Economy Score,,0.5
+Brazil,0.04553844817477035,38th,All,GDP per Capita PPP,1.0
+Brazil,0.48484848484848475,34th,All,Unemployment Rate,2.0
+Brazil,0.9678519240136386,10th,All,Inflation Rate,3.0
+Brazil,0.013157894736842098,40th,All,Local purchasing power index (points),4.0
+Brazil,0.011573093181508272,36th,All,Average monthly wage,5.0
+Brazil,0.6060209424083769,11th,All,Business Confidence,6.0
+Brazil,0.3389413883034803,40th,Happiness and Freedom Score,,6.5
+Brazil,0.0,36th,Happiness and Freedom,Strength of legal rights index (0=weak to 12=strong),7.0
+Brazil,0.28478964401294504,38th,Happiness and Freedom,Personal freedom score,8.0
+Brazil,0.5559250302297459,23rd,Happiness and Freedom,Happiness index,9.0
+Brazil,0.41714285714285726,39th,Happiness and Freedom,Economic freedom score,10.0
+Brazil,0.04545454545454575,38th,Happiness and Freedom,Depression rate,11.0
+Brazil,0.8282442748091603,8th,Happiness and Freedom,"Suicide mortality rate (per 100,000 population)",12.0
+Brazil,0.19414544211170098,40th,Education & Healthcare Score,,12.5
+Brazil,0.0,41st,Education & Healthcare,International Education Database,13.0
+Brazil,0.563196912497872,6th,Education & Healthcare,"Government expenditure on education, total (% of government expenditure)",14.0
+Brazil,0.758241760827281,37th,Education & Healthcare,Unemployment with advanced education (% of total labor force with advanced education),15.0
+Brazil,0.746987850752796,13th,Education & Healthcare,"School enrollment, tertiary (% gross)",16.0
+Brazil,0.08374832174367597,39th,Education & Healthcare,"Share of youth not in education, employment or training, total (% of youth population)",17.0
+Brazil,0.05901930330596857,38th,Education & Healthcare,CEO health care index,18.0
+Brazil,0.06,39th,Education & Healthcare,Legatum health care ranking,19.0
+Brazil,0.2051282051282053,33rd,Education & Healthcare,Numbeo health index,20.0
+Brazil,0.29691788051509393,35th,Education & Healthcare,"Physicians (per 1,000 people)",21.0
+Brazil,0.25526468877254216,-,Education & Healthcare,Hospital Beds,22.0
+Brazil,0.46805135713341384,39th,"Climate, Safety and Security Score",,22.5
+Brazil,0.42888643880926125,38th,"Climate, Safety and Security",Average precipitation in depth (mm per year),23.0
+Brazil,0.9688571104563835,4th,"Climate, Safety and Security",CO2 emissions (metric tons per capita),24.0
+Brazil,0.7238824401086689,30th,"Climate, Safety and Security",Vulnerability and exposure to natural hazards,25.0
+Brazil,0.0,41st,"Climate, Safety and Security","Intentional homicides (per 100,000 people)",26.0
+Brazil,0.03472222222222221,40th,"Climate, Safety and Security","Mortality caused by road traffic injury (per 100,000 population)",27.0
+Brazil,0.10754336906388144,23rd,"Climate, Safety and Security",Armed forces personnel (% of total labor force),28.0
+Brazil,0.5238339140670725,38th,Poverty and Equality Score,,28.5
+Brazil,0.0,37th,Poverty and Equality,Poverty gap at $2.15 a day (2017 PPP) (%),29.0
+Brazil,0.9104573079064342,30th,Poverty and Equality,People using at least basic drinking water services (% of population),30.0
+Brazil,0.44720496894409933,38th,Poverty and Equality,Prevalence of moderate or severe food insecurity in the population (%),31.0
+Brazil,1.0,1st,Poverty and Equality,Access to electricity (% of population),32.0
+Brazil,0.521424080767899,33rd,Poverty and Equality,Individuals using the Internet (% of population),33.0
+Brazil,0.7132545931758529,20th,Poverty and Equality,Gender wage gap (%),34.0
+Brazil,0.5789473684210527,33rd,Poverty and Equality,Women Business and the Law Index Score (scale 1-100),35.0
+Brazil,0.13996870998603386,39th,Poverty and Equality,Proportion of seats held by women in national parliaments (%),36.0
+Brazil,0.5829721194025833,15th,Final Cost of living Score,,36.5
+Brazil,0.35813953488372086,37th,All,Price to Income Ratio (%),37.0
+Brazil,0.14814814814814817,37th,All,Mortgage affordability index,38.0
+Brazil,0.9269911504424778,3rd,All,Rent cost index (points),39.0
+Brazil,0.6272630457933972,9th,All,Personal Income Tax Rate,40.0
+Brazil,0.9580973952434881,3rd,All,Groceries cost index (points),41.0
+Brazil,0.8738170347003155,4th,All,Restaurant cost index (points),42.0
+Brazil,0.1659367300151418,41st,Final Growth and Development Score,,42.5
+Brazil,0.00437216803569677,40th,All,Ease of doing business score (0 = lowest performance to 100 = best performance),43.0
+Brazil,0.04899452181827549,19th,All,"International tourism, number of arrivals",44.0
+Brazil,0.06134186190102884,20th,All,Net migration,45.0
+Brazil,0.1033532978700503,40th,All,Exports of goods and services (annual % growth),46.0
+Brazil,0.29227557411273486,26th,All,Full Year GDP Growth,47.0
+Brazil,0.799015444411228,15th,All,Population growth (annual %),48.0
+Brazil,0.3599080109367405,40th,Final Score,,
+Brazil,0.3453921064816583,40th,Final Quality of Life Score,,

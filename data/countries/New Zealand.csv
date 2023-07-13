@@ -1,0 +1,58 @@
+country,subindex_score,rank,area,indicator,id
+New Zealand,0.5959708916217749,15th,Final Economy Score,,0.5
+New Zealand,0.35306955634215725,17th,All,GDP per Capita PPP,1.0
+New Zealand,0.8939393939393939,5th,All,Unemployment Rate,2.0
+New Zealand,0.9478811495372625,18th,All,Inflation Rate,3.0
+New Zealand,0.7182017543859649,14th,All,Local purchasing power index (points),4.0
+New Zealand,0.6134971034276473,4th,All,Average monthly wage,5.0
+New Zealand,0.0,36th,All,Business Confidence,6.0
+New Zealand,0.8329553032894818,1st,Happiness and Freedom Score,,6.5
+New Zealand,1.0,1st,Happiness and Freedom,Strength of legal rights index (0=weak to 12=strong),7.0
+New Zealand,0.8834951456310681,9th,Happiness and Freedom,Personal freedom score,8.0
+New Zealand,0.8603385731559856,7th,Happiness and Freedom,Happiness index,9.0
+New Zealand,0.9714285714285715,2nd,Happiness and Freedom,Economic freedom score,10.0
+New Zealand,0.2272727272727273,33rd,Happiness and Freedom,Depression rate,11.0
+New Zealand,0.6717557251908397,18th,Happiness and Freedom,"Suicide mortality rate (per 100,000 population)",12.0
+New Zealand,0.6285421850855092,16th,Education & Healthcare Score,,12.5
+New Zealand,0.54,22nd,Education & Healthcare,International Education Database,13.0
+New Zealand,0.46433354230599266,9th,Education & Healthcare,"Government expenditure on education, total (% of government expenditure)",14.0
+New Zealand,0.9383830437747216,10th,Education & Healthcare,Unemployment with advanced education (% of total labor force with advanced education),15.0
+New Zealand,0.8231816349597613,6th,Education & Healthcare,"School enrollment, tertiary (% gross)",16.0
+New Zealand,0.6043458475081669,22nd,Education & Healthcare,"Share of youth not in education, employment or training, total (% of youth population)",17.0
+New Zealand,0.4706012868870646,14th,Education & Healthcare,CEO health care index,18.0
+New Zealand,0.88,7th,Education & Healthcare,Legatum health care ranking,19.0
+New Zealand,0.6153846153846154,20th,Education & Healthcare,Numbeo health index,20.0
+New Zealand,0.5269685454929279,18th,Education & Healthcare,"Physicians (per 1,000 people)",21.0
+New Zealand,0.13089005235602094,23rd,Education & Healthcare,Hospital Beds,22.0
+New Zealand,0.6065047950412801,32nd,"Climate, Safety and Security Score",,22.5
+New Zealand,0.4395442851892687,36th,"Climate, Safety and Security",Average precipitation in depth (mm per year),23.0
+New Zealand,0.6227510163769299,26th,"Climate, Safety and Security",CO2 emissions (metric tons per capita),24.0
+New Zealand,0.701654729562855,31st,"Climate, Safety and Security",Vulnerability and exposure to natural hazards,25.0
+New Zealand,0.8926622856447308,30th,"Climate, Safety and Security","Intentional homicides (per 100,000 people)",26.0
+New Zealand,0.47916666666666663,30th,"Climate, Safety and Security","Mortality caused by road traffic injury (per 100,000 population)",27.0
+New Zealand,0.01054620582497857,40th,"Climate, Safety and Security",Armed forces personnel (% of total labor force),28.0
+New Zealand,0.8922732293053808,10th,Poverty and Equality Score,,28.5
+New Zealand,0.8635778635778636,-,Poverty and Equality,Poverty gap at $2.15 a day (2017 PPP) (%),29.0
+New Zealand,0.999999736309647,5th,Poverty and Equality,People using at least basic drinking water services (% of population),30.0
+New Zealand,0.7453416149068323,32nd,Poverty and Equality,Prevalence of moderate or severe food insecurity in the population (%),31.0
+New Zealand,1.0,1st,Poverty and Equality,Access to electricity (% of population),32.0
+New Zealand,0.7967232209841311,13th,Poverty and Equality,Individuals using the Internet (% of population),33.0
+New Zealand,0.8195538057742782,10th,Poverty and Equality,Gender wage gap (%),34.0
+New Zealand,0.9298245614035088,10th,Poverty and Equality,Women Business and the Law Index Score (scale 1-100),35.0
+New Zealand,1.0,1st,Poverty and Equality,Proportion of seats held by women in national parliaments (%),36.0
+New Zealand,0.5097188123371653,32nd,Final Cost of living Score,,36.5
+New Zealand,0.7906976744186046,11th,All,Price to Income Ratio (%),37.0
+New Zealand,0.5185185185185185,17th,All,Mortgage affordability index,38.0
+New Zealand,0.40486725663716816,35th,All,Rent cost index (points),39.0
+New Zealand,0.382321618743344,20th,All,Personal Income Tax Rate,40.0
+New Zealand,0.5039637599093998,36th,All,Groceries cost index (points),41.0
+New Zealand,0.41850683491062035,34th,All,Restaurant cost index (points),42.0
+New Zealand,0.5110809747352064,7th,Final Growth and Development Score,,42.5
+New Zealand,1.0,1st,All,Ease of doing business score (0 = lowest performance to 100 = best performance),43.0
+New Zealand,0.0029966856141917537,39th,All,"International tourism, number of arrivals",44.0
+New Zealand,0.09229029505421699,14th,All,Net migration,45.0
+New Zealand,0.24728085931632332,35th,All,Exports of goods and services (annual % growth),46.0
+New Zealand,0.4732080723729993,7th,All,Full Year GDP Growth,47.0
+New Zealand,0.818829077007142,10th,All,Population growth (annual %),48.0
+New Zealand,0.6513726601349451,8th,Final Score,,
+New Zealand,0.7608499022066497,4th,Final Quality of Life Score,,

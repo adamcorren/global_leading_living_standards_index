@@ -1,0 +1,58 @@
+country,subindex_score,rank,area,indicator,id
+United States,0.7781774786908359,3rd,Final Economy Score,,0.5
+United States,0.5784273274121045,4th,All,GDP per Capita PPP,1.0
+United States,0.8939393939393939,5th,All,Unemployment Rate,2.0
+United States,0.9644422795908427,11th,All,Inflation Rate,3.0
+United States,0.9671052631578947,2nd,All,Local purchasing power index (points),4.0
+United States,0.7663974147120363,3rd,All,Average monthly wage,5.0
+United States,0.5948952879581152,12th,All,Business Confidence,6.0
+United States,0.6851631395332993,12th,Happiness and Freedom Score,,6.5
+United States,0.9,2nd,Happiness and Freedom,Strength of legal rights index (0=weak to 12=strong),7.0
+United States,0.6666666666666667,25th,Happiness and Freedom,Personal freedom score,8.0
+United States,0.7348851269649336,17th,Happiness and Freedom,Happiness index,9.0
+United States,0.8857142857142858,5th,Happiness and Freedom,Economic freedom score,10.0
+United States,0.0,39th,Happiness and Freedom,Depression rate,11.0
+United States,0.47709923664122134,34th,Happiness and Freedom,"Suicide mortality rate (per 100,000 population)",12.0
+United States,0.5238194451863152,24th,Education & Healthcare Score,,12.5
+United States,0.48,25th,Education & Healthcare,International Education Database,13.0
+United States,0.34776172400726113,15th,Education & Healthcare,"Government expenditure on education, total (% of government expenditure)",14.0
+United States,0.912872845441495,19th,Education & Healthcare,Unemployment with advanced education (% of total labor force with advanced education),15.0
+United States,0.7318321158364193,14th,Education & Healthcare,"School enrollment, tertiary (% gross)",16.0
+United States,0.5898596678710146,24th,Education & Healthcare,"Share of youth not in education, employment or training, total (% of youth population)",17.0
+United States,0.2655868648768582,23rd,Education & Healthcare,CEO health care index,18.0
+United States,0.7,14th,Education & Healthcare,Legatum health care ranking,19.0
+United States,0.5384615384615383,23rd,Education & Healthcare,Numbeo health index,20.0
+United States,0.3468088100767011,30th,Education & Healthcare,"Physicians (per 1,000 people)",21.0
+United States,0.14223385689354273,22nd,Education & Healthcare,Hospital Beds,22.0
+United States,0.4147720320968553,41st,"Climate, Safety and Security Score",,22.5
+United States,0.8133039323778023,19th,"Climate, Safety and Security",Average precipitation in depth (mm per year),23.0
+United States,0.054829948897945235,39th,"Climate, Safety and Security",CO2 emissions (metric tons per capita),24.0
+United States,0.46258335391454686,39th,"Climate, Safety and Security",Vulnerability and exposure to natural hazards,25.0
+United States,0.7177830044601752,36th,"Climate, Safety and Security","Intentional homicides (per 100,000 people)",26.0
+United States,0.26388888888888895,33rd,"Climate, Safety and Security","Mortality caused by road traffic injury (per 100,000 population)",27.0
+United States,0.13755153124198063,21st,"Climate, Safety and Security",Armed forces personnel (% of total labor force),28.0
+United States,0.8211951829256584,27th,Poverty and Equality Score,,28.5
+United States,0.9047619047619048,18th,Poverty and Equality,Poverty gap at $2.15 a day (2017 PPP) (%),29.0
+United States,0.9846431195463058,23rd,Poverty and Equality,People using at least basic drinking water services (% of population),30.0
+United States,0.8757763975155279,22nd,Poverty and Equality,Prevalence of moderate or severe food insecurity in the population (%),31.0
+United States,1.0,1st,Poverty and Equality,Access to electricity (% of population),32.0
+United States,0.7804610864686863,16th,Poverty and Equality,Individuals using the Internet (% of population),33.0
+United States,0.48523622047244086,32nd,Poverty and Equality,Gender wage gap (%),34.0
+United States,0.7543859649122807,27th,Poverty and Equality,Women Business and the Law Index Score (scale 1-100),35.0
+United States,0.4551201012173559,26th,Poverty and Equality,Proportion of seats held by women in national parliaments (%),36.0
+United States,0.5884252195911739,13th,Final Cost of living Score,,36.5
+United States,1.0,1st,All,Price to Income Ratio (%),37.0
+United States,1.0,1st,All,Mortgage affordability index,38.0
+United States,0.06858407079646023,40th,All,Rent cost index (points),39.0
+United States,0.42492012779552724,18th,All,Personal Income Tax Rate,40.0
+United States,0.48131370328425827,37th,All,Groceries cost index (points),41.0
+United States,0.4069400630914827,36th,All,Restaurant cost index (points),42.0
+United States,0.595112754897402,2nd,Final Growth and Development Score,,42.5
+United States,0.9004439786297517,4th,All,Ease of doing business score (0 = lowest performance to 100 = best performance),43.0
+United States,0.3811543679483437,3rd,All,"International tourism, number of arrivals",44.0
+United States,1.0,1st,All,Net migration,45.0
+United States,0.2920057175492076,32nd,All,Exports of goods and services (annual % growth),46.0
+United States,0.23660403618649967,35th,All,Full Year GDP Growth,47.0
+United States,0.7222730872658704,27th,All,Population growth (annual %),48.0
+United States,0.6486004506157407,9th,Final Score,,
+United States,0.6369273291640315,21st,Final Quality of Life Score,,

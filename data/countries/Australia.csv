@@ -1,0 +1,58 @@
+country,subindex_score,rank,area,indicator,id
+Australia,0.6583984304999724,9th,Final Economy Score,,0.5
+Australia,0.42754457208625596,11th,All,GDP per Capita PPP,1.0
+Australia,0.8863636363636364,7th,All,Unemployment Rate,2.0
+Australia,0.9449585971748661,20th,All,Inflation Rate,3.0
+Australia,0.9144736842105263,3rd,All,Local purchasing power index (points),4.0
+Australia,0.4528256792759082,10th,All,Average monthly wage,5.0
+Australia,0.28664921465968585,23rd,All,Business Confidence,6.0
+Australia,0.7510497021180519,4th,Happiness and Freedom Score,,6.5
+Australia,0.9,2nd,Happiness and Freedom,Strength of legal rights index (0=weak to 12=strong),7.0
+Australia,0.8058252427184467,12th,Happiness and Freedom,Personal freedom score,8.0
+Australia,0.8364570737605803,10th,Happiness and Freedom,Happiness index,9.0
+Australia,0.9057142857142857,4th,Happiness and Freedom,Economic freedom score,10.0
+Australia,0.0,39th,Happiness and Freedom,Depression rate,11.0
+Australia,0.6145038167938932,26th,Happiness and Freedom,"Suicide mortality rate (per 100,000 population)",12.0
+Australia,0.711648271093262,7th,Education & Healthcare Score,,12.5
+Australia,0.8,11th,Education & Healthcare,International Education Database,13.0
+Australia,0.4636823506235303,10th,Education & Healthcare,"Government expenditure on education, total (% of government expenditure)",14.0
+Australia,0.892857137973761,23rd,Education & Healthcare,Unemployment with advanced education (% of total labor force with advanced education),15.0
+Australia,0.7114171362553162,17th,Education & Healthcare,"School enrollment, tertiary (% gross)",16.0
+Australia,0.6985060997580782,13th,Education & Healthcare,"Share of youth not in education, employment or training, total (% of youth population)",17.0
+Australia,0.7619258930552473,5th,Education & Healthcare,CEO health care index,18.0
+Australia,0.72,13th,Education & Healthcare,Legatum health care ranking,19.0
+Australia,0.7532051282051281,11th,Education & Healthcare,Numbeo health index,20.0
+Australia,0.6168461051298291,11th,Education & Healthcare,"Physicians (per 1,000 people)",21.0
+Australia,0.23298429319371725,13th,Education & Healthcare,Hospital Beds,22.0
+Australia,0.5184253194445728,36th,"Climate, Safety and Security Score",,22.5
+Australia,0.8798235942668137,3rd,"Climate, Safety and Security",Average precipitation in depth (mm per year),23.0
+Australia,0.012816389843545162,40th,"Climate, Safety and Security",CO2 emissions (metric tons per capita),24.0
+Australia,0.49641886885650777,38th,"Climate, Safety and Security",Vulnerability and exposure to natural hazards,25.0
+Australia,0.9722860946291619,15th,"Climate, Safety and Security","Intentional homicides (per 100,000 people)",26.0
+Australia,0.8055555555555556,14th,"Climate, Safety and Security","Mortality caused by road traffic injury (per 100,000 population)",27.0
+Australia,0.039412469108421444,31st,"Climate, Safety and Security",Armed forces personnel (% of total labor force),28.0
+Australia,0.8602928837846349,19th,Poverty and Equality Score,,28.5
+Australia,0.8635778635778636,-,Poverty and Equality,Poverty gap at $2.15 a day (2017 PPP) (%),29.0
+Australia,0.9960193990083153,17th,Poverty and Equality,People using at least basic drinking water services (% of population),30.0
+Australia,0.7991718426501035,29th,Poverty and Equality,Prevalence of moderate or severe food insecurity in the population (%),31.0
+Australia,1.0,1st,Poverty and Equality,Access to electricity (% of population),32.0
+Australia,0.7452264616852219,19th,Poverty and Equality,Individuals using the Internet (% of population),33.0
+Australia,0.7142388451443569,19th,Poverty and Equality,Gender wage gap (%),34.0
+Australia,0.9122807017543859,17th,Poverty and Equality,Women Business and the Law Index Score (scale 1-100),35.0
+Australia,0.5431455374145057,20th,Poverty and Equality,Proportion of seats held by women in national parliaments (%),36.0
+Australia,0.4799531191408545,37th,Final Cost of living Score,,36.5
+Australia,0.8604651162790697,6th,All,Price to Income Ratio (%),37.0
+Australia,0.6296296296296297,9th,All,Mortgage affordability index,38.0
+Australia,0.24778761061946908,38th,All,Rent cost index (points),39.0
+Australia,0.2545260915867945,26th,All,Personal Income Tax Rate,40.0
+Australia,0.45979614949037384,38th,All,Groceries cost index (points),41.0
+Australia,0.455310199789695,29th,All,Restaurant cost index (points),42.0
+Australia,0.44384526838988214,16th,Final Growth and Development Score,,42.5
+Australia,0.8003970055180815,9th,All,Ease of doing business score (0 = lowest performance to 100 = best performance),43.0
+Australia,0.010140646734557194,33rd,All,"International tourism, number of arrivals",44.0
+Australia,0.230536689259971,6th,All,Net migration,45.0
+Australia,0.505706425502184,18th,All,Exports of goods and services (annual % growth),46.0
+Australia,0.278357689631176,27th,All,Full Year GDP Growth,47.0
+Australia,0.7240218798509558,26th,All,Population growth (annual %),48.0
+Australia,0.6401619104024421,13th,Final Score,,
+Australia,0.7378154708765836,9th,Final Quality of Life Score,,

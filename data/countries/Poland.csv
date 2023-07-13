@@ -1,0 +1,58 @@
+country,subindex_score,rank,area,indicator,id
+Poland,0.4568766038453017,24th,Final Economy Score,,0.5
+Poland,0.26621642163782056,26th,All,GDP per Capita PPP,1.0
+Poland,0.7424242424242424,16th,All,Unemployment Rate,2.0
+Poland,0.8699464198733561,37th,All,Inflation Rate,3.0
+Poland,0.40021929824561403,23rd,All,Local purchasing power index (points),4.0
+Poland,0.1640511251251809,25th,All,Average monthly wage,5.0
+Poland,0.21596858638743455,32nd,All,Business Confidence,6.0
+Poland,0.541958595153274,26th,Happiness and Freedom Score,,6.5
+Poland,0.5,12th,Happiness and Freedom,Strength of legal rights index (0=weak to 12=strong),7.0
+Poland,0.5889967637540453,30th,Happiness and Freedom,Personal freedom score,8.0
+Poland,0.5202539298669892,26th,Happiness and Freedom,Happiness index,9.0
+Poland,0.5885714285714286,37th,Happiness and Freedom,Economic freedom score,10.0
+Poland,0.363636363636364,23rd,Happiness and Freedom,Depression rate,11.0
+Poland,0.6603053435114504,19th,Happiness and Freedom,"Suicide mortality rate (per 100,000 population)",12.0
+Poland,0.42896135758266324,26th,Education & Healthcare Score,,12.5
+Poland,0.64,18th,Education & Healthcare,International Education Database,13.0
+Poland,0.21816513362356232,25th,Education & Healthcare,"Government expenditure on education, total (% of government expenditure)",14.0
+Poland,0.9839089495756822,3rd,Education & Healthcare,Unemployment with advanced education (% of total labor force with advanced education),15.0
+Poland,0.7826066305249587,9th,Education & Healthcare,"School enrollment, tertiary (% gross)",16.0
+Poland,0.6351290216771344,19th,Education & Healthcare,"Share of youth not in education, employment or training, total (% of youth population)",17.0
+Poland,0.11914799201242522,33rd,Education & Healthcare,CEO health care index,18.0
+Poland,0.42,26th,Education & Healthcare,Legatum health care ranking,19.0
+Poland,0.18589743589743601,34th,Education & Healthcare,Numbeo health index,20.0
+Poland,0.29948631341918236,34th,Education & Healthcare,"Physicians (per 1,000 people)",21.0
+Poland,0.43804537521815007,5th,Education & Healthcare,Hospital Beds,22.0
+Poland,0.7332881804476153,25th,"Climate, Safety and Security Score",,22.5
+Poland,0.8555678059536935,8th,"Climate, Safety and Security",Average precipitation in depth (mm per year),23.0
+Poland,0.5544507359600435,32nd,"Climate, Safety and Security",CO2 emissions (metric tons per capita),24.0
+Poland,0.9096073104470239,18th,"Climate, Safety and Security",Vulnerability and exposure to natural hazards,25.0
+Poland,0.979666082875257,10th,"Climate, Safety and Security","Intentional homicides (per 100,000 people)",26.0
+Poland,0.49305555555555547,29th,"Climate, Safety and Security","Mortality caused by road traffic injury (per 100,000 population)",27.0
+Poland,0.18720287395523125,12th,"Climate, Safety and Security",Armed forces personnel (% of total labor force),28.0
+Poland,0.8785738102492573,15th,Poverty and Equality Score,,28.5
+Poland,1.0,1st,Poverty and Equality,Poverty gap at $2.15 a day (2017 PPP) (%),29.0
+Poland,0.9955948219436768,18th,Poverty and Equality,People using at least basic drinking water services (% of population),30.0
+Poland,0.8923395445134575,19th,Poverty and Equality,Prevalence of moderate or severe food insecurity in the population (%),31.0
+Poland,1.0,1st,Poverty and Equality,Access to electricity (% of population),32.0
+Poland,0.630711440593063,28th,Poverty and Equality,Individuals using the Internet (% of population),33.0
+Poland,0.753280839895013,16th,Poverty and Equality,Gender wage gap (%),34.0
+Poland,0.8245614035087719,23rd,Poverty and Equality,Women Business and the Law Index Score (scale 1-100),35.0
+Poland,0.47215437119556564,24th,Poverty and Equality,Proportion of seats held by women in national parliaments (%),36.0
+Poland,0.58797896358171,14th,Final Cost of living Score,,36.5
+Poland,0.5906976744186045,31st,All,Price to Income Ratio (%),37.0
+Poland,0.2592592592592593,31st,All,Mortgage affordability index,38.0
+Poland,0.7566371681415929,14th,All,Rent cost index (points),39.0
+Poland,0.5314164004259851,12th,All,Personal Income Tax Rate,40.0
+Poland,0.941109852774632,5th,All,Groceries cost index (points),41.0
+Poland,0.7939011566771819,8th,All,Restaurant cost index (points),42.0
+Poland,0.5492161856812232,4th,Final Growth and Development Score,,42.5
+Poland,0.6265375061953433,23rd,All,Ease of doing business score (0 = lowest performance to 100 = best performance),43.0
+Poland,0.7544778554378252,2nd,All,"International tourism, number of arrivals",44.0
+Poland,0.02085429053093109,34th,All,Net migration,45.0
+Poland,0.5948597779545032,10th,All,Exports of goods and services (annual % growth),46.0
+Poland,0.43145441892832287,13th,All,Full Year GDP Growth,47.0
+Poland,0.6249707210084715,33rd,All,Population growth (annual %),48.0
+Poland,0.5571908213073415,22nd,Final Score,,
+Poland,0.5945154254307217,27th,Final Quality of Life Score,,

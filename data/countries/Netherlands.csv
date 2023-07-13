@@ -1,0 +1,58 @@
+country,subindex_score,rank,area,indicator,id
+Netherlands,0.6753384183433724,7th,Final Economy Score,,0.5
+Netherlands,0.5018458598449478,6th,All,GDP per Capita PPP,1.0
+Netherlands,0.8863636363636364,7th,All,Unemployment Rate,2.0
+Netherlands,0.962493911349245,13th,All,Inflation Rate,3.0
+Netherlands,0.8804824561403508,4th,All,Local purchasing power index (points),4.0
+Netherlands,0.4043720574241253,14th,All,Average monthly wage,5.0
+Netherlands,0.30628272251308897,20th,All,Business Confidence,6.0
+Netherlands,0.6448906799290778,15th,Happiness and Freedom Score,,6.5
+Netherlands,0.0,36th,Happiness and Freedom,Strength of legal rights index (0=weak to 12=strong),7.0
+Netherlands,0.8932038834951456,8th,Happiness and Freedom,Personal freedom score,8.0
+Netherlands,0.9150544135429264,4th,Happiness and Freedom,Happiness index,9.0
+Netherlands,0.8228571428571431,11th,Happiness and Freedom,Economic freedom score,10.0
+Netherlands,0.5454545454545454,7th,Happiness and Freedom,Depression rate,11.0
+Netherlands,0.6412213740458015,21st,Happiness and Freedom,"Suicide mortality rate (per 100,000 population)",12.0
+Netherlands,0.7599905619454221,2nd,Education & Healthcare Score,,12.5
+Netherlands,0.96,3rd,Education & Healthcare,International Education Database,13.0
+Netherlands,0.24160978537447772,23rd,Education & Healthcare,"Government expenditure on education, total (% of government expenditure)",14.0
+Netherlands,0.9383830437747216,10th,Education & Healthcare,Unemployment with advanced education (% of total labor force with advanced education),15.0
+Netherlands,0.4890992690237487,34th,Education & Healthcare,"School enrollment, tertiary (% gross)",16.0
+Netherlands,0.9108193716891329,3rd,Education & Healthcare,"Share of youth not in education, employment or training, total (% of youth population)",17.0
+Netherlands,0.5881961393388062,10th,Education & Healthcare,CEO health care index,18.0
+Netherlands,0.9,6th,Education & Healthcare,Legatum health care ranking,19.0
+Netherlands,0.8108974358974357,7th,Education & Healthcare,Numbeo health index,20.0
+Netherlands,0.6080852860460206,12th,Education & Healthcare,"Physicians (per 1,000 people)",21.0
+Netherlands,0.1518324607329843,18th,Education & Healthcare,Hospital Beds,22.0
+Netherlands,0.7449116888633953,24th,"Climate, Safety and Security Score",,22.5
+Netherlands,0.7901506798970966,20th,"Climate, Safety and Security",Average precipitation in depth (mm per year),23.0
+Netherlands,0.5064107475626756,35th,"Climate, Safety and Security",CO2 emissions (metric tons per capita),24.0
+Netherlands,0.924178809582613,16th,"Climate, Safety and Security",Vulnerability and exposure to natural hazards,25.0
+Netherlands,0.9831967445422709,7th,"Climate, Safety and Security","Intentional homicides (per 100,000 people)",26.0
+Netherlands,0.8680555555555556,12th,"Climate, Safety and Security","Mortality caused by road traffic injury (per 100,000 population)",27.0
+Netherlands,0.03915924022356882,32nd,"Climate, Safety and Security",Armed forces personnel (% of total labor force),28.0
+Netherlands,0.9177005064868579,5th,Poverty and Equality Score,,28.5
+Netherlands,1.0,1st,Poverty and Equality,Poverty gap at $2.15 a day (2017 PPP) (%),29.0
+Netherlands,0.9999994713008449,10th,Poverty and Equality,People using at least basic drinking water services (% of population),30.0
+Netherlands,0.9544513457556936,7th,Poverty and Equality,Prevalence of moderate or severe food insecurity in the population (%),31.0
+Netherlands,1.0,1st,Poverty and Equality,Access to electricity (% of population),32.0
+Netherlands,0.8117109497481779,11th,Poverty and Equality,Individuals using the Internet (% of population),33.0
+Netherlands,0.6043307086614172,25th,Poverty and Equality,Gender wage gap (%),34.0
+Netherlands,0.9298245614035088,10th,Poverty and Equality,Women Business and the Law Index Score (scale 1-100),35.0
+Netherlands,0.750987065882494,15th,Poverty and Equality,Proportion of seats held by women in national parliaments (%),36.0
+Netherlands,0.5304612738844027,23rd,Final Cost of living Score,,36.5
+Netherlands,0.8744186046511628,4th,All,Price to Income Ratio (%),37.0
+Netherlands,0.7777777777777779,4th,All,Mortgage affordability index,38.0
+Netherlands,0.37168141592920356,36th,All,Rent cost index (points),39.0
+Netherlands,0.15867944621938235,34th,All,Personal Income Tax Rate,40.0
+Netherlands,0.6398640996602492,28th,All,Groceries cost index (points),41.0
+Netherlands,0.44058885383806523,31st,All,Restaurant cost index (points),42.0
+Netherlands,0.40801890894370274,23rd,Final Growth and Development Score,,42.5
+Netherlands,0.6165580578308778,25th,All,Ease of doing business score (0 = lowest performance to 100 = best performance),43.0
+Netherlands,0.05682540227713761,18th,All,"International tourism, number of arrivals",44.0
+Netherlands,0.12562351276163256,11th,All,Net migration,45.0
+Netherlands,0.385941955460861,23rd,All,Exports of goods and services (annual % growth),46.0
+Netherlands,0.40361864996520525,17th,All,Full Year GDP Growth,47.0
+Netherlands,0.7980613432372143,16th,All,Population growth (annual %),48.0
+Netherlands,0.6514810717453875,7th,Final Score,,
+Netherlands,0.7439847107389689,7th,Final Quality of Life Score,,

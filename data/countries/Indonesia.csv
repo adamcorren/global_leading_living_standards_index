@@ -1,0 +1,58 @@
+country,subindex_score,rank,area,indicator,id
+Indonesia,0.3672870353719195,34th,Final Economy Score,,0.5
+Indonesia,0.015852678668374993,40th,All,GDP per Capita PPP,1.0
+Indonesia,0.7386363636363635,21st,All,Unemployment Rate,2.0
+Indonesia,0.9709693132001949,7th,All,Inflation Rate,3.0
+Indonesia,0.0,41st,All,Local purchasing power index (points),4.0
+Indonesia,0.3326196520546628,-,All,Average monthly wage,5.0
+Indonesia,0.35896596858638735,18th,All,Business Confidence,6.0
+Indonesia,0.45946727109387797,35th,Happiness and Freedom Score,,6.5
+Indonesia,0.4,19th,Happiness and Freedom,Strength of legal rights index (0=weak to 12=strong),7.0
+Indonesia,0.042071197411003215,40th,Happiness and Freedom,Personal freedom score,8.0
+Indonesia,0.22097944377267228,39th,Happiness and Freedom,Happiness index,9.0
+Indonesia,0.6342857142857143,34th,Happiness and Freedom,Economic freedom score,10.0
+Indonesia,1.0,1st,Happiness and Freedom,Depression rate,11.0
+Indonesia,1.0,1st,Happiness and Freedom,"Suicide mortality rate (per 100,000 population)",12.0
+Indonesia,0.2698111881069452,35th,Education & Healthcare Score,,12.5
+Indonesia,0.28,33rd,Education & Healthcare,International Education Database,13.0
+Indonesia,0.7712495652401026,4th,Education & Healthcare,"Government expenditure on education, total (% of government expenditure)",14.0
+Indonesia,0.879513351742001,27th,Education & Healthcare,Unemployment with advanced education (% of total labor force with advanced education),15.0
+Indonesia,0.4264199754691796,35th,Education & Healthcare,"School enrollment, tertiary (% gross)",16.0
+Indonesia,0.12584874835240123,37th,Education & Healthcare,"Share of youth not in education, employment or training, total (% of youth population)",17.0
+Indonesia,0.11759485245174182,34th,Education & Healthcare,CEO health care index,18.0
+Indonesia,0.18,36th,Education & Healthcare,Legatum health care ranking,19.0
+Indonesia,0.2788461538461539,32nd,Education & Healthcare,Numbeo health index,20.0
+Indonesia,0.0,39th,Education & Healthcare,"Physicians (per 1,000 people)",21.0
+Indonesia,0.002617801047120421,29th,Education & Healthcare,Hospital Beds,22.0
+Indonesia,0.43294650163306564,40th,"Climate, Safety and Security Score",,22.5
+Indonesia,0.08305769937522967,39th,"Climate, Safety and Security",Average precipitation in depth (mm per year),23.0
+Indonesia,0.9508577888349684,5th,"Climate, Safety and Security",CO2 emissions (metric tons per capita),24.0
+Indonesia,0.0,41st,"Climate, Safety and Security",Vulnerability and exposure to natural hazards,25.0
+Indonesia,0.9643877207528114,22nd,"Climate, Safety and Security","Intentional homicides (per 100,000 people)",26.0
+Indonesia,0.36111111111111105,32nd,"Climate, Safety and Security","Mortality caused by road traffic injury (per 100,000 population)",27.0
+Indonesia,0.054805186668756015,27th,"Climate, Safety and Security",Armed forces personnel (% of total labor force),28.0
+Indonesia,0.3798042351589198,41st,Poverty and Equality Score,,28.5
+Indonesia,0.7619047619047619,29th,Poverty and Equality,Poverty gap at $2.15 a day (2017 PPP) (%),29.0
+Indonesia,0.0,41st,Poverty and Equality,People using at least basic drinking water services (% of population),30.0
+Indonesia,0.9213250517598344,14th,Poverty and Equality,Prevalence of moderate or severe food insecurity in the population (%),31.0
+Indonesia,0.07445650972290802,40th,Poverty and Equality,Access to electricity (% of population),32.0
+Indonesia,0.0,41st,Poverty and Equality,Individuals using the Internet (% of population),33.0
+Indonesia,0.6738754009915426,-,Poverty and Equality,Gender wage gap (%),34.0
+Indonesia,0.0,40th,Poverty and Equality,Women Business and the Law Index Score (scale 1-100),35.0
+Indonesia,0.2878266788509438,36th,Poverty and Equality,Proportion of seats held by women in national parliaments (%),36.0
+Indonesia,0.5423399697874253,20th,Final Cost of living Score,,36.5
+Indonesia,0.34883720930232553,38th,All,Price to Income Ratio (%),37.0
+Indonesia,0.14814814814814817,37th,All,Mortgage affordability index,38.0
+Indonesia,0.9269911504424778,3rd,All,Rent cost index (points),39.0
+Indonesia,0.46751863684771033,14th,All,Personal Income Tax Rate,40.0
+Indonesia,0.9150622876557192,7th,All,Groceries cost index (points),41.0
+Indonesia,0.9831756046267087,2nd,All,Restaurant cost index (points),42.0
+Indonesia,0.31872356167662486,35th,Final Growth and Development Score,,42.5
+Indonesia,0.38187341429780947,33rd,All,Ease of doing business score (0 = lowest performance to 100 = best performance),43.0
+Indonesia,0.029245590836496024,26th,All,"International tourism, number of arrivals",44.0
+Indonesia,0.0,41st,All,Net migration,45.0
+Indonesia,0.23305738761542297,36th,All,Exports of goods and services (annual % growth),46.0
+Indonesia,0.4599860821155184,10th,All,Full Year GDP Growth,47.0
+Indonesia,0.8300946403533683,9th,All,Population growth (annual %),48.0
+Indonesia,0.39157921791245065,39th,Final Score,,
+Indonesia,0.3839857620647253,39th,Final Quality of Life Score,,
