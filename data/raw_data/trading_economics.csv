@@ -1,0 +1,329 @@
+country,indicator,better_higher_lower,latest_value,year,metric
+Australia,Business Confidence,higher,0,2023,points
+Austria,Business Confidence,higher,-7.5,2023,points
+Belgium,Business Confidence,higher,-7.8,2023,points
+Brazil,Business Confidence,higher,48.8,2023,points
+Bulgaria,Business Confidence,higher,24.8,2023,points
+Canada,Business Confidence,higher,56.8,2023,points
+Chile,Business Confidence,higher,41.4,2023,points
+Croatia,Business Confidence,higher,7.1,2023,points
+Czechia,Business Confidence,higher,98,2023,points
+Denmark,Business Confidence,higher,-14,2023,points
+Estonia,Business Confidence,higher,84.4,2023,points
+Finland,Business Confidence,higher,-13,2023,points
+France,Business Confidence,higher,101,2023,points
+Germany,Business Confidence,higher,93.6,2023,points
+Greece,Business Confidence,higher,109,2023,points
+Hungary,Business Confidence,higher,-7.7,2023,points
+Indonesia,Business Confidence,higher,11.05,2023,points
+Ireland,Business Confidence,higher,21.8,2023,points
+Israel,Business Confidence,higher,21.5,2023,points
+Italy,Business Confidence,higher,103,2023,points
+Japan,Business Confidence,higher,1,2023,points
+Lithuania,Business Confidence,higher,-17.3,2023,points
+Netherlands,Business Confidence,higher,3,2023,points
+New Zealand,Business Confidence,higher,-43.8,2023,points
+Norway,Business Confidence,higher,-0.4,2023,points
+Peru,Business Confidence,higher,43.9,2023,points
+Poland,Business Confidence,higher,-10.8,2023,points
+Portugal,Business Confidence,higher,2.3,2023,points
+Romania,Business Confidence,higher,-0.4,2023,points
+Slovenia,Business Confidence,higher,-9,2023,points
+"Korea, Rep.",Business Confidence,higher,70,2023,points
+Spain,Business Confidence,higher,-1.3,2023,points
+Sweden,Business Confidence,higher,89.3,2023,points
+Switzerland,Business Confidence,higher,96.4,2023,points
+United Kingdom,Business Confidence,higher,-2,2023,points
+United States,Business Confidence,higher,47.1,2023,points
+Argentina,Business Confidence,higher,,2023,points
+Costa Rica,Business Confidence,higher,,2023,points
+Panama,Business Confidence,higher,,2023,points
+Tunisia,Business Confidence,higher,,2023,points
+Uruguay,Business Confidence,higher,,2023,points
+Argentina,Full Year GDP Growth,higher,5.2,2023,percent
+Australia,Full Year GDP Growth,higher,2.7,2023,percent
+Austria,Full Year GDP Growth,higher,5,2023,percent
+Belgium,Full Year GDP Growth,higher,3.1,2023,percent
+Brazil,Full Year GDP Growth,higher,2.9,2023,percent
+Bulgaria,Full Year GDP Growth,higher,3.4,2023,percent
+Canada,Full Year GDP Growth,higher,3.8,2023,percent
+Chile,Full Year GDP Growth,higher,2.4,2023,percent
+Costa Rica,Full Year GDP Growth,higher,7.8,2023,percent
+Croatia,Full Year GDP Growth,higher,13.07,2023,percent
+Czechia,Full Year GDP Growth,higher,2.5,2023,percent
+Denmark,Full Year GDP Growth,higher,3.4,2023,percent
+Estonia,Full Year GDP Growth,higher,-1.3,2023,percent
+Finland,Full Year GDP Growth,higher,2,2023,percent
+France,Full Year GDP Growth,higher,2.6,2023,percent
+Germany,Full Year GDP Growth,higher,1.8,2023,percent
+Greece,Full Year GDP Growth,higher,5.9,2023,percent
+Hungary,Full Year GDP Growth,higher,4.6,2023,percent
+Indonesia,Full Year GDP Growth,higher,5.31,2023,percent
+Ireland,Full Year GDP Growth,higher,12.2,2023,percent
+Israel,Full Year GDP Growth,higher,6.35,2023,percent
+Italy,Full Year GDP Growth,higher,3.7,2023,percent
+Japan,Full Year GDP Growth,higher,1,2023,percent
+Lithuania,Full Year GDP Growth,higher,4.8,2023,percent
+Netherlands,Full Year GDP Growth,higher,4.5,2023,percent
+New Zealand,Full Year GDP Growth,higher,5.5,2023,percent
+Norway,Full Year GDP Growth,higher,3.3,2023,percent
+Panama,Full Year GDP Growth,higher,,2023,percent
+Peru,Full Year GDP Growth,higher,2.68,2023,percent
+Poland,Full Year GDP Growth,higher,4.9,2023,percent
+Portugal,Full Year GDP Growth,higher,6.72,2023,percent
+Romania,Full Year GDP Growth,higher,4.8,2023,percent
+Slovenia,Full Year GDP Growth,higher,5.4,2023,percent
+"Korea, Rep.",Full Year GDP Growth,higher,2.6,2023,percent
+Spain,Full Year GDP Growth,higher,5.5,2023,percent
+Sweden,Full Year GDP Growth,higher,2.4,2023,percent
+Switzerland,Full Year GDP Growth,higher,2.1,2023,percent
+Tunisia,Full Year GDP Growth,higher,2.4,2023,percent
+United Kingdom,Full Year GDP Growth,higher,4.1,2023,percent
+United States,Full Year GDP Growth,higher,2.1,2023,percent
+Uruguay,Full Year GDP Growth,higher,4.4,2023,percent
+Argentina,GDP per Capita PPP,higher,21527,2023,USD
+Australia,GDP per Capita PPP,higher,49774,2023,USD
+Austria,GDP per Capita PPP,higher,54121,2023,USD
+Belgium,GDP per Capita PPP,higher,51740,2023,USD
+Brazil,GDP per Capita PPP,higher,14592,2023,USD
+Bulgaria,GDP per Capita PPP,higher,24398,2023,USD
+Canada,GDP per Capita PPP,higher,47893,2023,USD
+Chile,GDP per Capita PPP,higher,25449,2023,USD
+Costa Rica,GDP per Capita PPP,higher,21199,2023,USD
+Croatia,GDP per Capita PPP,higher,31636,2023,USD
+Czechia,GDP per Capita PPP,higher,40741,2023,USD
+Denmark,GDP per Capita PPP,higher,57963,2023,USD
+Estonia,GDP per Capita PPP,higher,38718,2023,USD
+Finland,GDP per Capita PPP,higher,48753,2023,USD
+France,GDP per Capita PPP,higher,44993,2023,USD
+Germany,GDP per Capita PPP,higher,53180,2023,USD
+Greece,GDP per Capita PPP,higher,29548,2023,USD
+Hungary,GDP per Capita PPP,higher,33593,2023,USD
+Indonesia,GDP per Capita PPP,higher,11858,2023,USD
+Ireland,GDP per Capita PPP,higher,102496,2023,USD
+Israel,GDP per Capita PPP,higher,42061,2023,USD
+Italy,GDP per Capita PPP,higher,41929,2023,USD
+Japan,GDP per Capita PPP,higher,40784,2023,USD
+Lithuania,GDP per Capita PPP,higher,39306,2023,USD
+Netherlands,GDP per Capita PPP,higher,56617,2023,USD
+New Zealand,GDP per Capita PPP,higher,42915,2023,USD
+Norway,GDP per Capita PPP,higher,65662,2023,USD
+Panama,GDP per Capita PPP,higher,29038,2023,USD
+Peru,GDP per Capita PPP,higher,12515,2023,USD
+Poland,GDP per Capita PPP,higher,34916,2023,USD
+Portugal,GDP per Capita PPP,higher,33675,2023,USD
+Romania,GDP per Capita PPP,higher,30777,2023,USD
+Slovenia,GDP per Capita PPP,higher,40036,2023,USD
+"Korea, Rep.",GDP per Capita PPP,higher,44116,2023,USD
+Spain,GDP per Capita PPP,higher,37913,2023,USD
+Sweden,GDP per Capita PPP,higher,53613,2023,USD
+Switzerland,GDP per Capita PPP,higher,71033,2023,USD
+Tunisia,GDP per Capita PPP,higher,10398,2023,USD
+United Kingdom,GDP per Capita PPP,higher,44979,2023,USD
+United States,GDP per Capita PPP,higher,63670,2023,USD
+Uruguay,GDP per Capita PPP,higher,22801,2023,USD
+Panama,Hospital Beds,higher,,2023,USD
+Argentina,Hospital Beds,higher,,2023,USD
+Brazil,Hospital Beds,higher,,2023,USD
+Bulgaria,Hospital Beds,higher,,2023,USD
+Croatia,Hospital Beds,higher,,2023,USD
+Czechia,Hospital Beds,higher,,2023,USD
+Peru,Hospital Beds,higher,,2023,USD
+Romania,Hospital Beds,higher,,2023,USD
+"Korea, Rep.",Hospital Beds,higher,,2023,USD
+Tunisia,Hospital Beds,higher,,2023,USD
+Uruguay,Hospital Beds,higher,,2023,USD
+Australia,Hospital Beds,higher,3.84,2023,per 1000 people
+Austria,Hospital Beds,higher,7.05,2023,per 1000 people
+Belgium,Hospital Beds,higher,5.51,2023,per 1000 people
+Canada,Hospital Beds,higher,2.55,2023,per 1000 people
+Chile,Hospital Beds,higher,1.95,2023,per 1000 people
+Costa Rica,Hospital Beds,higher,1.17,2023,per 1000 people
+Denmark,Hospital Beds,higher,2.52,2023,per 1000 people
+Estonia,Hospital Beds,higher,4.46,2023,per 1000 people
+Finland,Hospital Beds,higher,2.83,2023,per 1000 people
+France,Hospital Beds,higher,5.73,2023,per 1000 people
+Germany,Hospital Beds,higher,7.82,2023,per 1000 people
+Greece,Hospital Beds,higher,4.18,2023,per 1000 people
+Hungary,Hospital Beds,higher,6.82,2023,per 1000 people
+Indonesia,Hospital Beds,higher,1.2,2023,per 1000 people
+Ireland,Hospital Beds,higher,2.89,2023,per 1000 people
+Israel,Hospital Beds,higher,2.91,2023,per 1000 people
+Italy,Hospital Beds,higher,3.19,2023,per 1000 people
+Japan,Hospital Beds,higher,12.63,2023,per 1000 people
+Lithuania,Hospital Beds,higher,6.01,2023,per 1000 people
+Netherlands,Hospital Beds,higher,2.91,2023,per 1000 people
+New Zealand,Hospital Beds,higher,2.67,2023,per 1000 people
+Norway,Hospital Beds,higher,3.4,2023,per 1000 people
+Poland,Hospital Beds,higher,6.19,2023,per 1000 people
+Portugal,Hospital Beds,higher,3.53,2023,per 1000 people
+Slovenia,Hospital Beds,higher,4.28,2023,per 1000 people
+Spain,Hospital Beds,higher,2.95,2023,per 1000 people
+Sweden,Hospital Beds,higher,2.05,2023,per 1000 people
+Switzerland,Hospital Beds,higher,4.48,2023,per 1000 people
+United Kingdom,Hospital Beds,higher,2.34,2023,per 1000 people
+United States,Hospital Beds,higher,2.8,2023,per 1000 people
+Argentina,Inflation Rate,lower,104,2023,percent
+Australia,Inflation Rate,lower,7,2023,percent
+Austria,Inflation Rate,lower,9.8,2023,percent
+Belgium,Inflation Rate,lower,5.6,2023,percent
+Brazil,Inflation Rate,lower,4.65,2023,percent
+Bulgaria,Inflation Rate,lower,14,2023,percent
+Canada,Inflation Rate,lower,4.3,2023,percent
+Chile,Inflation Rate,lower,9.9,2023,percent
+Costa Rica,Inflation Rate,lower,4.42,2023,percent
+Croatia,Inflation Rate,lower,8.8,2023,percent
+Czechia,Inflation Rate,lower,15,2023,percent
+Denmark,Inflation Rate,lower,6.7,2023,percent
+Estonia,Inflation Rate,lower,13.5,2023,percent
+Finland,Inflation Rate,lower,7.9,2023,percent
+France,Inflation Rate,lower,5.9,2023,percent
+Germany,Inflation Rate,lower,7.2,2023,percent
+Greece,Inflation Rate,lower,4.6,2023,percent
+Hungary,Inflation Rate,lower,25.2,2023,percent
+Indonesia,Inflation Rate,lower,4.33,2023,percent
+Ireland,Inflation Rate,lower,7.7,2023,percent
+Israel,Inflation Rate,lower,5,2023,percent
+Italy,Inflation Rate,lower,8.3,2023,percent
+Japan,Inflation Rate,lower,3.2,2023,percent
+Lithuania,Inflation Rate,lower,16.6,2023,percent
+Netherlands,Inflation Rate,lower,5.2,2023,percent
+New Zealand,Inflation Rate,lower,6.7,2023,percent
+Norway,Inflation Rate,lower,6.5,2023,percent
+Panama,Inflation Rate,lower,1.35,2023,percent
+Peru,Inflation Rate,lower,7.96,2023,percent
+Poland,Inflation Rate,lower,14.7,2023,percent
+Portugal,Inflation Rate,lower,5.7,2023,percent
+Romania,Inflation Rate,lower,14.53,2023,percent
+Slovenia,Inflation Rate,lower,9.4,2023,percent
+"Korea, Rep.",Inflation Rate,lower,3.7,2023,percent
+Spain,Inflation Rate,lower,4.1,2023,percent
+Sweden,Inflation Rate,lower,10.6,2023,percent
+Switzerland,Inflation Rate,lower,2.6,2023,percent
+Tunisia,Inflation Rate,lower,10.1,2023,percent
+United Kingdom,Inflation Rate,lower,10.1,2023,percent
+United States,Inflation Rate,lower,5,2023,percent
+Uruguay,Inflation Rate,lower,7.61,2023,percent
+Argentina,Personal Income Tax Rate,lower,35,2023,percent
+Australia,Personal Income Tax Rate,lower,45,2023,percent
+Austria,Personal Income Tax Rate,lower,55,2023,percent
+Belgium,Personal Income Tax Rate,lower,50,2023,percent
+Brazil,Personal Income Tax Rate,lower,27.5,2023,percent
+Bulgaria,Personal Income Tax Rate,lower,10,2023,percent
+Canada,Personal Income Tax Rate,lower,33,2023,percent
+Chile,Personal Income Tax Rate,lower,40,2023,percent
+Costa Rica,Personal Income Tax Rate,lower,25,2023,percent
+Croatia,Personal Income Tax Rate,lower,30,2023,percent
+Czechia,Personal Income Tax Rate,lower,23,2023,percent
+Denmark,Personal Income Tax Rate,lower,56,2023,percent
+Estonia,Personal Income Tax Rate,lower,20,2023,percent
+Finland,Personal Income Tax Rate,lower,56.95,2023,percent
+France,Personal Income Tax Rate,lower,45,2023,percent
+Germany,Personal Income Tax Rate,lower,45,2023,percent
+Greece,Personal Income Tax Rate,lower,44,2023,percent
+Hungary,Personal Income Tax Rate,lower,15,2023,percent
+Indonesia,Personal Income Tax Rate,lower,35,2023,percent
+Ireland,Personal Income Tax Rate,lower,40,2023,percent
+Israel,Personal Income Tax Rate,lower,50,2023,percent
+Italy,Personal Income Tax Rate,lower,43,2023,percent
+Japan,Personal Income Tax Rate,lower,55.97,2023,percent
+Lithuania,Personal Income Tax Rate,lower,20,2023,percent
+Netherlands,Personal Income Tax Rate,lower,49.5,2023,percent
+New Zealand,Personal Income Tax Rate,lower,39,2023,percent
+Norway,Personal Income Tax Rate,lower,38.2,2023,percent
+Panama,Personal Income Tax Rate,lower,25,2023,percent
+Peru,Personal Income Tax Rate,lower,30,2023,percent
+Poland,Personal Income Tax Rate,lower,32,2023,percent
+Portugal,Personal Income Tax Rate,lower,48,2023,percent
+Romania,Personal Income Tax Rate,lower,10,2023,percent
+Slovenia,Personal Income Tax Rate,lower,45,2023,percent
+"Korea, Rep.",Personal Income Tax Rate,lower,45,2023,percent
+Spain,Personal Income Tax Rate,lower,47,2023,percent
+Sweden,Personal Income Tax Rate,lower,52.3,2023,percent
+Switzerland,Personal Income Tax Rate,lower,40,2023,percent
+Tunisia,Personal Income Tax Rate,lower,35,2023,percent
+United Kingdom,Personal Income Tax Rate,lower,45,2023,percent
+United States,Personal Income Tax Rate,lower,37,2023,percent
+Uruguay,Personal Income Tax Rate,lower,36,2023,percent
+Argentina,Unemployment Rate,lower,6.3,2023,percent
+Australia,Unemployment Rate,lower,3.5,2023,percent
+Austria,Unemployment Rate,lower,6.2,2023,percent
+Belgium,Unemployment Rate,lower,5.9,2023,percent
+Brazil,Unemployment Rate,lower,8.8,2023,percent
+Bulgaria,Unemployment Rate,lower,5.4,2023,percent
+Canada,Unemployment Rate,lower,5,2023,percent
+Chile,Unemployment Rate,lower,8.8,2023,percent
+Costa Rica,Unemployment Rate,lower,11.7,2023,percent
+Croatia,Unemployment Rate,lower,6.5,2023,percent
+Czechia,Unemployment Rate,lower,3.7,2023,percent
+Denmark,Unemployment Rate,lower,2.3,2023,percent
+Estonia,Unemployment Rate,lower,5.4,2023,percent
+Finland,Unemployment Rate,lower,6.9,2023,percent
+France,Unemployment Rate,lower,7.2,2023,percent
+Germany,Unemployment Rate,lower,5.6,2023,percent
+Greece,Unemployment Rate,lower,10.9,2023,percent
+Hungary,Unemployment Rate,lower,4.1,2023,percent
+Indonesia,Unemployment Rate,lower,5.45,2023,percent
+Ireland,Unemployment Rate,lower,3.9,2023,percent
+Israel,Unemployment Rate,lower,3.9,2023,percent
+Italy,Unemployment Rate,lower,7.8,2023,percent
+Japan,Unemployment Rate,lower,2.8,2023,percent
+Lithuania,Unemployment Rate,lower,9,2023,percent
+Netherlands,Unemployment Rate,lower,3.5,2023,percent
+New Zealand,Unemployment Rate,lower,3.4,2023,percent
+Norway,Unemployment Rate,lower,3.7,2023,percent
+Panama,Unemployment Rate,lower,14.5,2023,percent
+Peru,Unemployment Rate,lower,7.5,2023,percent
+Poland,Unemployment Rate,lower,5.4,2023,percent
+Portugal,Unemployment Rate,lower,6.5,2023,percent
+Romania,Unemployment Rate,lower,5.4,2023,percent
+Slovenia,Unemployment Rate,lower,5.4,2023,percent
+"Korea, Rep.",Unemployment Rate,lower,2.7,2023,percent
+Spain,Unemployment Rate,lower,13.26,2023,percent
+Sweden,Unemployment Rate,lower,7.7,2023,percent
+Switzerland,Unemployment Rate,lower,2,2023,percent
+Tunisia,Unemployment Rate,lower,15.2,2023,percent
+United Kingdom,Unemployment Rate,lower,3.8,2023,percent
+United States,Unemployment Rate,lower,3.4,2023,percent
+Uruguay,Unemployment Rate,lower,8.6,2023,percent
+Switzerland,Average monthly wage,higher,7317.2,2023,USD/Hour
+Denmark,Average monthly wage,higher,6236.44,2023,USD/Hour
+United States,Average monthly wage,higher,5724,2023,USD/Hour
+New Zealand,Average monthly wage,higher,4681.2,2023,USD/Hour
+Norway,Average monthly wage,higher,4498.95,2023,USD/Hour
+Germany,Average monthly wage,higher,4388.07,2023,USD/Hour
+Canada,Average monthly wage,higher,4357.12,2023,USD/Hour
+Finland,Average monthly wage,higher,4073.49,2023,USD/Hour
+Ireland,Average monthly wage,higher,3852,2023,USD/Hour
+Australia,Average monthly wage,higher,3585.4,2023,USD/Hour
+France,Average monthly wage,higher,3553.47,2023,USD/Hour
+Sweden,Average monthly wage,higher,3477.6,2023,USD/Hour
+Israel,Average monthly wage,higher,3313.44,2023,USD/Hour
+Netherlands,Average monthly wage,higher,3254.94,2023,USD/Hour
+"Korea, Rep.",Average monthly wage,higher,3228.3014,2023,USD/Hour
+United Kingdom,Average monthly wage,higher,3164.48,2023,USD/Hour
+Austria,Average monthly wage,higher,2697.47,2023,USD/Hour
+Italy,Average monthly wage,higher,2648.25,2023,USD/Hour
+Spain,Average monthly wage,higher,2426.76,2023,USD/Hour
+Slovenia,Average monthly wage,higher,2282.31,2023,USD/Hour
+Japan,Average monthly wage,higher,2239.0344,2023,USD/Hour
+Lithuania,Average monthly wage,higher,2033,2023,USD/Hour
+Czechia,Average monthly wage,higher,1953.54,2023,USD/Hour
+Estonia,Average monthly wage,higher,1899.25,2023,USD/Hour
+Poland,Average monthly wage,higher,1615.92,2023,USD/Hour
+Hungary,Average monthly wage,higher,1540.3495,2023,USD/Hour
+Romania,Average monthly wage,higher,1505.9,2023,USD/Hour
+Chile,Average monthly wage,higher,1478.88,2023,USD/Hour
+Costa Rica,Average monthly wage,higher,1368.817,2023,USD/Hour
+Argentina,Average monthly wage,higher,1335.1926,2023,USD/Hour
+Portugal,Average monthly wage,higher,1271.16,2023,USD/Hour
+Croatia,Average monthly wage,higher,1183.42,2023,USD/Hour
+Bulgaria,Average monthly wage,higher,1070.85,2023,USD/Hour
+Panama,Average monthly wage,higher,1035.99,2023,USD/Hour
+Uruguay,Average monthly wage,higher,961.168,2023,USD/Hour
+Brazil,Average monthly wage,higher,576,2023,USD/Hour
+Peru,Average monthly wage,higher,497.07,2023,USD/Hour
+Belgium,Average monthly wage,higher,,2023,USD/Hour
+Greece,Average monthly wage,higher,,2023,USD/Hour
+Indonesia,Average monthly wage,higher,,2023,USD/Hour
+Tunisia,Average monthly wage,higher,,2023,USD/Hour

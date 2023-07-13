@@ -1,0 +1,370 @@
+country,indicator,better_higher_lower,latest_value,year,metric,source
+Argentina,Vulnerability and exposure to natural hazards,lower,0.1561,2022,%, Institute for Environment and Human Security (EHS) 
+Australia,Vulnerability and exposure to natural hazards,lower,0.2136,2022,%, Institute for Environment and Human Security (EHS) 
+Austria,Vulnerability and exposure to natural hazards,lower,0.0114,2022,%, Institute for Environment and Human Security (EHS) 
+Belgium,Vulnerability and exposure to natural hazards,lower,0.0416,2022,%, Institute for Environment and Human Security (EHS) 
+Brazil,Vulnerability and exposure to natural hazards,lower,0.1215,2022,%, Institute for Environment and Human Security (EHS) 
+Bulgaria,Vulnerability and exposure to natural hazards,lower,0.0215,2022,%, Institute for Environment and Human Security (EHS) 
+Canada,Vulnerability and exposure to natural hazards,lower,0.1899,2022,%, Institute for Environment and Human Security (EHS) 
+Chile,Vulnerability and exposure to natural hazards,lower,0.1384,2022,%, Institute for Environment and Human Security (EHS) 
+Costa Rica,Vulnerability and exposure to natural hazards,lower,0.142,2022,%, Institute for Environment and Human Security (EHS) 
+Croatia,Vulnerability and exposure to natural hazards,lower,0.0486,2022,%, Institute for Environment and Human Security (EHS) 
+Czechia,Vulnerability and exposure to natural hazards,lower,0.01,2022,%, Institute for Environment and Human Security (EHS) 
+Denmark,Vulnerability and exposure to natural hazards,lower,0.0103,2022,%, Institute for Environment and Human Security (EHS) 
+Estonia,Vulnerability and exposure to natural hazards,lower,0.0182,2022,%, Institute for Environment and Human Security (EHS) 
+Finland,Vulnerability and exposure to natural hazards,lower,0.013,2022,%, Institute for Environment and Human Security (EHS) 
+France,Vulnerability and exposure to natural hazards,lower,0.0667,2022,%, Institute for Environment and Human Security (EHS) 
+Germany,Vulnerability and exposure to natural hazards,lower,0.0392,2022,%, Institute for Environment and Human Security (EHS) 
+Greece,Vulnerability and exposure to natural hazards,lower,0.0855,2022,%, Institute for Environment and Human Security (EHS) 
+Hungary,Vulnerability and exposure to natural hazards,lower,0.0097,2022,%, Institute for Environment and Human Security (EHS) 
+Indonesia,Vulnerability and exposure to natural hazards,lower,0.4146,2022,%, Institute for Environment and Human Security (EHS) 
+Ireland,Vulnerability and exposure to natural hazards,lower,0.031,2022,%, Institute for Environment and Human Security (EHS) 
+Israel,Vulnerability and exposure to natural hazards,lower,0.0465,2022,%, Institute for Environment and Human Security (EHS) 
+Italy,Vulnerability and exposure to natural hazards,lower,0.0937,2022,%, Institute for Environment and Human Security (EHS) 
+Japan,Vulnerability and exposure to natural hazards,lower,0.1703,2022,%, Institute for Environment and Human Security (EHS) 
+"Korea, Rep.",Vulnerability and exposure to natural hazards,lower,0.1051,2022,%, Institute for Environment and Human Security (EHS) 
+Lithuania,Vulnerability and exposure to natural hazards,lower,0.0224,2022,%, Institute for Environment and Human Security (EHS) 
+Netherlands,Vulnerability and exposure to natural hazards,lower,0.0404,2022,%, Institute for Environment and Human Security (EHS) 
+New Zealand,Vulnerability and exposure to natural hazards,lower,0.1305,2022,%, Institute for Environment and Human Security (EHS) 
+Norway,Vulnerability and exposure to natural hazards,lower,0.0316,2022,%, Institute for Environment and Human Security (EHS) 
+Panama,Vulnerability and exposure to natural hazards,lower,0.1838,2022,%, Institute for Environment and Human Security (EHS) 
+Peru,Vulnerability and exposure to natural hazards,lower,0.2541,2022,%, Institute for Environment and Human Security (EHS) 
+Poland,Vulnerability and exposure to natural hazards,lower,0.0463,2022,%, Institute for Environment and Human Security (EHS) 
+Portugal,Vulnerability and exposure to natural hazards,lower,0.0508,2022,%, Institute for Environment and Human Security (EHS) 
+Romania,Vulnerability and exposure to natural hazards,lower,0.0319,2022,%, Institute for Environment and Human Security (EHS) 
+Slovenia,Vulnerability and exposure to natural hazards,lower,0.0144,2022,%, Institute for Environment and Human Security (EHS) 
+Spain,Vulnerability and exposure to natural hazards,lower,0.0968,2022,%, Institute for Environment and Human Security (EHS) 
+Sweden,Vulnerability and exposure to natural hazards,lower,0.0206,2022,%, Institute for Environment and Human Security (EHS) 
+Switzerland,Vulnerability and exposure to natural hazards,lower,0.0103,2022,%, Institute for Environment and Human Security (EHS) 
+Tunisia,Vulnerability and exposure to natural hazards,lower,0.0987,2022,%, Institute for Environment and Human Security (EHS) 
+United Kingdom,Vulnerability and exposure to natural hazards,lower,0.0578,2022,%, Institute for Environment and Human Security (EHS) 
+United States,Vulnerability and exposure to natural hazards,lower,0.2273,2022,%, Institute for Environment and Human Security (EHS) 
+Uruguay,Vulnerability and exposure to natural hazards,lower,0.0492,2022,%, Institute for Environment and Human Security (EHS) 
+Argentina,Personal freedom score,higher,8.51,2020,points,Cato Institute
+Australia,Personal freedom score,higher,8.85,2020,points,Cato Institute
+Austria,Personal freedom score,higher,8.76,2020,points,Cato Institute
+Belgium,Personal freedom score,higher,8.92,2020,points,Cato Institute
+Brazil,Personal freedom score,higher,7.24,2020,points,Cato Institute
+Bulgaria,Personal freedom score,higher,7.9,2020,points,Cato Institute
+Canada,Personal freedom score,higher,8.95,2020,points,Cato Institute
+Chile,Personal freedom score,higher,8.41,2020,points,Cato Institute
+Costa Rica,Personal freedom score,higher,8.24,2020,points,Cato Institute
+Croatia,Personal freedom score,higher,8.35,2020,points,Cato Institute
+Czechia,Personal freedom score,higher,8.75,2020,points,Cato Institute
+Denmark,Personal freedom score,higher,9.17,2020,points,Cato Institute
+Estonia,Personal freedom score,higher,9.28,2020,points,Cato Institute
+Finland,Personal freedom score,higher,9.33,2020,points,Cato Institute
+France,Personal freedom score,higher,8.14,2020,points,Cato Institute
+Germany,Personal freedom score,higher,8.81,2020,points,Cato Institute
+Greece,Personal freedom score,higher,7.99,2020,points,Cato Institute
+Hungary,Personal freedom score,higher,7.19,2020,points,Cato Institute
+Indonesia,Personal freedom score,higher,6.49,2020,points,Cato Institute
+Ireland,Personal freedom score,higher,9.3,2020,points,Cato Institute
+Israel,Personal freedom score,higher,7.36,2020,points,Cato Institute
+Italy,Personal freedom score,higher,8.46,2020,points,Cato Institute
+Japan,Personal freedom score,higher,8.8,2020,points,Cato Institute
+"Korea, Rep.",Personal freedom score,higher,8.6,2020,points,Cato Institute
+Lithuania,Personal freedom score,higher,8.71,2020,points,Cato Institute
+Netherlands,Personal freedom score,higher,9.12,2020,points,Cato Institute
+New Zealand,Personal freedom score,higher,9.09,2020,points,Cato Institute
+Norway,Personal freedom score,higher,9.17,2020,points,Cato Institute
+Panama,Personal freedom score,higher,7.58,2020,points,Cato Institute
+Peru,Personal freedom score,higher,7.52,2020,points,Cato Institute
+Poland,Personal freedom score,higher,8.18,2020,points,Cato Institute
+Portugal,Personal freedom score,higher,8.75,2020,points,Cato Institute
+Romania,Personal freedom score,higher,8,2020,points,Cato Institute
+Slovenia,Personal freedom score,higher,8.51,2020,points,Cato Institute
+Spain,Personal freedom score,higher,8.4,2020,points,Cato Institute
+Sweden,Personal freedom score,higher,9.45,2020,points,Cato Institute
+Switzerland,Personal freedom score,higher,9.35,2020,points,Cato Institute
+Tunisia,Personal freedom score,higher,6.36,2020,points,Cato Institute
+United Kingdom,Personal freedom score,higher,8.72,2020,points,Cato Institute
+United States,Personal freedom score,higher,8.42,2020,points,Cato Institute
+Uruguay,Personal freedom score,higher,8.63,2020,points,Cato Institute
+Argentina,Economic freedom score,higher,4.87,2020,points,Cato Institute
+Australia,Economic freedom score,higher,8.04,2020,points,Cato Institute
+Austria,Economic freedom score,higher,7.56,2020,points,Cato Institute
+Belgium,Economic freedom score,higher,7.37,2020,points,Cato Institute
+Brazil,Economic freedom score,higher,6.33,2020,points,Cato Institute
+Bulgaria,Economic freedom score,higher,7.69,2020,points,Cato Institute
+Canada,Economic freedom score,higher,7.81,2020,points,Cato Institute
+Chile,Economic freedom score,higher,7.56,2020,points,Cato Institute
+Costa Rica,Economic freedom score,higher,7.62,2020,points,Cato Institute
+Croatia,Economic freedom score,higher,7.16,2020,points,Cato Institute
+Czechia,Economic freedom score,higher,7.75,2020,points,Cato Institute
+Denmark,Economic freedom score,higher,8.09,2020,points,Cato Institute
+Estonia,Economic freedom score,higher,7.95,2020,points,Cato Institute
+Finland,Economic freedom score,higher,7.64,2020,points,Cato Institute
+France,Economic freedom score,higher,7.33,2020,points,Cato Institute
+Germany,Economic freedom score,higher,7.65,2020,points,Cato Institute
+Greece,Economic freedom score,higher,6.81,2020,points,Cato Institute
+Hungary,Economic freedom score,higher,7.24,2020,points,Cato Institute
+Indonesia,Economic freedom score,higher,7.09,2020,points,Cato Institute
+Ireland,Economic freedom score,higher,7.86,2020,points,Cato Institute
+Israel,Economic freedom score,higher,7.35,2020,points,Cato Institute
+Italy,Economic freedom score,higher,7.4,2020,points,Cato Institute
+Japan,Economic freedom score,higher,7.82,2020,points,Cato Institute
+"Korea, Rep.",Economic freedom score,higher,7.42,2020,points,Cato Institute
+Lithuania,Economic freedom score,higher,7.82,2020,points,Cato Institute
+Netherlands,Economic freedom score,higher,7.75,2020,points,Cato Institute
+New Zealand,Economic freedom score,higher,8.27,2020,points,Cato Institute
+Norway,Economic freedom score,higher,7.58,2020,points,Cato Institute
+Panama,Economic freedom score,higher,7.45,2020,points,Cato Institute
+Peru,Economic freedom score,higher,7.5,2020,points,Cato Institute
+Poland,Economic freedom score,higher,6.93,2020,points,Cato Institute
+Portugal,Economic freedom score,higher,7.43,2020,points,Cato Institute
+Romania,Economic freedom score,higher,7.74,2020,points,Cato Institute
+Slovenia,Economic freedom score,higher,7,2020,points,Cato Institute
+Spain,Economic freedom score,higher,7.63,2020,points,Cato Institute
+Sweden,Economic freedom score,higher,7.56,2020,points,Cato Institute
+Switzerland,Economic freedom score,higher,8.37,2020,points,Cato Institute
+Tunisia,Economic freedom score,higher,6.09,2020,points,Cato Institute
+United Kingdom,Economic freedom score,higher,7.71,2020,points,Cato Institute
+United States,Economic freedom score,higher,7.97,2020,points,Cato Institute
+Uruguay,Economic freedom score,higher,7.06,2020,points,Cato Institute
+"Korea, Rep.",CEO health care index,higher,78.72,2021,points,ceoworld.biz
+Denmark,CEO health care index,higher,74.11,2021,points,ceoworld.biz
+Austria,CEO health care index,higher,71.32,2021,points,ceoworld.biz
+Japan,CEO health care index,higher,70.73,2021,points,ceoworld.biz
+Australia,CEO health care index,higher,67.99,2021,points,ceoworld.biz
+France,CEO health care index,higher,65.38,2021,points,ceoworld.biz
+Spain,CEO health care index,higher,64.66,2021,points,ceoworld.biz
+Belgium,CEO health care index,higher,64.63,2021,points,ceoworld.biz
+United Kingdom,CEO health care index,higher,61.73,2021,points,ceoworld.biz
+Netherlands,CEO health care index,higher,60.16,2021,points,ceoworld.biz
+Finland,CEO health care index,higher,59.6,2021,points,ceoworld.biz
+Czechia,CEO health care index,higher,57.96,2021,points,ceoworld.biz
+Norway,CEO health care index,higher,56.71,2021,points,ceoworld.biz
+New Zealand,CEO health care index,higher,54.86,2021,points,ceoworld.biz
+Germany,CEO health care index,higher,52.3,2021,points,ceoworld.biz
+Switzerland,CEO health care index,higher,52.25,2021,points,ceoworld.biz
+Israel,CEO health care index,higher,50.15,2021,points,ceoworld.biz
+Portugal,CEO health care index,higher,49.58,2021,points,ceoworld.biz
+Canada,CEO health care index,higher,48.64,2021,points,ceoworld.biz
+Greece,CEO health care index,higher,48.13,2021,points,ceoworld.biz
+Argentina,CEO health care index,higher,47.15,2021,points,ceoworld.biz
+Sweden,CEO health care index,higher,46.24,2021,points,ceoworld.biz
+United States,CEO health care index,higher,45.62,2021,points,ceoworld.biz
+Lithuania,CEO health care index,higher,45.3,2021,points,ceoworld.biz
+Estonia,CEO health care index,higher,45.3,2021,points,ceoworld.biz
+Italy,CEO health care index,higher,44.43,2021,points,ceoworld.biz
+Uruguay,CEO health care index,higher,42.99,2021,points,ceoworld.biz
+Croatia,CEO health care index,higher,42.31,2021,points,ceoworld.biz
+Chile,CEO health care index,higher,41.97,2021,points,ceoworld.biz
+Slovenia,CEO health care index,higher,39.85,2021,points,ceoworld.biz
+Hungary,CEO health care index,higher,39.37,2021,points,ceoworld.biz
+Costa Rica,CEO health care index,higher,39.03,2021,points,ceoworld.biz
+Poland,CEO health care index,higher,39.02,2021,points,ceoworld.biz
+Indonesia,CEO health care index,higher,38.95,2021,points,ceoworld.biz
+Panama,CEO health care index,higher,38.13,2021,points,ceoworld.biz
+Tunisia,CEO health care index,higher,37.71,2021,points,ceoworld.biz
+Peru,CEO health care index,higher,36.74,2021,points,ceoworld.biz
+Brazil,CEO health care index,higher,36.31,2021,points,ceoworld.biz
+Bulgaria,CEO health care index,higher,35.64,2021,points,ceoworld.biz
+Romania,CEO health care index,higher,35.32,2021,points,ceoworld.biz
+Ireland,CEO health care index,higher,33.65,2021,points,ceoworld.biz
+Argentina,International Education Database,higher,0.38,2023,points,International Education Database
+Australia,International Education Database,higher,0.8,2023,points,International Education Database
+Austria,International Education Database,higher,0.42,2023,points,International Education Database
+Belgium,International Education Database,higher,0.82,2023,points,International Education Database
+Brazil,International Education Database,higher,0,2023,points,International Education Database
+Bulgaria,International Education Database,higher,0.06,2023,points,International Education Database
+Canada,International Education Database,higher,0.7,2023,points,International Education Database
+Chile,International Education Database,higher,0.36,2023,points,International Education Database
+Costa Rica,International Education Database,higher,0.34,2023,points,International Education Database
+Croatia,International Education Database,higher,0.26,2023,points,International Education Database
+Czechia,International Education Database,higher,0.44,2023,points,International Education Database
+Denmark,International Education Database,higher,1,2023,points,International Education Database
+Estonia,International Education Database,higher,0.56,2023,points,International Education Database
+Finland,International Education Database,higher,0.88,2023,points,International Education Database
+France,International Education Database,higher,0.84,2023,points,International Education Database
+Germany,International Education Database,higher,0.94,2023,points,International Education Database
+Greece,International Education Database,higher,0.46,2023,points,International Education Database
+Hungary,International Education Database,higher,0.5,2023,points,International Education Database
+Indonesia,International Education Database,higher,0.28,2023,points,International Education Database
+Ireland,International Education Database,higher,0.92,2023,points,International Education Database
+Israel,International Education Database,higher,0.66,2023,points,International Education Database
+Italy,International Education Database,higher,0.4,2023,points,International Education Database
+Japan,International Education Database,higher,0.76,2023,points,International Education Database
+"Korea, Rep.",International Education Database,higher,0.98,2023,points,International Education Database
+Lithuania,International Education Database,higher,0.58,2023,points,International Education Database
+Netherlands,International Education Database,higher,0.96,2023,points,International Education Database
+New Zealand,International Education Database,higher,0.54,2023,points,International Education Database
+Norway,International Education Database,higher,0.72,2023,points,International Education Database
+Panama,International Education Database,higher,0.08,2023,points,International Education Database
+Peru,International Education Database,higher,0.24,2023,points,International Education Database
+Poland,International Education Database,higher,0.64,2023,points,International Education Database
+Portugal,International Education Database,higher,0.6,2023,points,International Education Database
+Romania,International Education Database,higher,0.16,2023,points,International Education Database
+Slovenia,International Education Database,higher,0.86,2023,points,International Education Database
+Spain,International Education Database,higher,0.68,2023,points,International Education Database
+Sweden,International Education Database,higher,0.9,2023,points,International Education Database
+Switzerland,International Education Database,higher,0.52,2023,points,International Education Database
+Tunisia,International Education Database,higher,0.12,2023,points,International Education Database
+United Kingdom,International Education Database,higher,0.74,2023,points,International Education Database
+United States,International Education Database,higher,0.48,2023,points,International Education Database
+Uruguay,International Education Database,higher,0.14,2023,points,International Education Database
+Argentina,Legatum health care ranking,higher,0.12,2023,points,Legatum Istitute 
+Australia,Legatum health care ranking,higher,0.72,2023,points,Legatum Istitute 
+Austria,Legatum health care ranking,higher,0.84,2023,points,Legatum Istitute 
+Belgium,Legatum health care ranking,higher,0.62,2023,points,Legatum Istitute 
+Brazil,Legatum health care ranking,higher,0.06,2023,points,Legatum Istitute 
+Bulgaria,Legatum health care ranking,higher,0.24,2023,points,Legatum Istitute 
+Canada,Legatum health care ranking,higher,0.76,2023,points,Legatum Istitute 
+Chile,Legatum health care ranking,higher,0.4,2023,points,Legatum Istitute 
+Costa Rica,Legatum health care ranking,higher,0.38,2023,points,Legatum Istitute 
+Croatia,Legatum health care ranking,higher,0.3,2023,points,Legatum Istitute 
+Czechia,Legatum health care ranking,higher,,2023,points,Legatum Istitute 
+Denmark,Legatum health care ranking,higher,1,2023,points,Legatum Istitute 
+Estonia,Legatum health care ranking,higher,0.66,2023,points,Legatum Istitute 
+Finland,Legatum health care ranking,higher,0.92,2023,points,Legatum Istitute 
+France,Legatum health care ranking,higher,0.64,2023,points,Legatum Istitute 
+Germany,Legatum health care ranking,higher,0.86,2023,points,Legatum Istitute 
+Greece,Legatum health care ranking,higher,0.32,2023,points,Legatum Istitute 
+Hungary,Legatum health care ranking,higher,0.28,2023,points,Legatum Istitute 
+Indonesia,Legatum health care ranking,higher,0.18,2023,points,Legatum Istitute 
+Ireland,Legatum health care ranking,higher,0.8,2023,points,Legatum Istitute 
+Israel,Legatum health care ranking,higher,0.5,2023,points,Legatum Istitute 
+Italy,Legatum health care ranking,higher,0.48,2023,points,Legatum Istitute 
+Japan,Legatum health care ranking,higher,0.68,2023,points,Legatum Istitute 
+"Korea, Rep.",Legatum health care ranking,higher,0.52,2023,points,Legatum Istitute 
+Lithuania,Legatum health care ranking,higher,0.44,2023,points,Legatum Istitute 
+Netherlands,Legatum health care ranking,higher,0.9,2023,points,Legatum Istitute 
+New Zealand,Legatum health care ranking,higher,0.88,2023,points,Legatum Istitute 
+Norway,Legatum health care ranking,higher,0.98,2023,points,Legatum Istitute 
+Panama,Legatum health care ranking,higher,0.22,2023,points,Legatum Istitute 
+Peru,Legatum health care ranking,higher,0.14,2023,points,Legatum Istitute 
+Poland,Legatum health care ranking,higher,0.42,2023,points,Legatum Istitute 
+Portugal,Legatum health care ranking,higher,0.54,2023,points,Legatum Istitute 
+Romania,Legatum health care ranking,higher,0.26,2023,points,Legatum Istitute 
+Slovenia,Legatum health care ranking,higher,0.56,2023,points,Legatum Istitute 
+Spain,Legatum health care ranking,higher,0.6,2023,points,Legatum Istitute 
+Sweden,Legatum health care ranking,higher,0.94,2023,points,Legatum Istitute 
+Switzerland,Legatum health care ranking,higher,0.96,2023,points,Legatum Istitute 
+Tunisia,Legatum health care ranking,higher,0,2023,points,Legatum Istitute 
+United Kingdom,Legatum health care ranking,higher,0.78,2023,points,Legatum Istitute 
+United States,Legatum health care ranking,higher,0.7,2023,points,Legatum Istitute 
+Uruguay,Legatum health care ranking,higher,0.36,2023,points,Legatum Istitute 
+Belgium,Gender wage gap (%),lower,1.17,2022,%,OECD Emplyment Outlook
+Bulgaria,Gender wage gap (%),lower,2.56,2022,%,OECD Emplyment Outlook
+Spain,Gender wage gap (%),lower,3.72,2022,%,OECD Emplyment Outlook
+Norway,Gender wage gap (%),lower,4.6,2022,%,OECD Emplyment Outlook
+Denmark,Gender wage gap (%),lower,4.99,2022,%,OECD Emplyment Outlook
+Costa Rica,Gender wage gap (%),lower,5.2,2022,%,OECD Emplyment Outlook
+Romania,Gender wage gap (%),lower,5.76,2022,%,OECD Emplyment Outlook
+Greece,Gender wage gap (%),lower,5.91,2022,%,OECD Emplyment Outlook
+Argentina,Gender wage gap (%),lower,6.25,2022,%,OECD Emplyment Outlook
+New Zealand,Gender wage gap (%),lower,6.67,2022,%,OECD Emplyment Outlook
+Sweden,Gender wage gap (%),lower,7.25,2022,%,OECD Emplyment Outlook
+Croatia,Gender wage gap (%),lower,7.58,2022,%,OECD Emplyment Outlook
+Slovenia,Gender wage gap (%),lower,8.2,2022,%,OECD Emplyment Outlook
+Ireland,Gender wage gap (%),lower,8.28,2022,%,OECD Emplyment Outlook
+Chile,Gender wage gap (%),lower,8.6,2022,%,OECD Emplyment Outlook
+Poland,Gender wage gap (%),lower,8.69,2022,%,OECD Emplyment Outlook
+Italy,Gender wage gap (%),lower,8.72,2022,%,OECD Emplyment Outlook
+Lithuania,Gender wage gap (%),lower,9.21,2022,%,OECD Emplyment Outlook
+Australia,Gender wage gap (%),lower,9.88,2022,%,OECD Emplyment Outlook
+Brazil,Gender wage gap (%),lower,9.91,2022,%,OECD Emplyment Outlook
+Czechia,Gender wage gap (%),lower,11.52,2022,%,OECD Emplyment Outlook
+Portugal,Gender wage gap (%),lower,11.72,2022,%,OECD Emplyment Outlook
+Austria,Gender wage gap (%),lower,12.16,2022,%,OECD Emplyment Outlook
+Hungary,Gender wage gap (%),lower,12.35,2022,%,OECD Emplyment Outlook
+Netherlands,Gender wage gap (%),lower,13.23,2022,%,OECD Emplyment Outlook
+Switzerland,Gender wage gap (%),lower,13.8,2022,%,OECD Emplyment Outlook
+Germany,Gender wage gap (%),lower,14.2,2022,%,OECD Emplyment Outlook
+United Kingdom,Gender wage gap (%),lower,14.35,2022,%,OECD Emplyment Outlook
+France,Gender wage gap (%),lower,15.47,2022,%,OECD Emplyment Outlook
+Finland,Gender wage gap (%),lower,15.98,2022,%,OECD Emplyment Outlook
+Canada,Gender wage gap (%),lower,16.67,2022,%,OECD Emplyment Outlook
+United States,Gender wage gap (%),lower,16.86,2022,%,OECD Emplyment Outlook
+Estonia,Gender wage gap (%),lower,20.43,2022,%,OECD Emplyment Outlook
+Japan,Gender wage gap (%),lower,22.11,2022,%,OECD Emplyment Outlook
+Israel,Gender wage gap (%),lower,24.32,2022,%,OECD Emplyment Outlook
+"Korea, Rep.",Gender wage gap (%),lower,31.65,2022,%,OECD Emplyment Outlook
+Uruguay,Gender wage gap (%),lower,,2022,%,OECD Emplyment Outlook
+Indonesia,Gender wage gap (%),lower,,2022,%,OECD Emplyment Outlook
+Peru,Gender wage gap (%),lower,,2022,%,OECD Emplyment Outlook
+Tunisia,Gender wage gap (%),lower,,2022,%,OECD Emplyment Outlook
+Panama,Gender wage gap (%),lower,,2022,%,OECD Emplyment Outlook
+Finland,Happiness index,higher,7.769,2019,points,United Nations sustainable development solutions network
+Denmark,Happiness index,higher,7.6,2019,points,United Nations sustainable development solutions network
+Norway,Happiness index,higher,7.554,2019,points,United Nations sustainable development solutions network
+Netherlands,Happiness index,higher,7.488,2019,points,United Nations sustainable development solutions network
+Switzerland,Happiness index,higher,7.48,2019,points,United Nations sustainable development solutions network
+Sweden,Happiness index,higher,7.343,2019,points,United Nations sustainable development solutions network
+New Zealand,Happiness index,higher,7.307,2019,points,United Nations sustainable development solutions network
+Canada,Happiness index,higher,7.278,2019,points,United Nations sustainable development solutions network
+Austria,Happiness index,higher,7.246,2019,points,United Nations sustainable development solutions network
+Australia,Happiness index,higher,7.228,2019,points,United Nations sustainable development solutions network
+Costa Rica,Happiness index,higher,7.167,2019,points,United Nations sustainable development solutions network
+Israel,Happiness index,higher,7.139,2019,points,United Nations sustainable development solutions network
+United Kingdom,Happiness index,higher,7.054,2019,points,United Nations sustainable development solutions network
+Ireland,Happiness index,higher,7.021,2019,points,United Nations sustainable development solutions network
+Germany,Happiness index,higher,6.985,2019,points,United Nations sustainable development solutions network
+Belgium,Happiness index,higher,6.923,2019,points,United Nations sustainable development solutions network
+United States,Happiness index,higher,6.892,2019,points,United Nations sustainable development solutions network
+Czechia,Happiness index,higher,6.852,2019,points,United Nations sustainable development solutions network
+France,Happiness index,higher,6.592,2019,points,United Nations sustainable development solutions network
+Chile,Happiness index,higher,6.444,2019,points,United Nations sustainable development solutions network
+Spain,Happiness index,higher,6.354,2019,points,United Nations sustainable development solutions network
+Panama,Happiness index,higher,6.321,2019,points,United Nations sustainable development solutions network
+Brazil,Happiness index,higher,6.3,2019,points,United Nations sustainable development solutions network
+Uruguay,Happiness index,higher,6.293,2019,points,United Nations sustainable development solutions network
+Italy,Happiness index,higher,6.223,2019,points,United Nations sustainable development solutions network
+Poland,Happiness index,higher,6.182,2019,points,United Nations sustainable development solutions network
+Lithuania,Happiness index,higher,6.149,2019,points,United Nations sustainable development solutions network
+Slovenia,Happiness index,higher,6.118,2019,points,United Nations sustainable development solutions network
+Argentina,Happiness index,higher,6.086,2019,points,United Nations sustainable development solutions network
+Romania,Happiness index,higher,6.07,2019,points,United Nations sustainable development solutions network
+"Korea, Rep.",Happiness index,higher,5.895,2019,points,United Nations sustainable development solutions network
+Estonia,Happiness index,higher,5.893,2019,points,United Nations sustainable development solutions network
+Japan,Happiness index,higher,5.886,2019,points,United Nations sustainable development solutions network
+Hungary,Happiness index,higher,5.758,2019,points,United Nations sustainable development solutions network
+Peru,Happiness index,higher,5.697,2019,points,United Nations sustainable development solutions network
+Portugal,Happiness index,higher,5.693,2019,points,United Nations sustainable development solutions network
+Croatia,Happiness index,higher,5.432,2019,points,United Nations sustainable development solutions network
+Greece,Happiness index,higher,5.287,2019,points,United Nations sustainable development solutions network
+Indonesia,Happiness index,higher,5.192,2019,points,United Nations sustainable development solutions network
+Bulgaria,Happiness index,higher,5.011,2019,points,United Nations sustainable development solutions network
+Tunisia,Happiness index,higher,4.461,2019,points,United Nations sustainable development solutions network
+United States,Depression rate,lower,5.9,2017,%,World Health Organization
+Australia,Depression rate,lower,5.9,2017,%,World Health Organization
+Estonia,Depression rate,lower,5.9,2017,%,World Health Organization
+Brazil,Depression rate,lower,5.8,2017,%,World Health Organization
+Greece,Depression rate,lower,5.7,2017,%,World Health Organization
+Portugal,Depression rate,lower,5.7,2017,%,World Health Organization
+Finland,Depression rate,lower,5.6,2017,%,World Health Organization
+Lithuania,Depression rate,lower,5.6,2017,%,World Health Organization
+New Zealand,Depression rate,lower,5.4,2017,%,World Health Organization
+Germany,Depression rate,lower,5.2,2017,%,World Health Organization
+Spain,Depression rate,lower,5.2,2017,%,World Health Organization
+Czechia,Depression rate,lower,5.2,2017,%,World Health Organization
+Bulgaria,Depression rate,lower,5.2,2017,%,World Health Organization
+Italy,Depression rate,lower,5.1,2017,%,World Health Organization
+Poland,Depression rate,lower,5.1,2017,%,World Health Organization
+Hungary,Depression rate,lower,5.1,2017,%,World Health Organization
+Austria,Depression rate,lower,5.1,2017,%,World Health Organization
+Croatia,Depression rate,lower,5.1,2017,%,World Health Organization
+Slovenia,Depression rate,lower,5.1,2017,%,World Health Organization
+Romania,Depression rate,lower,5,2017,%,World Health Organization
+Chile,Depression rate,lower,5,2017,%,World Health Organization
+Switzerland,Depression rate,lower,5,2017,%,World Health Organization
+Denmark,Depression rate,lower,5,2017,%,World Health Organization
+Uruguay,Depression rate,lower,5,2017,%,World Health Organization
+Tunisia,Depression rate,lower,4.9,2017,%,World Health Organization
+Sweden,Depression rate,lower,4.9,2017,%,World Health Organization
+France,Depression rate,lower,4.8,2017,%,World Health Organization
+Peru,Depression rate,lower,4.8,2017,%,World Health Organization
+Belgium,Depression rate,lower,4.8,2017,%,World Health Organization
+Ireland,Depression rate,lower,4.8,2017,%,World Health Organization
+Argentina,Depression rate,lower,4.7,2017,%,World Health Organization
+Canada,Depression rate,lower,4.7,2017,%,World Health Organization
+Netherlands,Depression rate,lower,4.7,2017,%,World Health Organization
+Norway,Depression rate,lower,4.7,2017,%,World Health Organization
+Costa Rica,Depression rate,lower,4.7,2017,%,World Health Organization
+Israel,Depression rate,lower,4.6,2017,%,World Health Organization
+United Kingdom,Depression rate,lower,4.5,2017,%,World Health Organization
+Panama,Depression rate,lower,4.4,2017,%,World Health Organization
+Japan,Depression rate,lower,4.2,2017,%,World Health Organization
+"Korea, Rep.",Depression rate,lower,4.1,2017,%,World Health Organization
+Indonesia,Depression rate,lower,3.7,2017,%,World Health Organization

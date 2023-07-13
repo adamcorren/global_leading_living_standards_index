@@ -1,0 +1,177 @@
+democracy_rank,country,democracy_score,democracy_classification,continent
+1,Denmark,0.958,Working Democracy,Europe
+2,Norway,0.956,Working Democracy,Europe
+3,Finland,0.946,Working Democracy,Europe
+4,Sweden,0.946,Working Democracy,Europe
+5,Germany,0.944,Working Democracy,Europe
+6,Switzerland,0.934,Working Democracy,Europe
+7,Netherlands,0.93,Working Democracy,Europe
+8,New Zealand,0.928,Working Democracy,Oceana
+9,Belgium,0.925,Working Democracy,Europe
+10,Costa Rica,0.914,Working Democracy,North America
+11,Spain,0.912,Working Democracy,Europe
+12,Luxembourg,0.905,Working Democracy,Europe
+13,Australia,0.904,Working Democracy,Oceana
+14,Estonia,0.903,Working Democracy,Europe
+15,Iceland,0.899,Working Democracy,Europe
+16,Ireland,0.898,Working Democracy,Europe
+17,United Kingdom,0.892,Working Democracy,Europe
+18,Austria,0.89,Working Democracy,Europe
+19,France,0.889,Working Democracy,Europe
+20,South Korea,0.883,Working Democracy,Asia
+21,Lithuania,0.879,Working Democracy,Europe
+22,Italy,0.871,Working Democracy,Europe
+23,Portugal,0.864,Working Democracy,Europe
+24,Canada,0.86,Working Democracy,North America
+25,Japan,0.857,Working Democracy,Asia
+26,Taiwan,0.847,Working Democracy,Asia
+27,Uruguay,0.847,Deficient Democracy,South America
+28,Cyprus,0.846,Working Democracy,Europe
+29,Chile,0.84,Working Democracy,South America
+30,Slovakia,0.836,Working Democracy,Europe
+32,Greece,0.834,Working Democracy,Europe
+31,Czech Republic,0.834,Working Democracy,Europe
+33,Latvia,0.83,Working Democracy,Europe
+34,Barbados,0.83,Working Democracy,North America
+35,Israel,0.821,Working Democracy,Asia
+36,United States,0.811,Deficient Democracy,North America
+37,Cape Verde,0.792,Deficient Democracy,Africa
+38,Jamaica,0.787,Deficient Democracy,North America
+39,Trinidad and Tobago,0.784,Deficient Democracy,North America
+40,Slovenia,0.782,Deficient Democracy,Europe
+41,Tunisia,0.779,Deficient Democracy,Africa
+42,Malta,0.774,Deficient Democracy,Europe
+43,Vanuatu,0.769,Deficient Democracy,Oceana
+44,Croatia,0.763,Deficient Democracy,Europe
+45,Argentina,0.763,Deficient Democracy,South America
+46,Romania,0.731,Deficient Democracy,Europe
+47,South Africa,0.72,Deficient Democracy,Africa
+48,Botswana,0.719,Deficient Democracy,Africa
+49,Seychelles,0.716,Deficient Democracy,Africa
+50,Georgia,0.716,Deficient Democracy,Asia
+51,Peru,0.716,Deficient Democracy,South America
+52,Mauritius,0.715,Deficient Democracy,Africa
+53,Suriname,0.714,Deficient Democracy,South America
+54,Poland,0.71,Deficient Democracy,Europe
+55,São Tomé and Príncipe,0.707,Deficient Democracy,Africa
+56,Bhutan,0.701,Deficient Democracy,Asia
+57,Panama,0.691,Deficient Democracy,North America
+58,Namibia,0.685,Deficient Democracy,Africa
+59,Ghana,0.682,Deficient Democracy,Africa
+60,Bulgaria,0.672,Deficient Democracy,Europe
+61,Moldova,0.665,Deficient Democracy,Europe
+62,Mongolia,0.656,Deficient Democracy,Asia
+63,Lesotho,0.644,Deficient Democracy,Africa
+64,Burkina Faso,0.643,Deficient Democracy,Africa
+65,Solomon Islands,0.641,Deficient Democracy,Oceana
+66,Armenia,0.639,Deficient Democracy,Asia
+67,Maldives,0.636,Deficient Democracy,Asia
+68,Kosovo,0.624,Deficient Democracy,Europe
+69,Gambia,0.622,Deficient Democracy,Africa
+70,Sierra Leone,0.615,Deficient Democracy,Africa
+71,Timor-Leste,0.612,Deficient Democracy,Asia
+72,Guyana,0.605,Deficient Democracy,South America
+73,Nepal,0.603,Deficient Democracy,Asia
+74,Ecuador,0.601,Deficient Democracy,South America
+75,Malawi,0.599,Deficient Democracy,Africa
+76,Brazil,0.599,Deficient Democracy,South America
+77,Indonesia,0.587,Deficient Democracy,Asia
+78,Hungary,0.585,Deficient Democracy,Europe
+79,Albania,0.583,Deficient Democracy,Europe
+80,Liberia,0.582,Deficient Democracy,Africa
+81,Republic of North Macedonia,0.582,Deficient Democracy,Europe
+82,Kenya,0.576,Hybrid Regime,Africa
+83,Tanzania,0.567,Hybrid Regime,Africa
+84,Colombia,0.566,Hybrid Regime,South America
+85,India,0.564,Hybrid Regime,Asia
+86,Singapore,0.562,Hybrid Regime,Asia
+87,Dominican Republic,0.562,Hybrid Regime,North America
+88,Paraguay,0.558,Deficient Democracy,South America
+89,Montenegro,0.554,Hybrid Regime,Europe
+90,Mexico,0.553,Hybrid Regime,North America
+91,Myanmar,0.542,Hybrid Regime,Asia
+92,Sri Lanka,0.54,Deficient Democracy,Asia
+93,Ukraine,0.54,Hybrid Regime,Europe
+94,Fiji,0.537,Hybrid Regime,Oceana
+95,Malaysia,0.536,Hybrid Regime,Asia
+96,Bosnia and Herzegovina,0.531,Hybrid Regime,Europe
+97,Bolivia,0.521,Hybrid Regime,South America
+98,Guatemala,0.504,Hybrid Regime,North America
+100,Nigeria,0.503,Hybrid Regime,Africa
+99,Benin,0.503,Hybrid Regime,Africa
+101,Kuwait,0.496,Hybrid Regime,Asia
+102,Guinea-Bissau,0.492,Hybrid Regime,Africa
+103,Papua New Guinea,0.49,Hybrid Regime,Oceana
+104,El Salvador,0.485,Hybrid Regime,North America
+105,Morocco,0.474,Hybrid Regime,Africa
+106,Lebanon,0.474,Hybrid Regime,Asia
+107,Hong Kong,0.464,Hybrid Regime,Asia
+108,Zambia,0.456,Hybrid Regime,Africa
+109,Jordan,0.454,Hybrid Regime,Asia
+110,Mali,0.448,Hybrid Regime,Africa
+111,Kyrgyzstan,0.448,Hybrid Regime,Asia
+112,Gabon,0.443,Hybrid Regime,Africa
+113,Philippines,0.443,Hybrid Regime,Asia
+114,Mozambique,0.441,Hybrid Regime,Africa
+115,Serbia,0.439,Moderate Autocracy,Europe
+116,Somalia,0.432,Moderate Autocracy,Africa
+117,Ivory Coast,0.431,Hybrid Regime,Africa
+118,Madagascar,0.415,Moderate Autocracy,Africa
+119,Uganda,0.409,Hybrid Regime,Africa
+121,Angola,0.387,Moderate Autocracy,Africa
+120,Togo,0.387,Hybrid Regime,Africa
+122,Honduras,0.379,Moderate Autocracy,North America
+123,Pakistan,0.375,Hybrid Regime,Asia
+124,Comoros,0.372,Hybrid Regime,Africa
+125,Afghanistan,0.358,Moderate Autocracy,Asia
+126,Mauritania,0.357,Moderate Autocracy,Africa
+127,Iraq,0.354,Moderate Autocracy,Asia
+128,Ethiopia,0.351,Hybrid Regime,Africa
+129,Tanzania,0.349,Hybrid Regime,Africa
+130,Central African Republic,0.349,Moderate Autocracy,Africa
+131,Haiti,0.346,Moderate Autocracy,North America
+132,Democratic Republic of the Congo,0.337,Moderate Autocracy,Africa
+133,Zimbabwe,0.336,Moderate Autocracy,Africa
+134,Algeria,0.319,Moderate Autocracy,Africa
+135,Thailand,0.3,Moderate Autocracy,Asia
+136,Djibouti,0.291,Moderate Autocracy,Africa
+137,Turkey,0.29,Moderate Autocracy,Asia
+138,Cameroon,0.286,Moderate Autocracy,Africa
+139,Kazakhstan,0.276,Moderate Autocracy,Asia
+140,Guinea,0.275,Moderate Autocracy,Africa
+141,Rwanda,0.269,Moderate Autocracy,Africa
+142,Uzbekistan,0.269,Moderate Autocracy,Asia
+143,Congo,0.266,Moderate Autocracy,Africa
+144,Russia,0.262,Moderate Autocracy,Europe
+145,Vietnam,0.254,Moderate Autocracy,Asia
+146,Oman,0.251,Moderate Autocracy,Asia
+147,Iran,0.25,Moderate Autocracy,Asia
+148,Eswatini,0.239,Moderate Autocracy,Africa
+149,Bangladesh,0.215,Moderate Autocracy,Asia
+150,Chad,0.211,Moderate Autocracy,Africa
+151,Egypt,0.21,Moderate Autocracy,Africa
+152,Cambodia,0.178,Moderate Autocracy,Asia
+153,United Arab Emirates,0.166,Hard Autocracy,Asia
+154,Cuba,0.165,Moderate Autocracy,South America
+155,Belarus,0.139,Moderate Autocracy,Europe
+156,Nicaragua,0.137,Moderate Autocracy,North America
+157,Azerbaijan,0.136,Hard Autocracy,Asia
+158,Burundi,0.125,Hard Autocracy,Africa
+159,Venezuela,0.118,Hard Autocracy,South America
+160,Equatorial Guinea,0.117,Hard Autocracy,Africa
+161,Tajikistan,0.111,Hard Autocracy,Asia
+162,Laos,0.101,Hard Autocracy,Asia
+163,Libya,0.095,Hard Autocracy,Asia
+164,Turkmenistan,0.09,Hard Autocracy,Asia
+165,Somalia,0.082,Hard Autocracy,Africa
+166,Palestinian National Authority,0.082,Hard Autocracy,Asia
+167,Sudan,0.064,Hard Autocracy,Africa
+168,Palestinian National Authority,0.055,Hard Autocracy,Asia
+169,Qatar,0.054,Hard Autocracy,Asia
+170,South Sudan,0.053,Hard Autocracy,Africa
+171,Syria,0.053,Hard Autocracy,Asia
+173,Saudi Arabia,0.048,Hard Autocracy,Asia
+172,China,0.048,Hard Autocracy,Asia
+174,Yemen,0.041,Hard Autocracy,Asia
+175,North Korea,0.029,Hard Autocracy,Asia
+176,Eritrea,0.017,Hard Autocracy,Africa

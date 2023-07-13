@@ -1,0 +1,196 @@
+country,safety_score,safety_classification,safety_rank
+Iceland,95,Very Safe,1
+Denmark,94,Very Safe,2
+Austria,92,Very Safe,3
+French Polynesia,92,Very Safe,4
+Aruba,90,Very Safe,5
+Bermuda,90,Very Safe,6
+Gibraltar,90,Very Safe,7
+New Zealand,90,Very Safe,8
+Singapore,90,Very Safe,9
+British Virgin Islands,89,Very Safe,10
+Liechtenstein,89,Very Safe,11
+Switzerland,89,Very Safe,12
+Canada,88,Very Safe,13
+Czech Republic,88,Very Safe,14
+Monaco,88,Very Safe,15
+Slovenia,87,Very Safe,16
+Australia,86,Very Safe,17
+Finland,86,Very Safe,18
+Germany,85,Very Safe,19
+Norway,85,Very Safe,20
+Poland,84,Very Safe,21
+Qatar,84,Very Safe,22
+Croatia,83,Very Safe,23
+Hungary,83,Very Safe,24
+Ireland,83,Very Safe,25
+Japan,83,Very Safe,26
+Spain,83,Very Safe,27
+Sweden,83,Very Safe,28
+Estonia,82,Very Safe,29
+South Korea,82,Very Safe,30
+Barbados,80,Very Safe,31
+Bonaire,80,Very Safe,32
+Brunei,80,Very Safe,33
+Bulgaria,80,Very Safe,34
+Curacao,80,Very Safe,35
+Dominica,80,Very Safe,36
+Greenland,80,Very Safe,37
+Grenada,80,Very Safe,38
+Latvia,80,Very Safe,39
+Mauritius,80,Very Safe,40
+Nauru,80,Very Safe,41
+Palau,80,Very Safe,42
+Romania,80,Very Safe,43
+Seychelles,80,Very Safe,44
+Slovakia,80,Very Safe,45
+Chile,79,Very Safe,46
+Lithuania,79,Very Safe,47
+United Arab Emirates,79,Very Safe,48
+Malta,78,Very Safe,49
+Belarus,77,Very Safe,50
+Botswana,77,Very Safe,51
+Italy,77,Very Safe,52
+Serbia,77,Very Safe,53
+United Kingdom,77,Very Safe,54
+Uruguay,77,Very Safe,55
+Oman,76,Very Safe,56
+Albania,75,Very Safe,57
+Cyprus,75,Very Safe,58
+Netherlands,75,Very Safe,59
+Luxembourg,74,Very Safe,60
+Ghana,73,Very Safe,61
+Greece,73,Very Safe,62
+Vietnam,73,Very Safe,63
+Kazakhstan,72,Very Safe,64
+Mongolia,71,Very Safe,65
+Namibia,71,Very Safe,66
+Anguilla,70,Very Safe,67
+Argentina,70,Very Safe,68
+Belgium,70,Very Safe,69
+Bhutan,70,Very Safe,70
+Fiji,70,Very Safe,71
+Montenegro,70,Very Safe,72
+Montserrat,70,Very Safe,73
+Saint Kitts and Nevis,70,Very Safe,74
+Saint Lucia,70,Very Safe,75
+Samoa,70,Very Safe,76
+Tonga,70,Very Safe,77
+Vanuatu,70,Very Safe,78
+Gambia,69,Very Safe,79
+Malaysia,69,Very Safe,80
+Togo,69,Very Safe,81
+Cambodia,68,Very Safe,82
+Equatorial Guinea,68,Very Safe,83
+United States,68,Very Safe,84
+Moldova,67,Very Safe,85
+China,66,Very Safe,86
+Kuwait,66,Very Safe,87
+Mexico,65,Moderately Safe,88
+Panama,65,Moderately Safe,89
+Costa Rica,64,Moderately Safe,90
+France,64,Moderately Safe,91
+Georgia,63,Moderately Safe,92
+Suriname,62,Moderately Safe,93
+Armenia,60,Moderately Safe,94
+Israel,60,Moderately Safe,95
+Sri Lanka,60,Moderately Safe,96
+Nepal,59,Moderately Safe,97
+Tanzania,59,Moderately Safe,98
+Indonesia,58,Moderately Safe,99
+Bolivia,57,Moderately Safe,100
+Portugal,57,Moderately Safe,101
+Ecuador,55,Moderately Safe,102
+Jamaica,55,Moderately Safe,103
+Republic of North Macedonia,55,Moderately Safe,104
+Sudan,55,Moderately Safe,105
+Dominican Republic,54,Moderately Safe,106
+Morocco,54,Moderately Safe,107
+Congo,54,Moderately Safe,108
+Taiwan,54,Moderately Safe,109
+Guatemala,53,Moderately Safe,110
+Jordan,53,Moderately Safe,111
+Malawi,53,Moderately Safe,112
+Tunisia,53,Moderately Safe,113
+Zimbabwe,53,Moderately Safe,114
+Brazil,52,Moderately Safe,115
+Zambia,52,Moderately Safe,116
+Azerbaijan,51,Moderately Safe,117
+Laos,51,Moderately Safe,118
+Cayman Islands,50,Moderately Safe,119
+El Salvador,50,Moderately Safe,120
+Peru,50,Moderately Safe,121
+Sierra Leone,50,Moderately Safe,122
+Bangladesh,49,Moderately Safe,123
+Honduras,49,Moderately Safe,124
+Madagascar,49,Moderately Safe,125
+The Bahamas,49,Moderately Safe,126
+Uganda,49,Moderately Safe,127
+Angola,48,Moderately Safe,128
+Bosnia and Herzegovina,48,Moderately Safe,129
+South Africa,48,Moderately Safe,130
+Thailand,48,Moderately Safe,131
+Timor-Leste,48,Moderately Safe,132
+Cuba,47,Moderately Safe,133
+Eswatini,47,Moderately Safe,134
+India,47,Moderately Safe,135
+Lesotho,47,Moderately Safe,136
+Papua New Guinea,47,Moderately Safe,137
+Philippines,47,Moderately Safe,138
+Bahrain,46,Moderately Safe,139
+Maldives,46,Moderately Safe,140
+Mozambique,46,Moderately Safe,141
+Nicaragua,46,Moderately Safe,142
+Saudi Arabia,46,Moderately Safe,143
+Benin,45,Moderately Safe,144
+Gabon,45,Moderately Safe,145
+Kenya,45,Moderately Safe,146
+Liberia,45,Moderately Safe,147
+Paraguay,45,Moderately Safe,148
+Senegal,45,Moderately Safe,149
+Turkey,45,Moderately Safe,150
+Algeria,44,Moderately Safe,151
+Kosovo,44,Moderately Safe,152
+Belize,43,Moderately Safe,153
+Guyana,43,Moderately Safe,154
+Trinidad and Tobago,43,Moderately Safe,155
+Colombia,42,Moderately Safe,156
+Haiti,42,Moderately Safe,157
+Turkmenistan,42,Moderately Safe,158
+Burkina Faso,41,Moderately Safe,159
+Ethiopia,41,Moderately Safe,160
+Uzbekistan,40,Moderately Safe,161
+Guinea,39,Moderately Safe,162
+Myanmar,39,Moderately Safe,163
+Djibouti,38,Moderately Safe,164
+Egypt,38,Moderately Safe,165
+Kyrgyzstan,38,Moderately Safe,166
+Tajikistan,38,Moderately Safe,167
+Ivory Coast,37,Moderately Safe,168
+Niger,37,Moderately Safe,169
+Rwanda,37,Moderately Safe,170
+Cameroon,36,Moderately Safe,171
+Guinea-Bissau,36,Moderately Safe,172
+Iran,35,Moderately Safe,173
+Lebanon,35,Moderately Safe,174
+Mauritania,35,Moderately Safe,175
+Puerto Rico,34,Moderately Safe,176
+Russia,34,Moderately Safe,177
+Nigeria,33,Not Safe,178
+Venezuela,33,Not Safe,179
+Central African Republic,32,Not Safe,180
+Chad,32,Not Safe,181
+Eritrea,32,Not Safe,182
+Mali,31,Not Safe,183
+Burundi,30,Not Safe,184
+Ukraine,30,Not Safe,185
+Pakistan,26,Not Safe,186
+Democratic Republic of the Congo,21,Not Safe,187
+Libya,21,Not Safe,188
+North Korea,21,Not Safe,189
+Somalia,16,Not Safe,190
+Afghanistan,14,Not Safe,191
+Iraq,14,Not Safe,192
+South Sudan,10,Not Safe,193
+Syria,10,Not Safe,194
+Yemen,10,Not Safe,195

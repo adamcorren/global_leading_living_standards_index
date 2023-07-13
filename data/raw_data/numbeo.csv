@@ -1,0 +1,288 @@
+country,indicator,better_higher_lower,latest_value,year
+Argentina,Rent cost index (points),lower,6.9,2023
+Australia,Rent cost index (points),lower,39,2023
+Austria,Rent cost index (points),lower,23.1,2023
+Belgium,Rent cost index (points),lower,22.4,2023
+Brazil,Rent cost index (points),lower,8.3,2023
+Bulgaria,Rent cost index (points),lower,10,2023
+Canada,Rent cost index (points),lower,33.4,2023
+Chile,Rent cost index (points),lower,13.4,2023
+Costa Rica,Rent cost index (points),lower,14.9,2023
+Croatia,Rent cost index (points),lower,12.2,2023
+Czechia,Rent cost index (points),lower,19.1,2023
+Denmark,Rent cost index (points),lower,30.4,2023
+Estonia,Rent cost index (points),lower,16.4,2023
+Finland,Rent cost index (points),lower,22.7,2023
+France,Rent cost index (points),lower,24.6,2023
+Germany,Rent cost index (points),lower,26.1,2023
+Greece,Rent cost index (points),lower,12.9,2023
+Hungary,Rent cost index (points),lower,11.6,2023
+Indonesia,Rent cost index (points),lower,8.3,2023
+Ireland,Rent cost index (points),lower,44.4,2023
+Israel,Rent cost index (points),lower,30.4,2023
+Italy,Rent cost index (points),lower,20.5,2023
+Japan,Rent cost index (points),lower,20.8,2023
+"Korea, Rep.",Rent cost index (points),lower,17.5,2023
+Lithuania,Rent cost index (points),lower,16.8,2023
+Netherlands,Rent cost index (points),lower,33.4,2023
+New Zealand,Rent cost index (points),lower,31.9,2023
+Norway,Rent cost index (points),lower,30.9,2023
+Panama,Rent cost index (points),lower,19.7,2023
+Peru,Rent cost index (points),lower,11.1,2023
+Poland,Rent cost index (points),lower,16,2023
+Portugal,Rent cost index (points),lower,21.9,2023
+Romania,Rent cost index (points),lower,9.9,2023
+Slovenia,Rent cost index (points),lower,16.6,2023
+Spain,Rent cost index (points),lower,21.7,2023
+Sweden,Rent cost index (points),lower,22.7,2023
+Switzerland,Rent cost index (points),lower,50.2,2023
+Tunisia,Rent cost index (points),lower,5,2023
+United Kingdom,Rent cost index (points),lower,30.3,2023
+United States,Rent cost index (points),lower,47.1,2023
+Uruguay,Rent cost index (points),lower,15.9,2023
+Argentina,Groceries cost index (points),lower,25.7,2023
+Australia,Groceries cost index (points),lower,73.3,2023
+Austria,Groceries cost index (points),lower,58,2023
+Belgium,Groceries cost index (points),lower,54.5,2023
+Brazil,Groceries cost index (points),lower,29.3,2023
+Bulgaria,Groceries cost index (points),lower,35.7,2023
+Canada,Groceries cost index (points),lower,64.2,2023
+Chile,Groceries cost index (points),lower,39.9,2023
+Costa Rica,Groceries cost index (points),lower,46.7,2023
+Croatia,Groceries cost index (points),lower,39.5,2023
+Czechia,Groceries cost index (points),lower,40.7,2023
+Denmark,Groceries cost index (points),lower,62.4,2023
+Estonia,Groceries cost index (points),lower,42.4,2023
+Finland,Groceries cost index (points),lower,58.2,2023
+France,Groceries cost index (points),lower,65.1,2023
+Germany,Groceries cost index (points),lower,50.9,2023
+Greece,Groceries cost index (points),lower,42.4,2023
+Hungary,Groceries cost index (points),lower,34.8,2023
+Indonesia,Groceries cost index (points),lower,33.1,2023
+Ireland,Groceries cost index (points),lower,55.8,2023
+Israel,Groceries cost index (points),lower,63.8,2023
+Italy,Groceries cost index (points),lower,51.9,2023
+Japan,Groceries cost index (points),lower,66.5,2023
+"Korea, Rep.",Groceries cost index (points),lower,87.5,2023
+Lithuania,Groceries cost index (points),lower,39,2023
+Netherlands,Groceries cost index (points),lower,57.4,2023
+New Zealand,Groceries cost index (points),lower,69.4,2023
+Norway,Groceries cost index (points),lower,81.8,2023
+Panama,Groceries cost index (points),lower,46,2023
+Peru,Groceries cost index (points),lower,29.4,2023
+Poland,Groceries cost index (points),lower,30.8,2023
+Portugal,Groceries cost index (points),lower,36,2023
+Romania,Groceries cost index (points),lower,32,2023
+Slovenia,Groceries cost index (points),lower,43.9,2023
+Spain,Groceries cost index (points),lower,41,2023
+Sweden,Groceries cost index (points),lower,55.2,2023
+Switzerland,Groceries cost index (points),lower,113.9,2023
+Tunisia,Groceries cost index (points),lower,25.6,2023
+United Kingdom,Groceries cost index (points),lower,47.7,2023
+United States,Groceries cost index (points),lower,71.4,2023
+Uruguay,Groceries cost index (points),lower,48.1,2023
+Argentina,Restaurant cost index (points),lower,26.8,2023
+Australia,Restaurant cost index (points),lower,66.2,2023
+Austria,Restaurant cost index (points),lower,63.5,2023
+Belgium,Restaurant cost index (points),lower,69,2023
+Brazil,Restaurant cost index (points),lower,26.4,2023
+Bulgaria,Restaurant cost index (points),lower,35.8,2023
+Canada,Restaurant cost index (points),lower,62.8,2023
+Chile,Restaurant cost index (points),lower,42.4,2023
+Costa Rica,Restaurant cost index (points),lower,41.4,2023
+Croatia,Restaurant cost index (points),lower,39.5,2023
+Czechia,Restaurant cost index (points),lower,36.6,2023
+Denmark,Restaurant cost index (points),lower,91.9,2023
+Estonia,Restaurant cost index (points),lower,55.1,2023
+Finland,Restaurant cost index (points),lower,70.4,2023
+France,Restaurant cost index (points),lower,66.9,2023
+Germany,Restaurant cost index (points),lower,56.2,2023
+Greece,Restaurant cost index (points),lower,50.1,2023
+Hungary,Restaurant cost index (points),lower,32.3,2023
+Indonesia,Restaurant cost index (points),lower,16,2023
+Ireland,Restaurant cost index (points),lower,71.9,2023
+Israel,Restaurant cost index (points),lower,85,2023
+Italy,Restaurant cost index (points),lower,61.9,2023
+Japan,Restaurant cost index (points),lower,37.9,2023
+"Korea, Rep.",Restaurant cost index (points),lower,37.6,2023
+Lithuania,Restaurant cost index (points),lower,48.1,2023
+Netherlands,Restaurant cost index (points),lower,67.6,2023
+New Zealand,Restaurant cost index (points),lower,69.7,2023
+Norway,Restaurant cost index (points),lower,90.6,2023
+Panama,Restaurant cost index (points),lower,41.4,2023
+Peru,Restaurant cost index (points),lower,22.3,2023
+Poland,Restaurant cost index (points),lower,34,2023
+Portugal,Restaurant cost index (points),lower,38.7,2023
+Romania,Restaurant cost index (points),lower,33,2023
+Slovenia,Restaurant cost index (points),lower,43.6,2023
+Spain,Restaurant cost index (points),lower,51.5,2023
+Sweden,Restaurant cost index (points),lower,64.3,2023
+Switzerland,Restaurant cost index (points),lower,109.5,2023
+Tunisia,Restaurant cost index (points),lower,14.4,2023
+United Kingdom,Restaurant cost index (points),lower,67.9,2023
+United States,Restaurant cost index (points),lower,70.8,2023
+Uruguay,Restaurant cost index (points),lower,59.5,2023
+Argentina,Local purchasing power index (points),higher,36.8,2023
+Australia,Local purchasing power index (points),higher,110.9,2023
+Austria,Local purchasing power index (points),higher,91.2,2023
+Belgium,Local purchasing power index (points),higher,94.5,2023
+Brazil,Local purchasing power index (points),higher,28.7,2023
+Bulgaria,Local purchasing power index (points),higher,51.2,2023
+Canada,Local purchasing power index (points),higher,102.1,2023
+Chile,Local purchasing power index (points),higher,37.3,2023
+Costa Rica,Local purchasing power index (points),higher,41.5,2023
+Croatia,Local purchasing power index (points),higher,56.2,2023
+Czechia,Local purchasing power index (points),higher,71.8,2023
+Denmark,Local purchasing power index (points),higher,105,2023
+Estonia,Local purchasing power index (points),higher,61.4,2023
+Finland,Local purchasing power index (points),higher,98.8,2023
+France,Local purchasing power index (points),higher,86.2,2023
+Germany,Local purchasing power index (points),higher,107.6,2023
+Greece,Local purchasing power index (points),higher,41.9,2023
+Hungary,Local purchasing power index (points),higher,53.1,2023
+Indonesia,Local purchasing power index (points),higher,27.5,2023
+Ireland,Local purchasing power index (points),higher,82.6,2023
+Israel,Local purchasing power index (points),higher,80.5,2023
+Italy,Local purchasing power index (points),higher,66.5,2023
+Japan,Local purchasing power index (points),higher,100.4,2023
+"Korea, Rep.",Local purchasing power index (points),higher,85.5,2023
+Lithuania,Local purchasing power index (points),higher,56.7,2023
+Netherlands,Local purchasing power index (points),higher,107.8,2023
+New Zealand,Local purchasing power index (points),higher,93,2023
+Norway,Local purchasing power index (points),higher,95,2023
+Panama,Local purchasing power index (points),higher,36.4,2023
+Peru,Local purchasing power index (points),higher,31.3,2023
+Poland,Local purchasing power index (points),higher,64,2023
+Portugal,Local purchasing power index (points),higher,51.7,2023
+Romania,Local purchasing power index (points),higher,52.5,2023
+Slovenia,Local purchasing power index (points),higher,61.7,2023
+Spain,Local purchasing power index (points),higher,82.5,2023
+Sweden,Local purchasing power index (points),higher,101.2,2023
+Switzerland,Local purchasing power index (points),higher,118.7,2023
+Tunisia,Local purchasing power index (points),higher,30,2023
+United Kingdom,Local purchasing power index (points),higher,98.9,2023
+United States,Local purchasing power index (points),higher,115.7,2023
+Uruguay,Local purchasing power index (points),higher,38.4,2023
+"Korea, Rep.",Price to Income Ratio (%),lower,26,2023
+Argentina,Price to Income Ratio (%),lower,22.7,2023
+Peru,Price to Income Ratio (%),lower,19,2023
+Indonesia,Price to Income Ratio (%),lower,18.5,2023
+Brazil,Price to Income Ratio (%),lower,18.3,2023
+Chile,Price to Income Ratio (%),lower,15.6,2023
+Czechia,Price to Income Ratio (%),lower,14.9,2023
+Hungary,Price to Income Ratio (%),lower,14.6,2023
+Israel,Price to Income Ratio (%),lower,14.1,2023
+Uruguay,Price to Income Ratio (%),lower,13.7,2023
+Poland,Price to Income Ratio (%),lower,13.3,2023
+Croatia,Price to Income Ratio (%),lower,13.2,2023
+Lithuania,Price to Income Ratio (%),lower,12.7,2023
+Portugal,Price to Income Ratio (%),lower,12.6,2023
+Slovenia,Price to Income Ratio (%),lower,12.1,2023
+Tunisia,Price to Income Ratio (%),lower,11.9,2023
+Estonia,Price to Income Ratio (%),lower,11.8,2023
+France,Price to Income Ratio (%),lower,11.8,2023
+Greece,Price to Income Ratio (%),lower,11.5,2023
+Romania,Price to Income Ratio (%),lower,10.9,2023
+Germany,Price to Income Ratio (%),lower,10.7,2023
+Austria,Price to Income Ratio (%),lower,10.3,2023
+Japan,Price to Income Ratio (%),lower,10.3,2023
+Panama,Price to Income Ratio (%),lower,10.2,2023
+Sweden,Price to Income Ratio (%),lower,9.9,2023
+Switzerland,Price to Income Ratio (%),lower,9.7,2023
+Italy,Price to Income Ratio (%),lower,9.7,2023
+Costa Rica,Price to Income Ratio (%),lower,9.5,2023
+Canada,Price to Income Ratio (%),lower,9.4,2023
+Bulgaria,Price to Income Ratio (%),lower,9.2,2023
+New Zealand,Price to Income Ratio (%),lower,9,2023
+United Kingdom,Price to Income Ratio (%),lower,8.3,2023
+Norway,Price to Income Ratio (%),lower,8.1,2023
+Finland,Price to Income Ratio (%),lower,7.8,2023
+Spain,Price to Income Ratio (%),lower,7.8,2023
+Australia,Price to Income Ratio (%),lower,7.5,2023
+Ireland,Price to Income Ratio (%),lower,7.3,2023
+Netherlands,Price to Income Ratio (%),lower,7.2,2023
+Denmark,Price to Income Ratio (%),lower,6.6,2023
+Belgium,Price to Income Ratio (%),lower,6.5,2023
+United States,Price to Income Ratio (%),lower,4.5,2023
+"Korea, Rep.",Mortgage affordability index,higher,0.5,2023
+Argentina,Mortgage affordability index,higher,0.1,2023
+Peru,Mortgage affordability index,higher,0.5,2023
+Indonesia,Mortgage affordability index,higher,0.5,2023
+Brazil,Mortgage affordability index,higher,0.5,2023
+Chile,Mortgage affordability index,higher,0.8,2023
+Czechia,Mortgage affordability index,higher,0.8,2023
+Hungary,Mortgage affordability index,higher,0.7,2023
+Israel,Mortgage affordability index,higher,1,2023
+Uruguay,Mortgage affordability index,higher,0.6,2023
+Poland,Mortgage affordability index,higher,0.8,2023
+Croatia,Mortgage affordability index,higher,1.1,2023
+Lithuania,Mortgage affordability index,higher,1.2,2023
+Portugal,Mortgage affordability index,higher,1.3,2023
+Slovenia,Mortgage affordability index,higher,1.3,2023
+Tunisia,Mortgage affordability index,higher,0.7,2023
+Estonia,Mortgage affordability index,higher,1.4,2023
+France,Mortgage affordability index,higher,1.5,2023
+Greece,Mortgage affordability index,higher,1.2,2023
+Romania,Mortgage affordability index,higher,1,2023
+Germany,Mortgage affordability index,higher,1.5,2023
+Austria,Mortgage affordability index,higher,1.6,2023
+Japan,Mortgage affordability index,higher,1.7,2023
+Panama,Mortgage affordability index,higher,1.2,2023
+Sweden,Mortgage affordability index,higher,1.6,2023
+Switzerland,Mortgage affordability index,higher,1.8,2023
+Italy,Mortgage affordability index,higher,1.7,2023
+Costa Rica,Mortgage affordability index,higher,0.9,2023
+Canada,Mortgage affordability index,higher,1.3,2023
+Bulgaria,Mortgage affordability index,higher,1.6,2023
+New Zealand,Mortgage affordability index,higher,1.5,2023
+United Kingdom,Mortgage affordability index,higher,1.8,2023
+Norway,Mortgage affordability index,higher,1.9,2023
+Finland,Mortgage affordability index,higher,2.2,2023
+Spain,Mortgage affordability index,higher,2.1,2023
+Australia,Mortgage affordability index,higher,1.8,2023
+Ireland,Mortgage affordability index,higher,2,2023
+Netherlands,Mortgage affordability index,higher,2.2,2023
+Denmark,Mortgage affordability index,higher,2.6,2023
+Belgium,Mortgage affordability index,higher,2.6,2023
+United States,Mortgage affordability index,higher,2.8,2023
+"Korea, Rep.",Numbeo health index,higher,83,2023
+Japan,Numbeo health index,higher,80.3,2023
+France,Numbeo health index,higher,79.4,2023
+Denmark,Numbeo health index,higher,79.2,2023
+Spain,Numbeo health index,higher,77.9,2023
+Austria,Numbeo health index,higher,77.2,2023
+Netherlands,Numbeo health index,higher,77.1,2023
+Finland,Numbeo health index,higher,77.1,2023
+Norway,Numbeo health index,higher,76.7,2023
+Czechia,Numbeo health index,higher,75.5,2023
+Australia,Numbeo health index,higher,75.3,2023
+Belgium,Numbeo health index,higher,75.2,2023
+Switzerland,Numbeo health index,higher,74.5,2023
+United Kingdom,Numbeo health index,higher,74.1,2023
+Estonia,Numbeo health index,higher,74.1,2023
+Israel,Numbeo health index,higher,73.5,2023
+Lithuania,Numbeo health index,higher,73.2,2023
+Germany,Numbeo health index,higher,71.9,2023
+Portugal,Numbeo health index,higher,71.5,2023
+New Zealand,Numbeo health index,higher,71,2023
+Canada,Numbeo health index,higher,70.4,2023
+Argentina,Numbeo health index,higher,68.9,2023
+Sweden,Numbeo health index,higher,68.6,2023
+United States,Numbeo health index,higher,68.6,2023
+Uruguay,Numbeo health index,higher,68.4,2023
+Italy,Numbeo health index,higher,66.3,2023
+Slovenia,Numbeo health index,higher,65.3,2023
+Chile,Numbeo health index,higher,64.4,2023
+Croatia,Numbeo health index,higher,63.9,2023
+Costa Rica,Numbeo health index,higher,63.1,2023
+Panama,Numbeo health index,higher,61,2023
+Indonesia,Numbeo health index,higher,60.5,2023
+Brazil,Numbeo health index,higher,58.2,2023
+Poland,Numbeo health index,higher,57.6,2023
+Greece,Numbeo health index,higher,57.5,2023
+Tunisia,Numbeo health index,higher,57.1,2023
+Bulgaria,Numbeo health index,higher,56.7,2023
+Romania,Numbeo health index,higher,56.5,2023
+Peru,Numbeo health index,higher,55.9,2023
+Hungary,Numbeo health index,higher,54.4,2023
+Ireland,Numbeo health index,higher,51.8,2023

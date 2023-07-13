@@ -1,0 +1,49 @@
+id,indicator,subindex,area,subindex_weight,total_weight
+1,GDP per Capita PPP,Economy,All,0.3,0.06
+2,Unemployment Rate,Economy,All,0.2,0.04
+3,Inflation Rate,Economy,All,0.15,0.03
+4,Local purchasing power index (points),Economy,All,0.15,0.03
+5,Average monthly wage,Economy,All,0.1,0.02
+6,Business Confidence,Economy,All,0.1,0.02
+7,Strength of legal rights index (0=weak to 12=strong),Quality of Life,Happiness and Freedom,0.2,0.04
+8,Personal freedom score,Quality of Life,Happiness and Freedom,0.2,0.04
+9,Happiness index,Quality of Life,Happiness and Freedom,0.2,0.03
+10,Economic freedom score,Quality of Life,Happiness and Freedom,0.2,0.03
+11,Depression rate,Quality of Life,Happiness and Freedom,0.1,0.015
+12,"Suicide mortality rate (per 100,000 population)",Quality of Life,Happiness and Freedom,0.1,0.01
+13,International Education Database,Quality of Life,Education & Healthcare,0.2,0.03
+14,"Government expenditure on education, total (% of government expenditure)",Quality of Life,Education & Healthcare,0.05,0.01
+15,Unemployment with advanced education (% of total labor force with advanced education),Quality of Life,Education & Healthcare,0.05,0.01
+16,"School enrollment, tertiary (% gross)",Quality of Life,Education & Healthcare,0.05,0.01
+17,"Share of youth not in education, employment or training, total (% of youth population)",Quality of Life,Education & Healthcare,0.05,0.01
+18,CEO health care index,Quality of Life,Education & Healthcare,0.1,0.02
+19,Legatum health care ranking,Quality of Life,Education & Healthcare,0.2,0.04
+20,Numbeo health index,Quality of Life,Education & Healthcare,0.2,0.03
+21,"Physicians (per 1,000 people)",Quality of Life,Education & Healthcare,0.05,0.01
+22,Hospital Beds,Quality of Life,Education & Healthcare,0.05,0.01
+23,Average precipitation in depth (mm per year),Quality of Life,"Climate, Safety and Security",0.1,0.005
+24,CO2 emissions (metric tons per capita),Quality of Life,"Climate, Safety and Security",0.2,0.01
+25,Vulnerability and exposure to natural hazards,Quality of Life,"Climate, Safety and Security",0.3,0.015
+26,"Intentional homicides (per 100,000 people)",Quality of Life,"Climate, Safety and Security",0.2,0.01
+27,"Mortality caused by road traffic injury (per 100,000 population)",Quality of Life,"Climate, Safety and Security",0.1,0.005
+28,Armed forces personnel (% of total labor force),Quality of Life,"Climate, Safety and Security",0.1,0.005
+29,Poverty gap at $2.15 a day (2017 PPP) (%),Quality of Life,Poverty and Equality,0.2,0.02
+30,People using at least basic drinking water services (% of population),Quality of Life,Poverty and Equality,0.15,0.015
+31,Prevalence of moderate or severe food insecurity in the population (%),Quality of Life,Poverty and Equality,0.15,0.015
+32,Access to electricity (% of population),Quality of Life,Poverty and Equality,0.1,0.01
+33,Individuals using the Internet (% of population),Quality of Life,Poverty and Equality,0.05,0.005
+34,Gender wage gap (%),Quality of Life,Poverty and Equality,0.1,0.01
+35,Women Business and the Law Index Score (scale 1-100),Quality of Life,Poverty and Equality,0.2,0.02
+36,Proportion of seats held by women in national parliaments (%),Quality of Life,Poverty and Equality,0.05,0.01
+37,Price to Income Ratio (%),Cost of Living,All,0.2,0.04
+38,Mortgage affordability index,Cost of Living,All,0.2,0.04
+39,Rent cost index (points),Cost of Living,All,0.2,0.04
+40,Personal Income Tax Rate,Cost of Living,All,0.25,0.05
+41,Groceries cost index (points),Cost of Living,All,0.1,0.02
+42,Restaurant cost index (points),Cost of Living,All,0.05,0.01
+43,Ease of doing business score (0 = lowest performance to 100 = best performance),Growth and Development,All,0.3,0.03
+44,"International tourism, number of arrivals",Growth and Development,All,0.2,0.02
+45,Net migration,Growth and Development,All,0.1,0.01
+46,Exports of goods and services (annual % growth),Growth and Development,All,0.1,0.01
+47,Full Year GDP Growth,Growth and Development,All,0.2,0.02
+48,Population growth (annual %),Growth and Development,All,0.1,0.01

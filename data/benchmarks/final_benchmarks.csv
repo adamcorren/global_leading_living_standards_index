@@ -1,0 +1,162 @@
+country,continent,democracy_rank,democracy_score,democracy_classification,safety_rank,safety_score,safety_classification,gdp_billions,gdp_rank
+Denmark,Europe,1,0.958,Working Democracy,2,94,Very Safe,330,35
+Norway,Europe,2,0.956,Working Democracy,20,85,Very Safe,399,28
+Finland,Europe,3,0.946,Working Democracy,18,86,Very Safe,252,42
+Sweden,Europe,4,0.946,Working Democracy,28,83,Very Safe,536,22
+Germany,Europe,5,0.944,Working Democracy,19,85,Very Safe,3693,4
+Switzerland,Europe,6,0.934,Working Democracy,12,89,Very Safe,679,20
+Netherlands,Europe,7,0.93,Working Democracy,59,75,Very Safe,831,18
+New Zealand,Oceana,8,0.928,Working Democracy,8,90,Very Safe,204,50
+Belgium,Europe,9,0.925,Working Democracy,69,70,Very Safe,495,24
+Costa Rica,North America,10,0.914,Working Democracy,90,64,Moderately Safe,57.29,76
+Spain,Europe,11,0.912,Working Democracy,27,83,Very Safe,1314,14
+Luxembourg,Europe,12,0.905,Working Democracy,60,74,Very Safe,62.32,72
+Australia,Oceana,13,0.904,Working Democracy,17,86,Very Safe,1323,13
+Estonia,Europe,14,0.903,Working Democracy,29,82,Very Safe,26.61,100
+Iceland,Europe,15,0.899,Working Democracy,1,95,Very Safe,24.49,105
+Ireland,Europe,16,0.898,Working Democracy,25,83,Very Safe,331,34
+United Kingdom,Europe,17,0.892,Working Democracy,54,77,Very Safe,2638,6
+Austria,Europe,18,0.89,Working Democracy,3,92,Very Safe,417,27
+France,Europe,19,0.889,Working Democracy,91,64,Moderately Safe,2583,7
+South Korea,Asia,20,0.883,Working Democracy,30,82,Very Safe,1531,12
+Lithuania,Europe,21,0.879,Working Democracy,47,79,Very Safe,47.54,85
+Italy,Europe,22,0.871,Working Democracy,52,77,Very Safe,1944,9
+Portugal,Europe,23,0.864,Working Democracy,101,57,Moderately Safe,219,46
+Canada,North America,24,0.86,Working Democracy,13,88,Very Safe,1647,10
+Japan,Asia,25,0.857,Working Democracy,26,83,Very Safe,4872,3
+Uruguay,South America,27,0.847,Deficient Democracy,55,77,Very Safe,56.16,77
+Cyprus,Europe,28,0.846,Working Democracy,58,75,Very Safe,22.05,109
+Chile,South America,29,0.84,Working Democracy,46,79,Very Safe,277,41
+Slovakia,Europe,30,0.836,Working Democracy,45,80,Very Safe,95.62,64
+Greece,Europe,32,0.834,Working Democracy,62,73,Very Safe,203,51
+Czech Republic,Europe,31,0.834,Working Democracy,14,88,Very Safe,216,47
+Latvia,Europe,33,0.83,Working Democracy,39,80,Very Safe,30.46,99
+Barbados,North America,34,0.83,Working Democracy,31,80,Very Safe,4.67,153
+Israel,Asia,35,0.821,Working Democracy,95,60,Moderately Safe,353,31
+United States,North America,36,0.811,Deficient Democracy,84,68,Very Safe,19485,1
+Jamaica,North America,38,0.787,Deficient Democracy,103,55,Moderately Safe,14.78,120
+Trinidad and Tobago,North America,39,0.784,Deficient Democracy,155,43,Moderately Safe,22.08,108
+Slovenia,Europe,40,0.782,Deficient Democracy,16,87,Very Safe,48.77,84
+Tunisia,Africa,41,0.779,Deficient Democracy,113,53,Moderately Safe,39.95,89
+Malta,Europe,42,0.774,Deficient Democracy,49,78,Very Safe,12.52,127
+Vanuatu,Oceana,43,0.769,Deficient Democracy,78,70,Very Safe,0.86,179
+Croatia,Europe,44,0.763,Deficient Democracy,23,83,Very Safe,55.21,78
+Argentina,South America,45,0.763,Deficient Democracy,68,70,Very Safe,637,21
+Romania,Europe,46,0.731,Deficient Democracy,43,80,Very Safe,212,48
+South Africa,Africa,47,0.72,Deficient Democracy,130,48,Moderately Safe,349,32
+Botswana,Africa,48,0.719,Deficient Democracy,51,77,Very Safe,17.41,115
+Seychelles,Africa,49,0.716,Deficient Democracy,44,80,Very Safe,1.5,172
+Georgia,Asia,50,0.716,Deficient Democracy,92,63,Moderately Safe,15.08,118
+Peru,South America,51,0.716,Deficient Democracy,121,50,Moderately Safe,211,49
+Mauritius,Africa,52,0.715,Deficient Democracy,40,80,Very Safe,13.27,123
+Suriname,South America,53,0.714,Deficient Democracy,93,62,Moderately Safe,3,160
+Poland,Europe,54,0.71,Deficient Democracy,21,84,Very Safe,526,23
+Bhutan,Asia,56,0.701,Deficient Democracy,70,70,Very Safe,2.53,164
+Panama,North America,57,0.691,Deficient Democracy,89,65,Moderately Safe,62.28,73
+Namibia,Africa,58,0.685,Deficient Democracy,66,71,Very Safe,13.25,124
+Ghana,Africa,59,0.682,Deficient Democracy,61,73,Very Safe,59,74
+Bulgaria,Europe,60,0.672,Deficient Democracy,34,80,Very Safe,58.22,75
+Moldova,Europe,61,0.665,Deficient Democracy,85,67,Very Safe,8.13,142
+Mongolia,Asia,62,0.656,Deficient Democracy,65,71,Very Safe,11.43,134
+Lesotho,Africa,63,0.644,Deficient Democracy,136,47,Moderately Safe,2.58,163
+Burkina Faso,Africa,64,0.643,Deficient Democracy,159,41,Moderately Safe,12.32,128
+Armenia,Asia,66,0.639,Deficient Democracy,94,60,Moderately Safe,11.54,132
+Maldives,Asia,67,0.636,Deficient Democracy,140,46,Moderately Safe,4.87,150
+Gambia,Africa,69,0.622,Deficient Democracy,79,69,Very Safe,1.49,173
+Sierra Leone,Africa,70,0.615,Deficient Democracy,122,50,Moderately Safe,3.78,155
+Timor-Leste,Asia,71,0.612,Deficient Democracy,132,48,Moderately Safe,2.95,161
+Guyana,South America,72,0.605,Deficient Democracy,154,43,Moderately Safe,3.62,156
+Nepal,Asia,73,0.603,Deficient Democracy,97,59,Moderately Safe,24.88,103
+Ecuador,South America,74,0.601,Deficient Democracy,102,55,Moderately Safe,104,62
+Malawi,Africa,75,0.599,Deficient Democracy,112,53,Moderately Safe,6.3,146
+Brazil,South America,76,0.599,Deficient Democracy,115,52,Moderately Safe,2054,8
+Indonesia,Asia,77,0.587,Deficient Democracy,99,58,Moderately Safe,1015,16
+Hungary,Europe,78,0.585,Deficient Democracy,24,83,Very Safe,140,56
+Albania,Europe,79,0.583,Deficient Democracy,57,75,Very Safe,13.04,125
+Liberia,Africa,80,0.582,Deficient Democracy,147,45,Moderately Safe,3.29,157
+Republic of North Macedonia,Europe,81,0.582,Deficient Democracy,104,55,Moderately Safe,11.28,135
+Kenya,Africa,82,0.576,Hybrid Regime,146,45,Moderately Safe,79.26,67
+Tanzania,Africa,83,0.567,Hybrid Regime,98,59,Moderately Safe,53.32,81
+Colombia,South America,84,0.566,Hybrid Regime,156,42,Moderately Safe,314,38
+India,Asia,85,0.564,Hybrid Regime,135,47,Moderately Safe,2651,5
+Singapore,Asia,86,0.562,Hybrid Regime,9,90,Very Safe,324,36
+Dominican Republic,North America,87,0.562,Hybrid Regime,106,54,Moderately Safe,75.93,68
+Paraguay,South America,88,0.558,Deficient Democracy,148,45,Moderately Safe,39.67,90
+Montenegro,Europe,89,0.554,Hybrid Regime,72,70,Very Safe,4.84,151
+Mexico,North America,90,0.553,Hybrid Regime,88,65,Moderately Safe,1151,15
+Myanmar,Asia,91,0.542,Hybrid Regime,163,39,Moderately Safe,67.07,71
+Sri Lanka,Asia,92,0.54,Deficient Democracy,96,60,Moderately Safe,87.36,65
+Ukraine,Europe,93,0.54,Hybrid Regime,185,30,Not Safe,112,60
+Fiji,Oceana,94,0.537,Hybrid Regime,71,70,Very Safe,5.06,148
+Malaysia,Asia,95,0.536,Hybrid Regime,80,69,Very Safe,315,37
+Bosnia and Herzegovina,Europe,96,0.531,Hybrid Regime,129,48,Moderately Safe,18.05,114
+Bolivia,South America,97,0.521,Hybrid Regime,100,57,Moderately Safe,37.51,94
+Guatemala,North America,98,0.504,Hybrid Regime,110,53,Moderately Safe,75.62,69
+Nigeria,Africa,100,0.503,Hybrid Regime,178,33,Not Safe,376,30
+Benin,Africa,99,0.503,Hybrid Regime,144,45,Moderately Safe,9.25,138
+Kuwait,Asia,101,0.496,Hybrid Regime,87,66,Very Safe,120,58
+Guinea-Bissau,Africa,102,0.492,Hybrid Regime,172,36,Moderately Safe,1.35,174
+Papua New Guinea,Oceana,103,0.49,Hybrid Regime,137,47,Moderately Safe,20.54,112
+El Salvador,North America,104,0.485,Hybrid Regime,120,50,Moderately Safe,24.81,104
+Morocco,Africa,105,0.474,Hybrid Regime,107,54,Moderately Safe,110,61
+Lebanon,Asia,106,0.474,Hybrid Regime,174,35,Moderately Safe,53.58,80
+Zambia,Africa,108,0.456,Hybrid Regime,116,52,Moderately Safe,25.87,102
+Jordan,Asia,109,0.454,Hybrid Regime,111,53,Moderately Safe,40.07,88
+Mali,Africa,110,0.448,Hybrid Regime,183,31,Not Safe,15.33,117
+Kyrgyzstan,Asia,111,0.448,Hybrid Regime,166,38,Moderately Safe,7.56,144
+Gabon,Africa,112,0.443,Hybrid Regime,145,45,Moderately Safe,15.01,119
+Philippines,Asia,113,0.443,Hybrid Regime,138,47,Moderately Safe,314,39
+Mozambique,Africa,114,0.441,Hybrid Regime,141,46,Moderately Safe,12.65,126
+Serbia,Europe,115,0.439,Moderate Autocracy,53,77,Very Safe,41.43,86
+Somalia,Africa,116,0.432,Moderate Autocracy,190,16,Not Safe,16,190
+Ivory Coast,Africa,117,0.431,Hybrid Regime,168,37,Moderately Safe,37.35,95
+Madagascar,Africa,118,0.415,Moderate Autocracy,125,49,Moderately Safe,11.5,133
+Uganda,Africa,119,0.409,Hybrid Regime,127,49,Moderately Safe,26,101
+Angola,Africa,121,0.387,Moderate Autocracy,128,48,Moderately Safe,122,57
+Togo,Africa,120,0.387,Hybrid Regime,81,69,Very Safe,4.76,152
+Honduras,North America,122,0.379,Moderate Autocracy,124,49,Moderately Safe,22.98,106
+Pakistan,Asia,123,0.375,Hybrid Regime,186,26,Not Safe,305,40
+Afghanistan,Asia,125,0.358,Moderate Autocracy,191,14,Not Safe,19.54,113
+Mauritania,Africa,126,0.357,Moderate Autocracy,175,35,Moderately Safe,5.02,149
+Iraq,Asia,127,0.354,Moderate Autocracy,192,14,Not Safe,192,52
+Ethiopia,Africa,128,0.351,Hybrid Regime,160,41,Moderately Safe,80.56,66
+Central African Republic,Africa,130,0.349,Moderate Autocracy,180,32,Not Safe,1.95,165
+Haiti,North America,131,0.346,Moderate Autocracy,157,42,Moderately Safe,8.41,141
+Democratic Republic of the Congo,Africa,132,0.337,Moderate Autocracy,187,21,Not Safe,37.64,93
+Zimbabwe,Africa,133,0.336,Moderate Autocracy,114,53,Moderately Safe,22.04,110
+Algeria,Africa,134,0.319,Moderate Autocracy,151,44,Moderately Safe,168,53
+Thailand,Asia,135,0.3,Moderate Autocracy,131,48,Moderately Safe,455,25
+Turkey,Asia,137,0.29,Moderate Autocracy,150,45,Moderately Safe,852,17
+Cameroon,Africa,138,0.286,Moderate Autocracy,171,36,Moderately Safe,34.92,97
+Kazakhstan,Asia,139,0.276,Moderate Autocracy,64,72,Very Safe,163,55
+Guinea,Africa,140,0.275,Moderate Autocracy,162,39,Moderately Safe,10.47,136
+Rwanda,Africa,141,0.269,Moderate Autocracy,170,37,Moderately Safe,9.14,139
+Uzbekistan,Asia,142,0.269,Moderate Autocracy,161,40,Moderately Safe,49.68,83
+Congo,Africa,143,0.266,Moderate Autocracy,108,54,Moderately Safe,8.7,140
+Russia,Europe,144,0.262,Moderate Autocracy,177,34,Moderately Safe,1578,11
+Vietnam,Asia,145,0.254,Moderate Autocracy,63,73,Very Safe,224,45
+Oman,Asia,146,0.251,Moderate Autocracy,56,76,Very Safe,70.78,70
+Iran,Asia,147,0.25,Moderate Autocracy,173,35,Moderately Safe,454,26
+Eswatini,Africa,148,0.239,Moderate Autocracy,134,47,Moderately Safe,4.43,154
+Bangladesh,Asia,149,0.215,Moderate Autocracy,123,49,Moderately Safe,250,43
+Chad,Africa,150,0.211,Moderate Autocracy,181,32,Not Safe,9.87,137
+Egypt,Africa,151,0.21,Moderate Autocracy,165,38,Moderately Safe,235,44
+Cambodia,Asia,152,0.178,Moderate Autocracy,82,68,Very Safe,22.16,107
+United Arab Emirates,Asia,153,0.166,Hard Autocracy,48,79,Very Safe,383,29
+Cuba,South America,154,0.165,Moderate Autocracy,133,47,Moderately Safe,96.85,63
+Belarus,Europe,155,0.139,Moderate Autocracy,50,77,Very Safe,54.46,79
+Nicaragua,North America,156,0.137,Moderate Autocracy,142,46,Moderately Safe,13.81,122
+Azerbaijan,Asia,157,0.136,Hard Autocracy,117,51,Moderately Safe,40.75,87
+Burundi,Africa,158,0.125,Hard Autocracy,184,30,Not Safe,3.17,158
+Equatorial Guinea,Africa,160,0.117,Hard Autocracy,83,68,Very Safe,12.29,129
+Tajikistan,Asia,161,0.111,Hard Autocracy,167,38,Moderately Safe,7.15,145
+Laos,Asia,162,0.101,Hard Autocracy,118,51,Moderately Safe,16.85,116
+Libya,Asia,163,0.095,Hard Autocracy,188,21,Not Safe,38.11,91
+Turkmenistan,Asia,164,0.09,Hard Autocracy,158,42,Moderately Safe,37.93,92
+Sudan,Africa,167,0.064,Hard Autocracy,105,55,Moderately Safe,117,59
+Qatar,Asia,169,0.054,Hard Autocracy,22,84,Very Safe,167,54
+South Sudan,Africa,170,0.053,Hard Autocracy,193,10,Not Safe,10,193
+Syria,Asia,171,0.053,Hard Autocracy,194,10,Not Safe,10,194
+Saudi Arabia,Asia,173,0.048,Hard Autocracy,143,46,Moderately Safe,687,19
+China,Asia,172,0.048,Hard Autocracy,86,66,Very Safe,12238,2
+Yemen,Asia,174,0.041,Hard Autocracy,195,10,Not Safe,31.27,98

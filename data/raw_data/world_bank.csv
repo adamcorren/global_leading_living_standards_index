@@ -1,0 +1,985 @@
+country,indicator,better_higher_lower,2000,2005,2010,2015,2019,2020,2021
+Argentina,Access to electricity (% of population),higher,95.78328705,96.86384583,98.81999969,99.6253891,100,100,
+Australia,Access to electricity (% of population),higher,100,100,100,100,100,100,
+Austria,Access to electricity (% of population),higher,100,100,100,100,100,100,
+Belgium,Access to electricity (% of population),higher,100,100,100,100,100,100,
+Brazil,Access to electricity (% of population),higher,94.391716,97.09351349,98.59999847,99.71089935,99.80000305,100,
+Bulgaria,Access to electricity (% of population),higher,100,100,100,100,100,99.69999695,
+Canada,Access to electricity (% of population),higher,100,100,100,100,100,100,
+Chile,Access to electricity (% of population),higher,97.93869019,97.76531219,99.53839111,99.71484375,100,100,
+Costa Rica,Access to electricity (% of population),higher,96.94000244,99.05305481,98.99573517,99.4098053,99.70999908,99.90000153,
+Croatia,Access to electricity (% of population),higher,100,100,100,100,100,100,
+Czechia,Access to electricity (% of population),higher,100,100,100,100,100,100,
+Denmark,Access to electricity (% of population),higher,100,100,100,100,100,100,
+Estonia,Access to electricity (% of population),higher,100,100,100,100,100,100,
+Finland,Access to electricity (% of population),higher,100,100,100,100,100,100,
+France,Access to electricity (% of population),higher,100,100,100,100,100,100,
+Germany,Access to electricity (% of population),higher,100,100,100,100,100,100,
+Greece,Access to electricity (% of population),higher,100,100,100,100,100,100,
+Hungary,Access to electricity (% of population),higher,100,100,100,100,100,100,
+Indonesia,Access to electricity (% of population),higher,86.30000305,85.03832245,94.15000153,97.53736877,98.84999847,96.94999695,
+Ireland,Access to electricity (% of population),higher,100,100,100,100,100,100,
+Israel,Access to electricity (% of population),higher,100,100,100,100,100,100,
+Italy,Access to electricity (% of population),higher,100,100,100,100,100,100,
+Japan,Access to electricity (% of population),higher,100,100,100,100,100,100,
+"Korea, Rep.",Access to electricity (% of population),higher,100,100,100,100,100,100,
+Lithuania,Access to electricity (% of population),higher,100,100,100,100,100,100,
+Netherlands,Access to electricity (% of population),higher,100,100,100,100,100,100,
+New Zealand,Access to electricity (% of population),higher,100,100,100,100,100,100,
+Norway,Access to electricity (% of population),higher,100,100,100,100,100,100,
+Panama,Access to electricity (% of population),higher,81.40141296,84.41291046,86.84999847,92.29476929,95.81632996,96.70463562,
+Peru,Access to electricity (% of population),higher,72.49649811,77.17364502,88.12306213,93.85218048,95.55136108,99.31181335,
+Poland,Access to electricity (% of population),higher,100,100,100,100,100,100,
+Portugal,Access to electricity (% of population),higher,100,100,100,100,100,100,
+Romania,Access to electricity (% of population),higher,100,100,100,100,100,100,
+Slovenia,Access to electricity (% of population),higher,100,100,100,100,100,100,
+Spain,Access to electricity (% of population),higher,100,100,100,100,100,100,
+Sweden,Access to electricity (% of population),higher,100,100,100,100,100,100,
+Switzerland,Access to electricity (% of population),higher,100,100,100,100,100,100,
+Tunisia,Access to electricity (% of population),higher,94.80000305,99.30000305,99.5,99.90000153,100,100,
+United Kingdom,Access to electricity (% of population),higher,100,100,100,100,100,100,
+United States,Access to electricity (% of population),higher,100,100,100,100,100,100,
+Uruguay,Access to electricity (% of population),higher,97.67686462,98.16714478,99.30000305,99.70948029,99.90000153,100,
+Argentina,Armed forces personnel (% of total labor force),higher,0.616565729,0.581332225,0.57154232,0.548376906,0.499818585,,
+Australia,Armed forces personnel (% of total labor force),higher,0.541831548,0.508298598,0.484958833,0.460392174,0.434131475,,
+Austria,Armed forces personnel (% of total labor force),higher,1.038512932,0.988526421,0.598659883,0.474756834,0.47182568,,
+Belgium,Armed forces personnel (% of total labor force),higher,0.889839863,0.799709684,0.730206959,0.72851575,0.50053856,,
+Brazil,Armed forces personnel (% of total labor force),higher,0.848422705,0.742830658,0.748137445,0.720143649,0.709397343,,
+Bulgaria,Armed forces personnel (% of total labor force),higher,3.289844556,2.589207331,1.917787223,1.418937141,1.090842729,,
+Canada,Armed forces personnel (% of total labor force),higher,0.420025336,0.398449817,0.346054825,0.342811382,0.34684694,,
+Chile,Armed forces personnel (% of total labor force),higher,1.85455896,1.693629937,1.324266929,1.277708889,1.32403111,,
+Costa Rica,Armed forces personnel (% of total labor force),higher,0.951009429,,0.475569786,0.411732182,0.388622682,,
+Croatia,Armed forces personnel (% of total labor force),higher,5.225292901,1.725698546,1.129205703,0.978027337,1.010329497,,
+Czechia,Armed forces personnel (% of total labor force),higher,1.230306352,0.541429823,0.544330251,0.471797615,0.461129801,,
+Denmark,Armed forces personnel (% of total labor force),higher,0.764091887,0.725851441,0.64488791,0.573330331,0.494706965,,
+Estonia,Armed forces personnel (% of total labor force),higher,1.121134116,1.188034708,0.842034355,0.937133017,0.99955163,,
+Finland,Armed forces personnel (% of total labor force),higher,1.358817155,1.177535957,0.932538016,0.922283025,0.978666874,,
+France,Armed forces personnel (% of total labor force),higher,1.411763785,1.237211148,1.139030184,1.004599284,0.991769197,,
+Germany,Armed forces personnel (% of total labor force),higher,0.554610705,0.691076658,0.599449326,0.415605706,0.414099717,,
+Greece,Armed forces personnel (% of total labor force),higher,3.357410548,3.347110278,2.948230091,3.068501183,3.104361015,,
+Hungary,Armed forces personnel (% of total labor force),higher,1.380232915,1.029745847,0.8045773,0.839306946,0.842356374,,
+Indonesia,Armed forces personnel (% of total labor force),higher,0.488817869,0.555812738,0.496656868,0.53550835,0.496321902,,
+Ireland,Armed forces personnel (% of total labor force),higher,0.617472871,0.464869574,0.464421784,0.398104323,0.36783338,,
+Israel,Armed forces personnel (% of total labor force),higher,6.503574083,5.675012051,5.299143925,4.779864568,4.315145239,,
+Italy,Armed forces personnel (% of total labor force),higher,2.141455957,1.820180037,1.464065403,1.390989514,1.320084624,,
+Japan,Armed forces personnel (% of total labor force),higher,0.366718688,0.408000622,0.393138231,0.393269634,0.378011442,,
+"Korea, Rep.",Armed forces personnel (% of total labor force),higher,3.006410367,2.848047891,2.594439159,2.283344933,2.127819691,,
+Lithuania,Armed forces personnel (% of total labor force),higher,0.98017218,1.862442561,1.684838986,1.929168925,2.508330028,,
+Netherlands,Armed forces personnel (% of total labor force),higher,0.693166507,0.709459531,0.486991633,0.454156971,0.433108367,,
+New Zealand,Armed forces personnel (% of total labor force),higher,0.473427834,0.410023153,0.415454584,0.353012637,0.317504555,,
+Norway,Armed forces personnel (% of total labor force),higher,1.121797735,1.927376455,0.938411065,0.903317183,0.814088978,,
+Panama,Armed forces personnel (% of total labor force),higher,0.941281579,0.82618568,0.741533083,1.215722685,1.371563377,,
+Peru,Armed forces personnel (% of total labor force),higher,1.682799746,1.119440844,1.181169283,0.946733025,0.852801772,,
+Poland,Armed forces personnel (% of total labor force),higher,1.366710135,0.920723805,0.672386196,0.942047805,1.031241657,,
+Portugal,Armed forces personnel (% of total labor force),higher,1.729478259,1.701798746,1.644938165,1.41429289,0.987831061,,
+Romania,Armed forces personnel (% of total labor force),higher,2.404640369,1.831661795,1.644723123,1.65119096,1.404328296,,
+Slovenia,Armed forces personnel (% of total labor force),higher,1.407869049,1.181610594,1.163397775,1.31092447,0.680563779,,
+Spain,Armed forces personnel (% of total labor force),higher,1.325506668,1.037848642,0.950583142,0.867985617,0.86001817,,
+Sweden,Armed forces personnel (% of total labor force),higher,1.967949831,0.609783269,0.428501777,0.590089471,0.274895247,,
+Switzerland,Armed forces personnel (% of total labor force),higher,0.692699151,2.609948886,0.568629642,0.436035379,0.402333049,,
+Tunisia,Armed forces personnel (% of total labor force),higher,1.433110774,1.341980638,1.227930013,1.159830742,1.131917964,,
+United Kingdom,Armed forces personnel (% of total labor force),higher,0.720050841,0.704243453,0.53982813,0.453232383,0.429445158,,
+United States,Armed forces personnel (% of total labor force),higher,0.995310656,1.016806329,0.997357483,0.83868323,0.83063782,,
+Uruguay,Armed forces personnel (% of total labor force),higher,1.642039413,1.651085595,1.519491954,1.460681831,1.261894069,,
+Argentina,Average precipitation in depth (mm per year),lower,591,591,591,591,591,,
+Australia,Average precipitation in depth (mm per year),lower,534,534,534,534,534,,
+Austria,Average precipitation in depth (mm per year),lower,1110,1110,1110,1110,1110,,
+Belgium,Average precipitation in depth (mm per year),lower,847,847,847,847,847,,
+Brazil,Average precipitation in depth (mm per year),lower,1782,1782,1761,1761,1761,,
+Bulgaria,Average precipitation in depth (mm per year),lower,608,608,608,608,608,,
+Canada,Average precipitation in depth (mm per year),lower,537,537,537,537,537,,
+Chile,Average precipitation in depth (mm per year),lower,1522,1522,1522,1522,1522,,
+Costa Rica,Average precipitation in depth (mm per year),lower,2926,2926,2926,2926,2926,,
+Croatia,Average precipitation in depth (mm per year),lower,1113,1113,1113,1113,1113,,
+Czechia,Average precipitation in depth (mm per year),lower,677,677,677,677,677,,
+Denmark,Average precipitation in depth (mm per year),lower,703,703,703,703,703,,
+Estonia,Average precipitation in depth (mm per year),lower,626,626,626,626,626,,
+Finland,Average precipitation in depth (mm per year),lower,536,536,536,536,536,,
+France,Average precipitation in depth (mm per year),lower,867,867,867,867,867,,
+Germany,Average precipitation in depth (mm per year),lower,700,700,700,700,700,,
+Greece,Average precipitation in depth (mm per year),lower,652,652,652,652,652,,
+Hungary,Average precipitation in depth (mm per year),lower,589,589,589,589,589,,
+Indonesia,Average precipitation in depth (mm per year),lower,2702,2702,2702,2702,2702,,
+Ireland,Average precipitation in depth (mm per year),lower,1118,1118,1118,1118,1118,,
+Israel,Average precipitation in depth (mm per year),lower,435,435,435,435,435,,
+Italy,Average precipitation in depth (mm per year),lower,832,832,832,832,832,,
+Japan,Average precipitation in depth (mm per year),lower,1668,1668,1668,1668,1668,,
+"Korea, Rep.",Average precipitation in depth (mm per year),lower,1274,1274,1274,1274,1274,,
+Lithuania,Average precipitation in depth (mm per year),lower,656,656,656,656,656,,
+Netherlands,Average precipitation in depth (mm per year),lower,778,778,778,778,778,,
+New Zealand,Average precipitation in depth (mm per year),lower,1732,1732,1732,1732,1732,,
+Norway,Average precipitation in depth (mm per year),lower,1414,1414,1414,1414,1414,,
+Panama,Average precipitation in depth (mm per year),lower,2928,2928,2928,2928,2928,,
+Peru,Average precipitation in depth (mm per year),lower,1738,1738,1738,1738,1738,,
+Poland,Average precipitation in depth (mm per year),lower,600,600,600,600,600,,
+Portugal,Average precipitation in depth (mm per year),lower,854,854,854,854,854,,
+Romania,Average precipitation in depth (mm per year),lower,637,637,637,637,637,,
+Slovenia,Average precipitation in depth (mm per year),lower,1162,1162,1162,1162,1162,,
+Spain,Average precipitation in depth (mm per year),lower,636,636,636,636,636,,
+Sweden,Average precipitation in depth (mm per year),lower,624,624,624,624,624,,
+Switzerland,Average precipitation in depth (mm per year),lower,1537,1537,1537,1537,1537,,
+Tunisia,Average precipitation in depth (mm per year),lower,207,207,207,207,207,,
+United Kingdom,Average precipitation in depth (mm per year),lower,1220,1220,1220,1220,1220,,
+United States,Average precipitation in depth (mm per year),lower,715,715,715,715,715,,
+Uruguay,Average precipitation in depth (mm per year),lower,1265,1300,1300,1300,1300,,
+Argentina,CO2 emissions (metric tons per capita),lower,3.56803988,3.736578794,4.099689714,4.301913876,3.740650291,,
+Australia,CO2 emissions (metric tons per capita),lower,17.83874781,18.34231341,17.59006927,15.863288,15.25361834,,
+Austria,CO2 emissions (metric tons per capita),lower,7.929785513,9.26611356,8.365014901,7.317158873,7.293984252,,
+Belgium,CO2 emissions (metric tons per capita),lower,11.43958054,10.55578237,9.794792242,8.437851999,8.095583954,,
+Brazil,CO2 emissions (metric tons per capita),lower,1.783495567,1.775667754,2.026600029,2.365340621,2.050685078,,
+Bulgaria,CO2 emissions (metric tons per capita),lower,5.3144536,6.265854174,6.049544016,6.207865317,5.61085728,,
+Canada,CO2 emissions (metric tons per capita),lower,16.75762643,17.02748527,15.79214123,15.64858561,15.43061283,,
+Chile,CO2 emissions (metric tons per capita),lower,3.284305637,3.460211752,4.101936926,4.60153513,4.798974486,,
+Costa Rica,CO2 emissions (metric tons per capita),lower,1.243970825,1.452772045,1.538211273,1.540271137,1.620601418,,
+Croatia,CO2 emissions (metric tons per capita),lower,4.037327826,4.976630894,4.530399209,3.948992432,4.063707833,,
+Czechia,CO2 emissions (metric tons per capita),lower,12.01065269,11.750804,10.71659406,9.400668002,9.022786158,,
+Denmark,CO2 emissions (metric tons per capita),lower,9.850895645,9.262963492,8.673891232,5.929462754,5.107988509,,
+Estonia,CO2 emissions (metric tons per capita),lower,10.68014331,12.71797866,14.26988866,11.81383402,7.672029278,,
+Finland,CO2 emissions (metric tons per capita),lower,10.64485611,10.57167065,11.65875348,7.814537356,7.372854761,,
+France,CO2 emissions (metric tons per capita),lower,6.124614634,6.024207509,5.347945928,4.677807228,4.459547465,,
+Germany,CO2 emissions (metric tons per capita),lower,10.09931602,9.729424378,9.453399722,9.087290909,7.911621016,,
+Greece,CO2 emissions (metric tons per capita),lower,8.741595261,9.278882623,7.874949777,6.28506954,5.59618907,,
+Hungary,CO2 emissions (metric tons per capita),lower,5.350127818,5.543733303,4.787989094,4.407180501,4.74663103,,
+Indonesia,CO2 emissions (metric tons per capita),lower,1.311004933,1.495377193,1.702837906,1.885623811,2.299255915,,
+Ireland,CO2 emissions (metric tons per capita),lower,11.17688705,11.21417451,8.813296615,7.881824817,7.245143221,,
+Israel,CO2 emissions (metric tons per capita),lower,9.063444109,8.803624525,9.250222551,7.892507176,6.919593718,,
+Italy,CO2 emissions (metric tons per capita),lower,7.662168039,8.173783064,6.836836177,5.563259469,5.311315442,,
+Japan,CO2 emissions (metric tons per capita),lower,9.323415561,9.49198928,9.030061533,9.276629423,8.540980205,,
+"Korea, Rep.",CO2 emissions (metric tons per capita),lower,9.714493739,9.982450603,11.60791602,11.91474367,11.79932538,,
+Lithuania,CO2 emissions (metric tons per capita),lower,3.003255289,3.861517472,4.068083042,3.810789214,4.198076022,,
+Netherlands,CO2 emissions (metric tons per capita),lower,10.178636,10.28991121,10.29828126,9.292250246,8.437074627,,
+New Zealand,CO2 emissions (metric tons per capita),lower,7.634082484,8.280316298,7.136782411,7.003080396,6.830414187,,
+Norway,CO2 emissions (metric tons per capita),lower,7.635326646,7.862364379,8.469598181,7.610906295,6.722269985,,
+Panama,CO2 emissions (metric tons per capita),lower,1.758985066,2.153745971,2.536139879,2.704001039,3.151777743,,
+Peru,CO2 emissions (metric tons per capita),lower,1.074117523,1.111653253,1.53953674,1.776186591,1.728872515,,
+Poland,CO2 emissions (metric tons per capita),lower,7.73080499,7.895886085,8.247028077,7.610089275,7.773641839,,
+Portugal,CO2 emissions (metric tons per capita),lower,5.99228486,6.233261377,4.817886772,4.812669696,4.339768426,,
+Romania,CO2 emissions (metric tons per capita),lower,3.966498018,4.442373285,3.83367893,3.700112058,3.817434477,,
+Slovenia,CO2 emissions (metric tons per capita),lower,7.310481793,7.958113965,7.70288523,6.367726166,6.512209378,,
+Spain,CO2 emissions (metric tons per capita),lower,7.230107062,8.029202013,5.866642426,5.51794436,5.09135092,,
+Sweden,CO2 emissions (metric tons per capita),lower,6.005336499,5.560617833,5.132155515,3.999311639,3.405037919,,
+Switzerland,CO2 emissions (metric tons per capita),lower,6.084142395,6.165024808,5.777702857,4.719648777,4.359041462,,
+Tunisia,CO2 emissions (metric tons per capita),lower,2.092321725,2.211131949,2.525914761,2.637184838,2.48229898,,
+United Kingdom,CO2 emissions (metric tons per capita),lower,9.014558285,8.955450044,7.686282334,6.159448333,5.220514488,,
+United States,CO2 emissions (metric tons per capita),lower,20.46980666,19.46926248,17.43173849,15.56003496,14.67341061,,
+Uruguay,CO2 emissions (metric tons per capita),lower,1.658453374,1.633679132,1.873144628,1.951323834,1.893006281,,
+Argentina,Ease of doing business score (0 = lowest performance to 100 = best performance),higher,,,,56.73295,58.96151,,
+Australia,Ease of doing business score (0 = lowest performance to 100 = best performance),higher,,,,80.38389,81.21506,,
+Austria,Ease of doing business score (0 = lowest performance to 100 = best performance),higher,,,,78.81665,78.74549,,
+Belgium,Ease of doing business score (0 = lowest performance to 100 = best performance),higher,,,,72.42806,74.98904,,
+Brazil,Ease of doing business score (0 = lowest performance to 100 = best performance),higher,,,,55.61506,59.08307,,
+Bulgaria,Ease of doing business score (0 = lowest performance to 100 = best performance),higher,,,,72.46018,71.97405,,
+Canada,Ease of doing business score (0 = lowest performance to 100 = best performance),higher,,,,79.75597,79.64043,,
+Chile,Ease of doing business score (0 = lowest performance to 100 = best performance),higher,,,,71.17517,72.58023,,
+Costa Rica,Ease of doing business score (0 = lowest performance to 100 = best performance),higher,,,,67.67451,69.2383,,
+Croatia,Ease of doing business score (0 = lowest performance to 100 = best performance),higher,,,,71.35304,73.62096,,
+Czechia,Ease of doing business score (0 = lowest performance to 100 = best performance),higher,,,,76.10923,76.34054,,
+Denmark,Ease of doing business score (0 = lowest performance to 100 = best performance),higher,,,,84.50938,85.28856,,
+Estonia,Ease of doing business score (0 = lowest performance to 100 = best performance),higher,,,,80.53864,80.61685,,
+Finland,Ease of doing business score (0 = lowest performance to 100 = best performance),higher,,,,80.10477,80.17834,,
+France,Ease of doing business score (0 = lowest performance to 100 = best performance),higher,,,,76.14755,76.80465,,
+Germany,Ease of doing business score (0 = lowest performance to 100 = best performance),higher,,,,79.5005,79.71004,,
+Greece,Ease of doing business score (0 = lowest performance to 100 = best performance),higher,,,,66.92296,68.42391,,
+Hungary,Ease of doing business score (0 = lowest performance to 100 = best performance),higher,,,,71.06578,73.41584,,
+Indonesia,Ease of doing business score (0 = lowest performance to 100 = best performance),higher,,,,62.11215,69.57879,,
+Ireland,Ease of doing business score (0 = lowest performance to 100 = best performance),higher,,,,79.79674,79.57614,,
+Israel,Ease of doing business score (0 = lowest performance to 100 = best performance),higher,,,,72.99577,76.67572,,
+Italy,Ease of doing business score (0 = lowest performance to 100 = best performance),higher,,,,71.68638,72.85055,,
+Japan,Ease of doing business score (0 = lowest performance to 100 = best performance),higher,,,,77.52941,77.99983,,
+"Korea, Rep.",Ease of doing business score (0 = lowest performance to 100 = best performance),higher,,,,83.08952,84.00083,,
+Lithuania,Ease of doing business score (0 = lowest performance to 100 = best performance),higher,,,,78.99313,81.61948,,
+Netherlands,Ease of doing business score (0 = lowest performance to 100 = best performance),higher,,,,75.5221,76.10376,,
+New Zealand,Ease of doing business score (0 = lowest performance to 100 = best performance),higher,,,,87.13471,86.76465,,
+Norway,Ease of doing business score (0 = lowest performance to 100 = best performance),higher,,,,81.83183,82.62729,,
+Panama,Ease of doing business score (0 = lowest performance to 100 = best performance),higher,,,,64.72621,66.56045,,
+Peru,Ease of doing business score (0 = lowest performance to 100 = best performance),higher,,,,67.22451,68.69658,,
+Poland,Ease of doing business score (0 = lowest performance to 100 = best performance),higher,,,,76.93009,76.38122,,
+Portugal,Ease of doing business score (0 = lowest performance to 100 = best performance),higher,,,,76.36078,76.46616,,
+Romania,Ease of doing business score (0 = lowest performance to 100 = best performance),higher,,,,72.72233,73.3332,,
+Slovenia,Ease of doing business score (0 = lowest performance to 100 = best performance),higher,,,,74.71274,76.51751,,
+Spain,Ease of doing business score (0 = lowest performance to 100 = best performance),higher,,,,75.92621,77.93588,,
+Sweden,Ease of doing business score (0 = lowest performance to 100 = best performance),higher,,,,81.63208,81.99155,,
+Switzerland,Ease of doing business score (0 = lowest performance to 100 = best performance),higher,,,,76.42844,76.61864,,
+Tunisia,Ease of doing business score (0 = lowest performance to 100 = best performance),higher,,,,64.56559,68.65706,,
+United Kingdom,Ease of doing business score (0 = lowest performance to 100 = best performance),higher,,,,83.33719,83.54968,,
+United States,Ease of doing business score (0 = lowest performance to 100 = best performance),higher,,,,83.59247,83.99668,,
+Uruguay,Ease of doing business score (0 = lowest performance to 100 = best performance),higher,,,,60.1749,61.53994,,
+Argentina,Exports of goods and services (annual % growth),higher,2.702391309,12.88683042,13.89691362,-2.77737294,9.751025404,,
+Australia,Exports of goods and services (annual % growth),higher,9.89182849,3.459624099,4.705863873,6.854198069,3.90455841,,
+Austria,Exports of goods and services (annual % growth),higher,13.52458428,6.665106633,13.13107325,3.04914319,3.98474868,,
+Belgium,Exports of goods and services (annual % growth),higher,12.39693981,5.511088341,10.4390846,3.721674669,2.388950003,,
+Brazil,Exports of goods and services (annual % growth),higher,12.86054934,9.644173603,11.72172154,6.819563948,-2.561421037,,
+Bulgaria,Exports of goods and services (annual % growth),higher,-17.16072185,9.086311505,11.04634031,6.448874172,3.974485273,,
+Canada,Exports of goods and services (annual % growth),higher,9.025706322,2.271950052,6.677633228,3.419000458,1.28272883,,
+Chile,Exports of goods and services (annual % growth),higher,6.071714246,3.273615524,1.868792132,-2.331673024,-2.548880907,,
+Costa Rica,Exports of goods and services (annual % growth),higher,2.240459977,6.011897539,9.32745251,2.888311942,4.261470046,,
+Croatia,Exports of goods and services (annual % growth),higher,13.68490998,4.575556148,7.783554359,10.30001894,6.794345677,,
+Czechia,Exports of goods and services (annual % growth),higher,14.78107273,18.15847222,14.66160452,6.032334309,1.479067824,,
+Denmark,Exports of goods and services (annual % growth),higher,12.612938,7.820181003,2.940134566,3.577370534,4.511018044,,
+Estonia,Exports of goods and services (annual % growth),higher,-6.950075367,19.92239555,24.2172264,-1.502566939,6.109863305,,
+Finland,Exports of goods and services (annual % growth),higher,16.10557501,6.948053981,6.180251346,0.391667673,6.674738913,,
+France,Exports of goods and services (annual % growth),higher,12.88554421,3.975619735,8.695173397,4.645919204,1.618733498,,
+Germany,Exports of goods and services (annual % growth),higher,13.8233919,6.686140019,14.40774522,5.440742334,1.265016807,,
+Greece,Exports of goods and services (annual % growth),higher,22.18314974,3.339476886,4.861192368,5.018175967,4.886259438,,
+Hungary,Exports of goods and services (annual % growth),higher,25.00414694,12.87532778,11.11821366,7.365379523,5.422321198,,
+Indonesia,Exports of goods and services (annual % growth),higher,26.48491895,16.60131419,15.26632241,-2.120239724,-0.477023226,,
+Ireland,Exports of goods and services (annual % growth),higher,21.18778424,5.479910206,5.981847956,39.16575797,11.84805847,,
+Israel,Exports of goods and services (annual % growth),higher,23.39806052,4.672859964,14.85803984,-1.741590082,3.681940027,,
+Italy,Exports of goods and services (annual % growth),higher,12.0846452,3.216572869,11.76156395,4.274025708,1.573533126,,
+Japan,Exports of goods and services (annual % growth),higher,13.0238932,7.11973424,24.8607371,3.211234756,-1.458490573,,
+"Korea, Rep.",Exports of goods and services (annual % growth),higher,16.98546481,7.899183358,13.02782154,0.234197142,0.238336269,,
+Lithuania,Exports of goods and services (annual % growth),higher,14.1161568,19.84298986,16.38173229,2.420694958,10.06715704,,
+Netherlands,Exports of goods and services (annual % growth),higher,12.4289131,5.760175605,9.727604623,7.393800687,1.979894356,,
+New Zealand,Exports of goods and services (annual % growth),higher,6.058622898,-0.442597022,2.82096339,6.241917214,-0.248446214,,
+Norway,Exports of goods and services (annual % growth),higher,3.174470513,0.452732622,0.556215322,4.342248267,1.137670339,,
+Panama,Exports of goods and services (annual % growth),higher,18.46446784,11.31822591,5.783150387,0.935767395,1.233071028,,
+Peru,Exports of goods and services (annual % growth),higher,7.799107721,14.16135855,3.232102056,4.26188239,0.32808177,,
+Poland,Exports of goods and services (annual % growth),higher,23.6072091,9.969894434,12.45743637,6.589227166,5.337289275,,
+Portugal,Exports of goods and services (annual % growth),higher,8.525861857,0.257734563,9.209004734,6.261534575,4.075287618,,
+Romania,Exports of goods and services (annual % growth),higher,-18.57646817,9.20332782,15.52420303,4.583191799,5.358309736,,
+Slovenia,Exports of goods and services (annual % growth),higher,12.5925165,11.36390935,10.16055882,4.741264855,4.481843909,,
+Spain,Exports of goods and services (annual % growth),higher,10.43821013,1.890665432,9.063265573,4.316234026,2.214131989,,
+Sweden,Exports of goods and services (annual % growth),higher,12.04125654,6.398959552,10.64721448,5.800060938,5.973993017,,
+Switzerland,Exports of goods and services (annual % growth),higher,12.13383541,6.473468985,12.60579124,4.023777218,-0.678189142,,
+Tunisia,Exports of goods and services (annual % growth),higher,5.759314378,4.474315346,26.67880317,-9.165951036,-4.222350837,,
+United Kingdom,Exports of goods and services (annual % growth),higher,9.244332328,7.388955102,6.833014913,3.987562885,1.715184653,,
+United States,Exports of goods and services (annual % growth),higher,8.311154553,6.941598526,12.88280384,0.271088945,0.470300564,,
+Uruguay,Exports of goods and services (annual % growth),higher,7.991698582,15.99471414,7.179440506,-0.599965028,3.645848669,,
+Argentina,"Government expenditure on education, total (% of government expenditure)",higher,16.22615051,15.8031702,15.04796982,13.96331024,12.5300703,11.91689968,
+Australia,"Government expenditure on education, total (% of government expenditure)",higher,13.36015987,13.58512974,14.32400036,14.08578968,12.84535027,14.43000031,
+Austria,"Government expenditure on education, total (% of government expenditure)",higher,11.03322029,10.26185036,10.78913021,10.69347954,10.73365974,8.890000343,
+Belgium,"Government expenditure on education, total (% of government expenditure)",higher,,11.17551994,11.95765018,12.00967979,12.23050976,11.18999958,
+Brazil,"Government expenditure on education, total (% of government expenditure)",higher,11.45215988,11.26471996,14.15985966,16.21810913,15.95808029,,
+Bulgaria,"Government expenditure on education, total (% of government expenditure)",higher,,12.07252026,11.16341972,9.708580017,11.70670986,9.550000191,
+Canada,"Government expenditure on education, total (% of government expenditure)",higher,12.98260021,12.17807007,12.33596039,12.35161972,11.73793983,10,
+Chile,"Government expenditure on education, total (% of government expenditure)",higher,16.42790985,16.19908905,17.85330963,19.59370995,21.23353004,,
+Costa Rica,"Government expenditure on education, total (% of government expenditure)",higher,18.81950951,,22.88088989,23.37343025,24.55101013,21.53948021,
+Croatia,"Government expenditure on education, total (% of government expenditure)",higher,,,8.738349915,10.09977818,8.509619713,9.979999542,
+Czechia,"Government expenditure on education, total (% of government expenditure)",higher,8.912139893,9.124210358,9.244799614,13.71630955,11.06466007,10.77000046,
+Denmark,"Government expenditure on education, total (% of government expenditure)",higher,15.34414959,15.77933979,15.10334015,12.8566246,13.9115696,11.93999958,
+Estonia,"Government expenditure on education, total (% of government expenditure)",higher,14.68504047,14.26515007,13.70024014,13.01430035,13.4449501,14.35000038,
+Finland,"Government expenditure on education, total (% of government expenditure)",higher,12.17092037,12.24969959,12.06608963,12.44361019,12.04329967,10.22999954,
+France,"Government expenditure on education, total (% of government expenditure)",higher,,,9.947993279,9.620544434,9.672380447,,
+Germany,"Government expenditure on education, total (% of government expenditure)",higher,,,10.26904011,10.99915981,11.37255955,9.180000305,
+Greece,"Government expenditure on education, total (% of government expenditure)",higher,6.957769871,8.700209618,7.824027061,7.156529903,7.503829956,7.460000038,
+Hungary,"Government expenditure on education, total (% of government expenditure)",higher,10.32361031,10.80056953,9.677240372,8.9230299,9.271349907,9.180000305,
+Indonesia,"Government expenditure on education, total (% of government expenditure)",higher,,15.1487999,16.65418053,20.50329971,17.34799957,19.15279961,
+Ireland,"Government expenditure on education, total (% of government expenditure)",higher,13.51819992,13.68492985,9.323320389,12.93684006,13.61303043,11.32999992,
+Israel,"Government expenditure on education, total (% of government expenditure)",higher,13.6803503,13.18183994,13.71627045,15.49291039,15.74192047,15.60000038,
+Italy,"Government expenditure on education, total (% of government expenditure)",higher,9.221059799,8.971509933,8.68076992,8.095910072,8.448579788,7.46999979,
+Japan,"Government expenditure on education, total (% of government expenditure)",higher,,,8.417507172,8.374353409,8.182955742,7.309999943,
+"Korea, Rep.","Government expenditure on education, total (% of government expenditure)",higher,,,14.81999969,14.65295982,13.83082008,,
+Lithuania,"Government expenditure on education, total (% of government expenditure)",higher,,14.57956028,12.85881996,12.28826046,11.74954033,12.02999973,
+Netherlands,"Government expenditure on education, total (% of government expenditure)",higher,11.08148956,12.33590984,11.66905022,12.20965004,12.51278973,11.02000046,
+New Zealand,"Government expenditure on education, total (% of government expenditure)",higher,,16.25795937,15.68109989,16.37351036,13.48462963,14.43999958,
+Norway,"Government expenditure on education, total (% of government expenditure)",higher,15.6301899,16.37252998,15.08848953,15.60758018,15.6655302,10.14000034,
+Panama,"Government expenditure on education, total (% of government expenditure)",higher,19.8319397,,,7.864059925,10.09027004,10.24318027,11.97052956
+Peru,"Government expenditure on education, total (% of government expenditure)",higher,15.25037003,14.27851963,13.55558014,17.57485962,17.76287079,15.92708969,17.87413979
+Poland,"Government expenditure on education, total (% of government expenditure)",higher,11.58343983,12.26548958,11.04356956,11.54141045,11.99291039,10.65999985,
+Portugal,"Government expenditure on education, total (% of government expenditure)",higher,12.05200005,10.85459995,10.42891026,10.13582993,10.90674973,10.14999962,
+Romania,"Government expenditure on education, total (% of government expenditure)",higher,8.187580109,10.83668041,9.129130363,9.094510078,10.59846973,8.760000229,
+Slovenia,"Government expenditure on education, total (% of government expenditure)",higher,,12.0792799,11.05198956,10.07917023,11.33137989,11.22000027,
+Spain,"Government expenditure on education, total (% of government expenditure)",higher,10.6530304,10.76976013,10.54881001,9.766460419,10.05422974,8.890000343,
+Sweden,"Government expenditure on education, total (% of government expenditure)",higher,12.91302013,12.68762016,13.22099972,15.38288021,15.89513969,13.64000034,
+Switzerland,"Government expenditure on education, total (% of government expenditure)",higher,14.45215988,15.70398998,15.28763962,15.38836002,15.557271,14.23999977,
+Tunisia,"Government expenditure on education, total (% of government expenditure)",higher,24.59177971,26.69569016,24.84683037,22.66534042,,,
+United Kingdom,"Government expenditure on education, total (% of government expenditure)",higher,11.84799957,13.00337982,12.78199005,13.49020958,13.54821014,10.56000042,
+United States,"Government expenditure on education, total (% of government expenditure)",higher,,,15.56727982,13.54563999,13.38055038,12.64999962,
+Uruguay,"Government expenditure on education, total (% of government expenditure)",higher,8.35916996,9.470970154,17.45240021,14.72430038,15.14500999,16.36347961,15.39081955
+Argentina,Individuals using the Internet (% of population),higher,7.038683086,17.72058337,45,68.04306411,79.9,85.5,87.14829302
+Australia,Individuals using the Internet (% of population),higher,46.75611561,63,76,84.56051491,88.6,89.6,
+Austria,Individuals using the Internet (% of population),higher,33.73013295,58,75.17,83.94014193,87.75220479,87.52942813,92.52915104
+Belgium,Individuals using the Internet (% of population),higher,29.43169169,55.82,75,85.05294175,90.27542981,91.52641629,92.78867618
+Brazil,Individuals using the Internet (% of population),higher,2.870685159,21.02274725,40.65,58.32795173,73.91244005,81.34269353,
+Bulgaria,Individuals using the Internet (% of population),higher,5.370923469,19.97,46.23,56.65625161,67.94698094,70.16248359,75.27144583
+Canada,Individuals using the Internet (% of population),higher,51.3,71.66,80.3,90,96.5,92.3,
+Chile,Individuals using the Internet (% of population),higher,16.6,31.17534703,45,76.62959195,86.1,88.3,
+Costa Rica,Individuals using the Internet (% of population),higher,5.800253023,22.07,36.5,59.76295014,81.20259644,80.53018608,82.74901607
+Croatia,Individuals using the Internet (% of population),higher,6.644882544,33.14,56.55,69.84503592,79.07978368,78.32093274,81.25399889
+Czechia,Individuals using the Internet (% of population),higher,9.780527888,35.27,68.82,75.6688387,80.86694441,81.33889705,82.67062427
+Denmark,Individuals using the Internet (% of population),higher,39.17243086,82.74,88.72,96.33050162,98.04643475,96.54914573,98.8658506
+Estonia,Individuals using the Internet (% of population),higher,28.57695381,61.45,74.1,88.4097035,90.2289282,89.05828666,91.03626943
+Finland,Individuals using the Internet (% of population),higher,37.24846174,74.48,86.89,86.42213333,89.60738511,92.17027106,92.80806082
+France,Individuals using the Internet (% of population),higher,14.30792394,42.87,77.28,78.00603771,83.33974409,84.8,86.09548575
+Germany,Individuals using the Internet (% of population),higher,30.2163466,68.71,82,87.58979935,88.13451691,89.81294133,91.43060973
+Greece,Individuals using the Internet (% of population),higher,9.138837308,24,44.4,66.83495949,75.67120669,78.11584474,78.49426371
+Hungary,Individuals using the Internet (% of population),higher,6.999676351,38.97,65,72.83473703,80.37169361,84.77115202,88.64083466
+Indonesia,Individuals using the Internet (% of population),higher,0.925563864,3.602024763,10.92,22.0627426,47.69064898,53.72649449,62.10447802
+Ireland,Individuals using the Internet (% of population),higher,17.85046724,41.61,69.85,83.49479167,87.00005524,91.99989097,
+Israel,Individuals using the Internet (% of population),higher,20.87379,25.19404242,67.5,77.35208966,86.78787762,90.12734091,
+Italy,Individuals using the Internet (% of population),higher,23.11087424,35,53.68,58.14173496,67.85071029,70.48342785,74.8623274
+Japan,Individuals using the Internet (% of population),higher,29.99074036,66.9210661,78.21,91.05802839,92.73039781,90.21945812,
+"Korea, Rep.",Individuals using the Internet (% of population),higher,44.7,73.5,83.7,89.8962558,96.15757918,96.50505968,97.57132662
+Lithuania,Individuals using the Internet (% of population),higher,6.427067495,36.22,62.12,71.37805901,81.58186838,83.05555096,86.93054425
+Netherlands,Individuals using the Internet (% of population),higher,43.98435137,81,90.72,91.72413793,93.2885906,91.33333333,92.05298013
+New Zealand,Individuals using the Internet (% of population),higher,47.37955654,62.72021237,80.46,85.2,90.2,91.5,
+Norway,Individuals using the Internet (% of population),higher,52,81.99,93.39,96.81032569,98.00000439,97.00000121,99.0000036
+Panama,Individuals using the Internet (% of population),higher,6.554796477,11.48400928,40.1,51.20542499,63.62841477,64.25,
+Peru,Individuals using the Internet (% of population),higher,3.076430611,17.1,34.77,40.85260091,59.95050106,65.25179881,71.10782643
+Poland,Individuals using the Internet (% of population),higher,7.285428708,38.81,62.32,67.99698716,80.43590724,83.18488715,85.37490811
+Portugal,Individuals using the Internet (% of population),higher,16.43046769,34.99,53.3,68.63286148,75.34637794,78.26166044,82.30902804
+Romania,Individuals using the Internet (% of population),higher,3.613717291,21.5,39.93,55.76315563,73.65747575,78.45526741,83.59043346
+Slovenia,Individuals using the Internet (% of population),higher,15.11025956,46.81,70,73.09865997,83.1083578,86.60130109,89.00399524
+Spain,Individuals using the Internet (% of population),higher,13.62496081,47.88,65.8,78.68963187,90.71866533,93.20564892,93.89752157
+Sweden,Individuals using the Internet (% of population),higher,45.68765221,84.83,90,90.61019664,94.49344341,94.53943122,88.30778589
+Switzerland,Individuals using the Internet (% of population),higher,47.1,70.1,83.9,87.4790556,93.14608695,94.2,95.56937176
+Tunisia,Individuals using the Internet (% of population),higher,2.750740293,9.655086542,36.8,46.49999434,66.6999983,71.9,
+United Kingdom,Individuals using the Internet (% of population),higher,26.82175435,70,85,92.00029987,92.51662855,94.81820132,
+United States,Individuals using the Internet (% of population),higher,43.07916264,67.96805292,71.69,74.55420245,89.43028486,90.9,
+Uruguay,Individuals using the Internet (% of population),higher,10.53905775,20.08818956,46.4,64.5707871,83.35153377,86.1,
+Argentina,"Intentional homicides (per 100,000 people)",lower,,5.651413609,5.829456464,6.586123277,5.142843425,5.345632182,
+Australia,"Intentional homicides (per 100,000 people)",lower,1.906122518,1.283541631,1.042668759,0.9861068,0.892743779,0.866670711,
+Austria,"Intentional homicides (per 100,000 people)",lower,1.016200214,0.65425552,0.689659683,0.530035315,0.85984446,0.721709007,
+Belgium,"Intentional homicides (per 100,000 people)",lower,2.061846446,,,,,,
+Brazil,"Intentional homicides (per 100,000 people)",lower,25.95967275,25.57016037,26.71709586,28.45576342,20.8827768,22.45113506,
+Bulgaria,"Intentional homicides (per 100,000 people)",lower,4.151063191,2.588798386,1.99326304,1.75006344,1.185694468,0.993027936,
+Canada,"Intentional homicides (per 100,000 people)",lower,1.784991614,2.064399759,1.628227324,1.693190167,1.836356425,1.968620924,
+Chile,"Intentional homicides (per 100,000 people)",lower,,3.559353738,3.17069021,3.394668123,3.962635147,4.844056685,
+Costa Rica,"Intentional homicides (per 100,000 people)",lower,6.284119425,7.817050223,11.51315897,11.48973608,11.15390185,11.18938445,
+Croatia,"Intentional homicides (per 100,000 people)",lower,2.280900843,1.553197234,1.432478398,0.874110592,0.798973634,0.974357825,
+Czechia,"Intentional homicides (per 100,000 people)",lower,1.856283968,1.052819876,0.977552917,0.830079829,0.907456891,0.719022592,
+Denmark,"Intentional homicides (per 100,000 people)",lower,1.085899926,,0.75609616,1.089880895,1.143475511,0.949552355,
+Estonia,"Intentional homicides (per 100,000 people)",lower,10.22077591,,5.254848912,3.421194681,1.734999234,3.166133826,
+Finland,"Intentional homicides (per 100,000 people)",lower,2.85276293,2.262816431,2.217756063,1.49604242,1.590699038,1.64238642,
+France,"Intentional homicides (per 100,000 people)",lower,1.780900384,1.596855295,1.265912669,1.570131652,1.321976902,1.346641192,
+Germany,"Intentional homicides (per 100,000 people)",lower,1.675657499,1.279368821,0.981107786,0.833869164,0.745955502,0.933353043,
+Greece,"Intentional homicides (per 100,000 people)",lower,,1.175967501,1.616511935,0.872441787,0.74474013,0.748340986,
+Hungary,"Intentional homicides (per 100,000 people)",lower,2.005770945,1.626025611,1.390094869,2.260193241,0.660837529,0.828127345,
+Indonesia,"Intentional homicides (per 100,000 people)",lower,1.04201228,,,,,,
+Ireland,"Intentional homicides (per 100,000 people)",lower,0.97803518,1.255669226,1.207641958,0.666319894,0.696364853,0.688566316,
+Israel,"Intentional homicides (per 100,000 people)",lower,2.58999867,2.588265204,2.041803615,1.378705962,1.467244127,,
+Italy,"Intentional homicides (per 100,000 people)",lower,1.351156415,1.04664953,0.891694785,0.774202209,0.523533474,0.471371788,
+Japan,"Intentional homicides (per 100,000 people)",lower,0.531663927,0.501067144,0.361748485,0.28362668,0.251457708,0.251430191,
+"Korea, Rep.","Intentional homicides (per 100,000 people)",lower,0.780858013,0.843982909,0.978157179,0.737853645,0.579791389,0.600750747,
+Lithuania,"Intentional homicides (per 100,000 people)",lower,10.56586791,11.12354037,7.010635999,5.866558977,3.406252503,3.710110345,
+Netherlands,"Intentional homicides (per 100,000 people)",lower,1.13021396,1.063104866,0.863157886,0.61398618,0.637534163,0.624457503,
+New Zealand,"Intentional homicides (per 100,000 people)",lower,1.347502146,1.475085682,0.983968184,1.040193285,2.634295771,,
+Norway,"Intentional homicides (per 100,000 people)",lower,1.066814835,0.712380021,0.593547362,0.461553817,0.520556497,0.571824685,
+Panama,"Intentional homicides (per 100,000 people)",lower,9.866902416,10.93020225,12.62802692,11.86849406,10.52646452,11.58810856,
+Peru,"Intentional homicides (per 100,000 people)",lower,,,,7.374287837,,,
+Poland,"Intentional homicides (per 100,000 people)",lower,2.217513486,,1.001831891,0.783507926,0.667761637,0.70283715,
+Portugal,"Intentional homicides (per 100,000 people)",lower,1.126528911,1.284675045,,,0.870315381,0.912059158,
+Romania,"Intentional homicides (per 100,000 people)",lower,2.511584117,2.021731324,1.299344564,1.701364635,1.260033924,1.46067494,
+Slovenia,"Intentional homicides (per 100,000 people)",lower,1.81112939,1.002516818,0.734093659,0.965624259,0.481080545,0.529117836,
+Spain,"Intentional homicides (per 100,000 people)",lower,1.354570616,1.176761424,0.854445688,0.647070029,0.712500916,0.637367946,
+Sweden,"Intentional homicides (per 100,000 people)",lower,1.080881215,0.918281062,0.969099878,1.146959395,1.105975245,1.227811515,
+Switzerland,"Intentional homicides (per 100,000 people)",lower,0.965877372,,0.665926123,0.68701393,0.535421571,0.543062675,
+Tunisia,"Intentional homicides (per 100,000 people)",lower,,2.572531028,2.689171712,,4.882544868,4.755209112,
+United Kingdom,"Intentional homicides (per 100,000 people)",lower,1.552866052,1.383360951,1.191305343,0.989976503,,,
+United States,"Intentional homicides (per 100,000 people)",lower,5.532621998,,4.764224463,4.949851519,5.065565832,6.516564201,
+Uruguay,"Intentional homicides (per 100,000 people)",lower,6.446299613,5.719792197,6.102510871,8.587306086,11.35270187,9.701395648,
+Argentina,"International tourism, number of arrivals",higher,2909000,3823000,6800000,6816000,7399000,,
+Australia,"International tourism, number of arrivals",higher,4931000,5499000,5790000,7449000,9466000,1828000,
+Austria,"International tourism, number of arrivals",higher,17982000,19952000,22004000,26728000,31884000,15091000,
+Belgium,"International tourism, number of arrivals",higher,6457000,6747000,7186000,8355000,9343000,2584000,
+Brazil,"International tourism, number of arrivals",higher,5313000,5358000,5161000,6306000,6353000,,
+Bulgaria,"International tourism, number of arrivals",higher,4922000,7282000,8374000,9317000,12552000,4973000,
+Canada,"International tourism, number of arrivals",higher,48638000,36160000,25621000,27555000,32430000,,
+Chile,"International tourism, number of arrivals",higher,,,3584000,5487000,5431000,,
+Costa Rica,"International tourism, number of arrivals",higher,1278000,1959000,2495000,2899000,3366000,1146500,
+Croatia,"International tourism, number of arrivals",higher,37226000,45762000,49006000,55858000,60021000,21608000,
+Czechia,"International tourism, number of arrivals",higher,,24747000,21941000,29604000,37202000,,
+Denmark,"International tourism, number of arrivals",higher,,26927000,26730000,28209000,33093000,15595000,
+Estonia,"International tourism, number of arrivals",higher,3310000,,4369000,5696000,6103000,1695000,
+Finland,"International tourism, number of arrivals",higher,2714000,3140000,3670000,2622000,3290000,896000,
+France,"International tourism, number of arrivals",higher,,185829000,189826000,203302000,217877000,117109000,
+Germany,"International tourism, number of arrivals",higher,18983000,21500000,26875000,34970000,39563000,12449000,
+Greece,"International tourism, number of arrivals",higher,13567000,15938000,,26114000,34005000,7406000,
+Hungary,"International tourism, number of arrivals",higher,31141000,36173000,39904000,48345000,61397000,31641000,
+Indonesia,"International tourism, number of arrivals",higher,5064000,5002000,7003000,10407000,16107000,4053000,
+Ireland,"International tourism, number of arrivals",higher,6646000,7333000,7134000,9528000,10951000,,
+Israel,"International tourism, number of arrivals",higher,2672000,1916000,3444000,3109000,4905000,,
+Italy,"International tourism, number of arrivals",higher,62702000,59230000,73225000,81068000,95399000,38419000,
+Japan,"International tourism, number of arrivals",higher,4757000,6728000,8611000,19737000,31881000,4115799.805,
+"Korea, Rep.","International tourism, number of arrivals",higher,5322000,6023000,8798000,13232000,17503000,2519000,
+Lithuania,"International tourism, number of arrivals",higher,4092000,,4073000,5048000,6150000,2284000,
+Netherlands,"International tourism, number of arrivals",higher,10003000,10012000,10883000,15007000,20129000,7265000,
+New Zealand,"International tourism, number of arrivals",higher,1787000,2366000,2530000,3129000,3888000,996000,
+Norway,"International tourism, number of arrivals",higher,3104000,3824000,4767000,5361000,5879000,1397000,
+Panama,"International tourism, number of arrivals",higher,600000,1070000,1726000,2553000,2494000,647000,
+Peru,"International tourism, number of arrivals",higher,,1938000,2948000,4381000,5275000,1119000,
+Poland,"International tourism, number of arrivals",higher,84515000,64606000,58340000,77743000,88515000,,
+Portugal,"International tourism, number of arrivals",higher,12097000,10612000,6756000,11723000,17283000,4208000,
+Romania,"International tourism, number of arrivals",higher,5264000,5839000,7498000,9331000,12815000,5023000,
+Slovenia,"International tourism, number of arrivals",higher,1090000,1555000,2049000,3022000,4702000,1216000,
+Spain,"International tourism, number of arrivals",higher,74580000,92563000,93744000,109834000,126170000,36410000,
+Sweden,"International tourism, number of arrivals",higher,3828000,4883000,5183000,6482000,7616000,1957000,
+Switzerland,"International tourism, number of arrivals",higher,7821000,7229000,8628000,9305000,11818000,,
+Tunisia,"International tourism, number of arrivals",higher,5058000,6378000,7828000,5359000,9429000,2012000,
+United Kingdom,"International tourism, number of arrivals",higher,25209000,29970000,30398000,36792000,40857000,11101000,
+United States,"International tourism, number of arrivals",higher,78343000,71484000,162275000,176864531.3,165478000,45037000,
+Uruguay,"International tourism, number of arrivals",higher,2236000,1917000,2708000,3286000,3480000,,
+Argentina,"Mortality caused by road traffic injury (per 100,000 population)",lower,11.5,11.6,12.8,13.9,14.1,,
+Australia,"Mortality caused by road traffic injury (per 100,000 population)",lower,9.9,8.3,6.5,5.2,4.9,,
+Austria,"Mortality caused by road traffic injury (per 100,000 population)",lower,12.5,9.6,6.8,5.7,4.9,,
+Belgium,"Mortality caused by road traffic injury (per 100,000 population)",lower,16.7,10.9,8.1,6.7,5.8,,
+Brazil,"Mortality caused by road traffic injury (per 100,000 population)",lower,19.7,22.4,24.3,20.8,16,,
+Bulgaria,"Mortality caused by road traffic injury (per 100,000 population)",lower,13,12.8,10.8,10.1,9.2,,
+Canada,"Mortality caused by road traffic injury (per 100,000 population)",lower,9.8,9.5,7.3,5.8,5.3,,
+Chile,"Mortality caused by road traffic injury (per 100,000 population)",lower,17.9,17.7,12.5,12.3,14.9,,
+Costa Rica,"Mortality caused by road traffic injury (per 100,000 population)",lower,17.8,14.5,14,16.5,14.8,,
+Croatia,"Mortality caused by road traffic injury (per 100,000 population)",lower,15.2,14.1,10.5,9.3,7.9,,
+Czechia,"Mortality caused by road traffic injury (per 100,000 population)",lower,14.9,12.9,7.8,7.2,5.9,,
+Denmark,"Mortality caused by road traffic injury (per 100,000 population)",lower,9.6,6.5,5,3.5,3.7,,
+Estonia,"Mortality caused by road traffic injury (per 100,000 population)",lower,17.7,14.7,6.8,6.4,4.5,,
+Finland,"Mortality caused by road traffic injury (per 100,000 population)",lower,8.1,7.4,5.2,5.1,3.9,,
+France,"Mortality caused by road traffic injury (per 100,000 population)",lower,13.4,9,6.5,5.5,5.1,,
+Germany,"Mortality caused by road traffic injury (per 100,000 population)",lower,9.6,6.9,4.8,4.4,3.8,,
+Greece,"Mortality caused by road traffic injury (per 100,000 population)",lower,19.9,16.6,13.1,9.3,8.3,,
+Hungary,"Mortality caused by road traffic injury (per 100,000 population)",lower,12.7,14.8,9.2,7.8,7.7,,
+Indonesia,"Mortality caused by road traffic injury (per 100,000 population)",lower,14.5,14.3,13.7,12.3,11.3,,
+Ireland,"Mortality caused by road traffic injury (per 100,000 population)",lower,11.4,9.9,4.8,3.6,3.1,,
+Israel,"Mortality caused by road traffic injury (per 100,000 population)",lower,8,7.1,4.9,4.2,3.9,,
+Italy,"Mortality caused by road traffic injury (per 100,000 population)",lower,13.9,10.3,7.3,5.9,5.3,,
+Japan,"Mortality caused by road traffic injury (per 100,000 population)",lower,12.5,9.4,5.3,4.2,3.6,,
+"Korea, Rep.","Mortality caused by road traffic injury (per 100,000 population)",lower,25.6,16.1,13.7,10.6,8.6,,
+Lithuania,"Mortality caused by road traffic injury (per 100,000 population)",lower,22.8,25.6,12.1,10.5,8.1,,
+Netherlands,"Mortality caused by road traffic injury (per 100,000 population)",lower,7.5,5.1,4,3.8,4,,
+New Zealand,"Mortality caused by road traffic injury (per 100,000 population)",lower,12.3,10.3,9.3,7.7,9.6,,
+Norway,"Mortality caused by road traffic injury (per 100,000 population)",lower,8,5.3,4.4,2.6,2.1,,
+Panama,"Mortality caused by road traffic injury (per 100,000 population)",lower,15.4,13.8,13.2,14.2,13.9,,
+Peru,"Mortality caused by road traffic injury (per 100,000 population)",lower,15.8,15.9,13.2,13.9,13.6,,
+Poland,"Mortality caused by road traffic injury (per 100,000 population)",lower,18.6,16,12,9.3,9.4,,
+Portugal,"Mortality caused by road traffic injury (per 100,000 population)",lower,19.4,17.7,11.2,8.3,8.2,,
+Romania,"Mortality caused by road traffic injury (per 100,000 population)",lower,12.4,13.3,12,10,10.3,,
+Slovenia,"Mortality caused by road traffic injury (per 100,000 population)",lower,16.4,13.5,7.2,6,5.1,,
+Spain,"Mortality caused by road traffic injury (per 100,000 population)",lower,15.4,10.6,5.4,4.2,3.9,,
+Sweden,"Mortality caused by road traffic injury (per 100,000 population)",lower,6.7,5.3,3,3.2,3.1,,
+Switzerland,"Mortality caused by road traffic injury (per 100,000 population)",lower,8.5,5.7,4.3,3.1,2.2,,
+Tunisia,"Mortality caused by road traffic injury (per 100,000 population)",lower,23.7,24.1,23.9,22.9,16.5,,
+United Kingdom,"Mortality caused by road traffic injury (per 100,000 population)",lower,6.9,6.6,3.7,2.9,3.2,,
+United States,"Mortality caused by road traffic injury (per 100,000 population)",lower,15.7,15.7,11.7,12.1,12.7,,
+Uruguay,"Mortality caused by road traffic injury (per 100,000 population)",lower,16.8,12.8,17.1,15.3,14.8,,
+Argentina,Net migration,higher,-22770,-21961,-4970,5522,4478,2344,2344
+Australia,Net migration,higher,109375,132109,166833,209466,235860,117929,117929
+Austria,Net migration,higher,17531,50282,22786,115125,41105,20314,20314
+Belgium,Net migration,higher,32262,46280,54611,57008,54395,53428,52356
+Brazil,Net migration,higher,-1761,-42926,16843,4764,69186,56880,20376
+Bulgaria,Net migration,higher,-11295,-3832,-8686,-15356,-11439,-9902,-8716
+Canada,Net migration,higher,201617,204710,227724,232738,391914,195181,195181
+Chile,Net migration,higher,5790,14336,26064,55709,230162,98439,113709
+Costa Rica,Net migration,higher,13590,7022,4728,4065,4154,2084,2084
+Croatia,Net migration,higher,-50791,-3834,-5624,-13408,-12480,-11592,-10402
+Czechia,Net migration,higher,4195,24895,34805,5297,4030,3621,3621
+Denmark,Net migration,higher,12536,11693,17037,22368,23305,23076,22746
+Estonia,Net migration,higher,-3230,-5242,-3759,4308,5410,2995,2995
+Finland,Net migration,higher,2428,9406,14053,12433,15558,17482,14928
+France,Net migration,higher,102857,155943,86355,18807,17403,18335,20614
+Germany,Net migration,higher,60905,102694,267047,397921,360560,334055,312735
+Greece,Net migration,higher,35798,-7559,-25002,-29315,-21581,-17853,-14806
+Hungary,Net migration,higher,15478,16615,11394,14166,33559,9042,19870
+Indonesia,Net migration,higher,-42697,-102380,-77010,-37991,-40567,-24999,-14992
+Ireland,Net migration,higher,31230,64192,-27110,13130,29113,15320,15320
+Israel,Net migration,higher,27257,13756,9580,12049,16132,16569,16856
+Italy,Net migration,higher,49166,250910,270043,34031,21615,28021,28021
+Japan,Net migration,higher,84477,153248,148460,150215,183953,87584,87584
+"Korea, Rep.",Net migration,higher,-72624,-36504,56092,266322,110799,0,43440
+Lithuania,Net migration,higher,-31240,-35453,-28864,-18912,-13398,-12625,-11853
+Netherlands,Net migration,higher,21650,13610,35628,57677,60266,58816,57439
+New Zealand,Net migration,higher,-6080,19148,6258,47165,103392,38220,38220
+Norway,Net migration,higher,9789,18467,42906,30329,25564,10756,10604
+Panama,Net migration,higher,2602,3843,4953,8648,10623,5473,5473
+Peru,Net migration,higher,-94554,-221582,-181284,2462,136558,79456,68012
+Poland,Net migration,higher,315602,-21324,-8835,-25426,-2974,-779,-2968
+Portugal,Net migration,higher,63195,17155,-11820,-10124,43656,40535,27295
+Romania,Net migration,higher,-91807,-129933,-112173,-49612,-25453,-12724,-12724
+Slovenia,Net migration,higher,-1562,8289,7640,7934,7427,7681,4568
+Spain,Net migration,higher,175213,632974,62782,-871,458942,208791,275022
+Sweden,Net migration,higher,27734,39103,60639,77987,81585,81066,80097
+Switzerland,Net migration,higher,24066,32421,75604,71488,43546,53786,23872
+Tunisia,Net migration,higher,-17475,-29303,-25953,-25230,-19609,-9189,-9189
+United Kingdom,Net migration,higher,161157,261300,281588,254218,221179,211063,202027
+United States,Net migration,higher,1479676,1129462,1030731,1221849,1158444,675560,561580
+Uruguay,Net migration,higher,-11074,-16092,-7696,-4156,-2902,-1486,-1486
+Argentina,People using at least basic drinking water services (% of population),higher,96.29467974,97.42319597,98.42725533,98.96658815,,,
+Australia,People using at least basic drinking water services (% of population),higher,99.71229832,99.77814769,99.88315015,99.97000567,99.96985563,99.96981182,
+Austria,People using at least basic drinking water services (% of population),higher,100,99.99999704,100.0000029,100,99.99999727,100,
+Belgium,People using at least basic drinking water services (% of population),higher,100.0000036,100.0000006,99.99999861,99.9999977,99.99999974,99.99999645,
+Brazil,People using at least basic drinking water services (% of population),higher,93.47152821,95.08413702,96.51879691,97.80356759,98.93554441,99.32085299,
+Bulgaria,People using at least basic drinking water services (% of population),higher,99.8594037,99.62024894,99.39938391,99.19632731,99.04696233,99.01141694,
+Canada,People using at least basic drinking water services (% of population),higher,99.22699196,99.23464422,99.23634886,99.22922139,99.22164984,99.22181066,
+Chile,People using at least basic drinking water services (% of population),higher,95.74911864,97.11012176,98.32901085,99.50649272,99.99999614,99.99999872,
+Costa Rica,People using at least basic drinking water services (% of population),higher,94.31973425,96.46388357,98.11229116,99.37868682,99.79752731,99.81053693,
+Croatia,People using at least basic drinking water services (% of population),higher,98.64941201,98.67513502,,,,,
+Czechia,People using at least basic drinking water services (% of population),higher,99.80612464,99.82820011,99.85659774,99.88009269,99.88047032,99.88059167,
+Denmark,People using at least basic drinking water services (% of population),higher,100.0000023,100.0000011,100.0000022,99.99999785,100,100.0000011,
+Estonia,People using at least basic drinking water services (% of population),higher,99.24483789,99.33587575,99.74892504,99.75130757,99.59078178,99.59078178,
+Finland,People using at least basic drinking water services (% of population),higher,99.99999765,99.99999884,100,99.99999666,100.0000011,100.0000033,
+France,People using at least basic drinking water services (% of population),higher,99.89732981,99.93825616,99.97524196,100,100.000003,99.9999985,
+Germany,People using at least basic drinking water services (% of population),higher,100,100,100,100.0000024,100,100.0000023,
+Greece,People using at least basic drinking water services (% of population),higher,99.65602488,99.79450134,99.92007062,100.0000046,100,100.0000023,
+Hungary,People using at least basic drinking water services (% of population),higher,99.96403728,99.96637568,99.96892877,99.97052896,100,99.99999747,
+Indonesia,People using at least basic drinking water services (% of population),higher,75.31566473,80.02217385,84.43671954,88.52735296,91.64729028,92.41534961,
+Ireland,People using at least basic drinking water services (% of population),higher,97.18371802,97.2499901,97.31290582,97.37212799,97.40257341,97.39970651,
+Israel,People using at least basic drinking water services (% of population),higher,99.99999692,99.99999813,100.0000017,100.0000015,99.99999857,100,
+Italy,People using at least basic drinking water services (% of population),higher,99.55705953,99.68562187,99.81418421,99.91703407,99.91703407,99.91703407,
+Japan,People using at least basic drinking water services (% of population),higher,98.49351132,98.53253806,98.72767177,98.92280548,99.07891245,99.07891245,
+"Korea, Rep.",People using at least basic drinking water services (% of population),higher,,98.64717598,99.01409617,99.47274641,99.8396666,99.93139665,
+Lithuania,People using at least basic drinking water services (% of population),higher,89.66956394,91.91386804,94.24874381,96.60413858,98.0014748,98.01334724,
+Netherlands,People using at least basic drinking water services (% of population),higher,100.0000015,99.99999702,100,99.99999856,99.99999714,99.99999929,
+New Zealand,People using at least basic drinking water services (% of population),higher,100,100,100,99.99999735,99.99999745,100.0000013,
+Norway,People using at least basic drinking water services (% of population),higher,100.0000027,99.99999736,100.0000025,100.0000012,100.0000034,99.9999955,
+Panama,People using at least basic drinking water services (% of population),higher,89.55529514,91.02301344,91.86961969,92.90436561,94.16190293,94.37254436,
+Peru,People using at least basic drinking water services (% of population),higher,80.44026732,84.08286419,87.31744155,90.28200304,92.57507195,93.13936621,
+Poland,People using at least basic drinking water services (% of population),higher,,98.10232225,98.2772052,99.23206988,99.96659232,99.96659155,
+Portugal,People using at least basic drinking water services (% of population),higher,98.54303825,99.05740005,99.578895,99.90468984,99.91056976,99.91199367,
+Romania,People using at least basic drinking water services (% of population),higher,100,100,100,100,100,100,
+Slovenia,People using at least basic drinking water services (% of population),higher,99.5,99.5,99.5,99.5,99.5,99.5,
+Spain,People using at least basic drinking water services (% of population),higher,100.0000024,99.99999778,100,99.92672046,99.92583814,99.92561261,
+Sweden,People using at least basic drinking water services (% of population),higher,99.41779872,99.53959557,99.66207078,99.78123103,99.82653896,99.82686763,
+Switzerland,People using at least basic drinking water services (% of population),higher,99.99999829,99.99999835,100,100,100,100.0000028,
+Tunisia,People using at least basic drinking water services (% of population),higher,88.54523455,90.49617491,92.22490194,94.8454551,97.03219313,97.54330899,
+United Kingdom,People using at least basic drinking water services (% of population),higher,100.0000033,100,99.99999846,100.0000015,99.99999711,99.99999856,
+United States,People using at least basic drinking water services (% of population),higher,,98.8536874,98.97895208,99.44715776,99.79904438,99.88352668,
+Uruguay,People using at least basic drinking water services (% of population),higher,96.97933024,97.45730069,98.3929266,99.13139756,99.48723899,99.49575756,
+Argentina,"Physicians (per 1,000 people)",higher,,,,3.99,4.0685,4.0596,
+Australia,"Physicians (per 1,000 people)",higher,2.4944,2.7794,3.3429,3.4886,3.8503,4.1292,
+Austria,"Physicians (per 1,000 people)",higher,3.8492,4.3355,4.8016,5.1035,5.2734,5.2933,
+Belgium,"Physicians (per 1,000 people)",higher,2.8204,2.8521,2.9085,3.0138,3.1495,,
+Brazil,"Physicians (per 1,000 people)",higher,,,,,2.3106,,
+Bulgaria,"Physicians (per 1,000 people)",higher,3.4416,3.6651,3.7661,4.0332,,,
+Canada,"Physicians (per 1,000 people)",higher,,,2.0384,2.5388,2.4425,,
+Chile,"Physicians (per 1,000 people)",higher,,0.9804,1.4333,2.147,2.6614,2.8351,
+Costa Rica,"Physicians (per 1,000 people)",higher,1.3133,,2.3057,2.7318,,3.3005,
+Croatia,"Physicians (per 1,000 people)",higher,2.3574,2.5353,2.8428,3.1728,3.4651,,
+Czechia,"Physicians (per 1,000 people)",higher,3.3631,3.5465,3.5743,3.9516,4.0601,4.1533,
+Denmark,"Physicians (per 1,000 people)",higher,2.9119,3.3333,3.7211,3.9257,,,
+Estonia,"Physicians (per 1,000 people)",higher,2.9376,3.1401,3.2422,3.4152,3.4724,,
+Finland,"Physicians (per 1,000 people)",higher,2.4934,2.9913,3.2653,3.3309,,,
+France,"Physicians (per 1,000 people)",higher,3.3547,3.441,3.3736,3.2071,3.2735,,
+Germany,"Physicians (per 1,000 people)",higher,3.2785,3.4314,3.7567,4.1342,4.3716,4.4348,
+Greece,"Physicians (per 1,000 people)",higher,,4.9494,5.8812,5.9914,6.3072,,
+Hungary,"Physicians (per 1,000 people)",higher,2.6799,2.7816,2.8896,3.1178,3.5248,,
+Indonesia,"Physicians (per 1,000 people)",higher,,,0.1395,0.2738,0.4651,0.6228,
+Ireland,"Physicians (per 1,000 people)",higher,2.2304,3.5427,4.1326,3.1524,3.352,3.4896,
+Israel,"Physicians (per 1,000 people)",higher,3.7993,3.7366,3.5107,3.4627,3.5781,3.6259,
+Italy,"Physicians (per 1,000 people)",higher,3.4586,3.7017,3.816,3.8479,3.9958,3.9477,
+Japan,"Physicians (per 1,000 people)",higher,1.9237,,2.2059,,,,
+"Korea, Rep.","Physicians (per 1,000 people)",higher,1.2853,1.6086,1.9839,2.2494,2.4843,,
+Lithuania,"Physicians (per 1,000 people)",higher,3.6244,3.6961,3.9138,4.2993,4.6268,,
+Netherlands,"Physicians (per 1,000 people)",higher,2.4427,2.6997,2.9516,3.4917,3.7689,4.0794,
+New Zealand,"Physicians (per 1,000 people)",higher,2.2324,2.1052,2.6114,3.0302,3.5149,3.6183,
+Norway,"Physicians (per 1,000 people)",higher,3.3738,3.556,4.1167,4.4432,4.94,5.047,
+Panama,"Physicians (per 1,000 people)",higher,,1.3477,1.4058,1.5759,1.6324,,
+Peru,"Physicians (per 1,000 people)",higher,,,,,,,
+Poland,"Physicians (per 1,000 people)",higher,2.2053,2.1267,2.1707,2.3252,,,
+Portugal,"Physicians (per 1,000 people)",higher,3.2026,3.4999,3.9756,4.7487,5.4837,,
+Romania,"Physicians (per 1,000 people)",higher,1.9531,2.2126,2.4804,,,,
+Slovenia,"Physicians (per 1,000 people)",higher,2.1527,2.3519,2.4367,2.8148,3.277,,
+Spain,"Physicians (per 1,000 people)",higher,3.1158,3.5159,3.7296,3.8267,4.4411,,
+Sweden,"Physicians (per 1,000 people)",higher,3.0232,3.4518,3.8033,4.1899,,,
+Switzerland,"Physicians (per 1,000 people)",higher,3.5298,3.7623,3.8166,4.1898,4.3416,4.3804,
+Tunisia,"Physicians (per 1,000 people)",higher,0.7668,0.9322,1.222,1.3108,,,
+United Kingdom,"Physicians (per 1,000 people)",higher,1.9913,2.412,2.6265,2.7465,2.9093,3.0037,
+United States,"Physicians (per 1,000 people)",higher,2.5942,,,,,,
+Uruguay,"Physicians (per 1,000 people)",higher,,,,,,,
+Argentina,Population growth (annual %),higher,1.133277022,1.033476224,0.255582398,1.078001344,0.993397493,0.970053991,0.947490959
+Australia,Population growth (annual %),higher,1.144472851,1.217290731,1.555706262,1.439216653,1.485208447,1.23570108,0.127728296
+Austria,Population growth (annual %),higher,0.240466652,0.681267248,0.2403943,1.120992502,0.444673639,0.415176732,0.435671684
+Belgium,Population growth (annual %),higher,0.242517956,0.550055708,0.913639392,0.579446242,0.540461327,0.430996815,0.469904402
+Brazil,Population growth (annual %),higher,1.36677133,1.117202878,0.939418022,0.845992601,0.766107802,0.665176682,0.528590453
+Bulgaria,Population growth (annual %),higher,-0.493896417,-0.752977445,-0.658275447,-0.638069468,-0.703905641,-0.600241518,-0.814846472
+Canada,Population growth (annual %),higher,0.931281553,0.944466927,1.111864075,0.746339478,1.436136823,1.152797077,0.547707006
+Chile,Population growth (annual %),higher,1.149041725,0.977510012,1.009033756,1.029425554,1.791391972,1.360643634,0.994344898
+Costa Rica,Population growth (annual %),higher,1.973588232,1.472527587,1.287389809,1.046343404,0.865128347,0.755771068,0.600406861
+Croatia,Population growth (annual %),higher,-0.986434859,0.128732789,-0.226821271,-0.824099164,-0.554146739,-0.433210221,-3.742376748
+Czechia,Population growth (annual %),higher,-0.280414108,0.13832598,0.291361674,0.196588748,0.393788864,0.243222682,-1.81187141
+Denmark,Population growth (annual %),higher,0.334233619,0.275481733,0.444197155,0.70642385,0.358130916,0.291641177,0.433414489
+Estonia,Population growth (annual %),higher,0.483707162,-0.572255525,-0.228057969,0.06555253,0.371554389,0.197559185,0.105996956
+Finland,Population growth (annual %),higher,0.207606515,0.342248594,0.457494535,0.329383886,0.11019169,0.143641197,0.207288594
+France,Population growth (annual %),higher,0.686782587,0.749918325,0.492821126,0.35556924,0.341374143,0.271350508,0.263854757
+Germany,Population growth (annual %),higher,0.1354316,-0.056778262,-0.153198447,0.865702644,0.225519874,0.081693159,0.042327057
+Greece,Population growth (annual %),higher,0.409041838,0.293249074,0.128880433,-0.658861361,-0.105339393,-0.214592107,-0.537756535
+Hungary,Population growth (annual %),higher,-0.259764908,-0.198878843,-0.226013876,-0.237855002,-0.04525571,-0.215067837,-0.413751024
+Indonesia,Population growth (annual %),higher,1.447088484,1.260748296,1.251517291,1.110854932,0.937689274,0.840389268,0.694717688
+Ireland,Population growth (annual %),higher,1.333042666,2.178703014,0.544884384,0.944845307,1.367626954,1.029110503,0.953898052
+Israel,Population growth (annual %),higher,2.642331913,1.762897661,1.82675241,1.981288976,1.90898264,1.763679392,1.602910669
+Italy,Population growth (annual %),higher,0.045303631,0.491389108,0.307591222,-0.096376133,-1.153028424,-0.487095092,-0.555357163
+Japan,Population growth (annual %),higher,0.167275578,0.009392097,0.017960542,-0.106124994,-0.140464978,-0.294194618,-0.459952416
+"Korea, Rep.",Population growth (annual %),higher,0.836180864,0.211997784,0.498225084,0.527288497,0.347874969,0.137869266,-0.176408651
+Lithuania,Population growth (annual %),higher,-0.70338544,-1.628401126,-2.09694342,-0.940753797,-0.264704355,0.026766758,0.21280543
+Netherlands,Population growth (annual %),higher,0.714770363,0.233663148,0.512923101,0.443220089,0.655071575,0.55554079,0.523490508
+New Zealand,Population growth (annual %),higher,0.587564086,1.12877351,1.111726056,2.036033909,1.591158896,2.204788696,0.634500014
+Norway,Population growth (annual %),higher,0.649044821,0.681072964,1.24566618,0.995084737,0.675061373,0.588757324,0.534772282
+Panama,Population growth (annual %),higher,1.971887913,1.910434961,1.7896721,1.741235434,1.602289731,1.451052137,1.315615015
+Peru,Population growth (annual %),higher,1.520442271,0.904184156,0.756357203,1.172230664,1.909725608,1.451402401,1.225660252
+Poland,Population growth (annual %),higher,-1.044335398,-0.043948953,-0.285609122,-0.066641101,-0.024427107,-0.175062058,-0.401728617
+Portugal,Population growth (annual %),higher,0.702859953,0.185532267,0.045910037,-0.414141102,0.023733495,0.105114125,0.272191902
+Romania,Population growth (annual %),higher,-0.12944004,-0.617530957,-0.593959184,-0.470052228,-0.526814822,-0.550759893,-0.757432344
+Slovenia,Population growth (annual %),higher,0.29607496,0.173208905,0.436079485,0.075190689,0.696304046,0.669754656,0.26885197
+Spain,Population growth (annual %),higher,0.447137015,1.689349047,0.460408305,-0.077588862,0.717715637,0.488502132,0.105706398
+Sweden,Population growth (annual %),higher,0.160575485,0.399942763,0.852524629,1.057454686,1.013722263,0.722703913,0.600591533
+Switzerland,Population growth (annual %),higher,0.561954617,0.64060154,1.041558058,1.138337152,0.713313668,0.730676195,0.752392087
+Tunisia,Population growth (annual %),higher,1.069538693,0.929565256,1.019946187,1.120928168,0.969662162,0.928583172,0.82886347
+United Kingdom,Population growth (annual %),higher,0.357300887,0.686611306,0.783888647,0.792367506,0.564131113,0.365409432,0.365409887
+United States,Population growth (annual %),higher,1.112768997,0.921713167,0.829616675,0.736217309,0.455381286,0.961201052,0.118380497
+Uruguay,Population growth (annual %),higher,0.403611037,0.116535331,0.253703132,0.328384513,0.039880674,0.019744819,-0.082446609
+Argentina,Poverty gap at $2.15 a day (2017 PPP) (%),lower,,,,,0.3,0.3,0.4
+Australia,Poverty gap at $2.15 a day (2017 PPP) (%),lower,,,,,,,
+Austria,Poverty gap at $2.15 a day (2017 PPP) (%),lower,,,,0.6,0.5,0.6,
+Belgium,Poverty gap at $2.15 a day (2017 PPP) (%),lower,,,,0.1,0.1,0,
+Brazil,Poverty gap at $2.15 a day (2017 PPP) (%),lower,,,,1.3,2.1,0.7,2.1
+Bulgaria,Poverty gap at $2.15 a day (2017 PPP) (%),lower,,,,1.5,0.3,0.1,
+Canada,Poverty gap at $2.15 a day (2017 PPP) (%),lower,,,,0.1,,,
+Chile,Poverty gap at $2.15 a day (2017 PPP) (%),lower,,,,0.2,,0.4,
+Costa Rica,Poverty gap at $2.15 a day (2017 PPP) (%),lower,,,,0.6,0.4,0.9,0.4
+Croatia,Poverty gap at $2.15 a day (2017 PPP) (%),lower,,,,0.4,0.2,0.2,
+Czechia,Poverty gap at $2.15 a day (2017 PPP) (%),lower,,,,0,0,0,
+Denmark,Poverty gap at $2.15 a day (2017 PPP) (%),lower,,,,0.1,0.2,0.1,
+Estonia,Poverty gap at $2.15 a day (2017 PPP) (%),lower,,,,0.4,0.3,0.2,
+Finland,Poverty gap at $2.15 a day (2017 PPP) (%),lower,,,,0.1,0,0,
+France,Poverty gap at $2.15 a day (2017 PPP) (%),lower,,,,0.1,0,0.1,
+Germany,Poverty gap at $2.15 a day (2017 PPP) (%),lower,,,,0,0,,
+Greece,Poverty gap at $2.15 a day (2017 PPP) (%),lower,,,,0.8,0.4,0.5,
+Hungary,Poverty gap at $2.15 a day (2017 PPP) (%),lower,,,,0.3,0.1,0.3,
+Indonesia,Poverty gap at $2.15 a day (2017 PPP) (%),lower,,,,1.4,0.6,0.5,0.5
+Ireland,Poverty gap at $2.15 a day (2017 PPP) (%),lower,,,,0.3,0,0.1,
+Israel,Poverty gap at $2.15 a day (2017 PPP) (%),lower,,,,0.2,,,
+Italy,Poverty gap at $2.15 a day (2017 PPP) (%),lower,,,,1.4,0.8,0.7,
+Japan,Poverty gap at $2.15 a day (2017 PPP) (%),lower,,,,,,,
+"Korea, Rep.",Poverty gap at $2.15 a day (2017 PPP) (%),lower,,,,,,,
+Lithuania,Poverty gap at $2.15 a day (2017 PPP) (%),lower,,,,0.5,0.4,0.1,
+Netherlands,Poverty gap at $2.15 a day (2017 PPP) (%),lower,,,,0,0,0,
+New Zealand,Poverty gap at $2.15 a day (2017 PPP) (%),lower,,,,,,,
+Norway,Poverty gap at $2.15 a day (2017 PPP) (%),lower,,,,0.1,0.1,,
+Panama,Poverty gap at $2.15 a day (2017 PPP) (%),lower,,,,0.4,0.4,,0.5
+Peru,Poverty gap at $2.15 a day (2017 PPP) (%),lower,,,,1.3,0.8,1.8,0.7
+Poland,Poverty gap at $2.15 a day (2017 PPP) (%),lower,,,,0.2,0,,
+Portugal,Poverty gap at $2.15 a day (2017 PPP) (%),lower,,,,0.3,0.1,0.2,
+Romania,Poverty gap at $2.15 a day (2017 PPP) (%),lower,,,,1.7,0.8,0.7,
+Slovenia,Poverty gap at $2.15 a day (2017 PPP) (%),lower,,,,0,0,0,
+Spain,Poverty gap at $2.15 a day (2017 PPP) (%),lower,,,,0.6,0.6,0.5,
+Sweden,Poverty gap at $2.15 a day (2017 PPP) (%),lower,,,,0.3,0.2,0.3,
+Switzerland,Poverty gap at $2.15 a day (2017 PPP) (%),lower,,,,0,,,
+Tunisia,Poverty gap at $2.15 a day (2017 PPP) (%),lower,,,,0,,,
+United Kingdom,Poverty gap at $2.15 a day (2017 PPP) (%),lower,,,,0.2,0.2,0.3,
+United States,Poverty gap at $2.15 a day (2017 PPP) (%),lower,,,,0.9,0.8,0.2,
+Uruguay,Poverty gap at $2.15 a day (2017 PPP) (%),lower,,,,0,0,0.1,0
+Argentina,Prevalence of moderate or severe food insecurity in the population (%),lower,,,,19.2,35.8,37,
+Australia,Prevalence of moderate or severe food insecurity in the population (%),lower,,,,10.8,12.3,11.9,
+Austria,Prevalence of moderate or severe food insecurity in the population (%),lower,,,,5.5,3,3.3,
+Belgium,Prevalence of moderate or severe food insecurity in the population (%),lower,,,,,3.7,4.8,
+Brazil,Prevalence of moderate or severe food insecurity in the population (%),lower,,,,18.3,23.5,28.9,
+Bulgaria,Prevalence of moderate or severe food insecurity in the population (%),lower,,,,14.9,13.2,15.5,
+Canada,Prevalence of moderate or severe food insecurity in the population (%),lower,,,,5,5.8,6.5,
+Chile,Prevalence of moderate or severe food insecurity in the population (%),lower,,,,10.8,17.3,17.4,
+Costa Rica,Prevalence of moderate or severe food insecurity in the population (%),lower,,,,12.2,15.3,15.9,
+Croatia,Prevalence of moderate or severe food insecurity in the population (%),lower,,,,6.5,11,11.4,
+Czechia,Prevalence of moderate or severe food insecurity in the population (%),lower,,,,5.8,4.2,5.8,
+Denmark,Prevalence of moderate or severe food insecurity in the population (%),lower,,,,5.9,5,5.5,
+Estonia,Prevalence of moderate or severe food insecurity in the population (%),lower,,,,9.5,7.9,7.9,
+Finland,Prevalence of moderate or severe food insecurity in the population (%),lower,,,,9.3,8,8.8,
+France,Prevalence of moderate or severe food insecurity in the population (%),lower,,,,6.8,5.8,5.9,
+Germany,Prevalence of moderate or severe food insecurity in the population (%),lower,,,,4.1,3.4,3.5,
+Greece,Prevalence of moderate or severe food insecurity in the population (%),lower,,,,15.8,8.6,6.8,
+Hungary,Prevalence of moderate or severe food insecurity in the population (%),lower,,,,11.3,8.6,10.6,
+Indonesia,Prevalence of moderate or severe food insecurity in the population (%),lower,,,,6,6.2,6,
+Ireland,Prevalence of moderate or severe food insecurity in the population (%),lower,,,,8.9,8.3,6.5,
+Israel,Prevalence of moderate or severe food insecurity in the population (%),lower,,,,11,13.7,14.2,
+Italy,Prevalence of moderate or severe food insecurity in the population (%),lower,,,,8.6,6.7,6.3,
+Japan,Prevalence of moderate or severe food insecurity in the population (%),lower,,,,2.6,3.4,3.8,
+"Korea, Rep.",Prevalence of moderate or severe food insecurity in the population (%),lower,,,,4.8,5.1,5.3,
+Lithuania,Prevalence of moderate or severe food insecurity in the population (%),lower,,,,15.3,11.3,9.8,
+Netherlands,Prevalence of moderate or severe food insecurity in the population (%),lower,,,,5.7,4.7,4.4,
+New Zealand,Prevalence of moderate or severe food insecurity in the population (%),lower,,,,10,14,14.5,
+Norway,Prevalence of moderate or severe food insecurity in the population (%),lower,,,,4.8,4.1,4.3,
+Panama,Prevalence of moderate or severe food insecurity in the population (%),lower,,,,,,,
+Peru,Prevalence of moderate or severe food insecurity in the population (%),lower,,,,37.2,47.8,50.5,
+Poland,Prevalence of moderate or severe food insecurity in the population (%),lower,,,,8.9,5.8,7.4,
+Portugal,Prevalence of moderate or severe food insecurity in the population (%),lower,,,,14.7,11.5,11.6,
+Romania,Prevalence of moderate or severe food insecurity in the population (%),lower,,,,19.3,13.9,13.4,
+Slovenia,Prevalence of moderate or severe food insecurity in the population (%),lower,,,,12.3,8.2,7.4,
+Spain,Prevalence of moderate or severe food insecurity in the population (%),lower,,,,7.1,8.8,8.6,
+Sweden,Prevalence of moderate or severe food insecurity in the population (%),lower,,,,4.5,5.3,5.3,
+Switzerland,Prevalence of moderate or severe food insecurity in the population (%),lower,,,,4.8,2,2.2,
+Tunisia,Prevalence of moderate or severe food insecurity in the population (%),lower,,,,18.2,25.1,28,
+United Kingdom,Prevalence of moderate or severe food insecurity in the population (%),lower,,,,6.3,3.9,3.5,
+United States,Prevalence of moderate or severe food insecurity in the population (%),lower,,,,10.5,8.2,8.2,
+Uruguay,Prevalence of moderate or severe food insecurity in the population (%),lower,,,,21.6,23.5,23,
+Argentina,Proportion of seats held by women in national parliaments (%),higher,26.45914397,36.18677043,38.52140078,,40.15748031,40.85603113,44.74708171
+Australia,Proportion of seats held by women in national parliaments (%),higher,22.97297297,24.66666667,24.66666667,26.66666667,30.46357616,30.46357616,31.12582781
+Austria,Proportion of seats held by women in national parliaments (%),higher,26.77595628,33.87978142,27.86885246,30.6010929,39.3442623,39.3442623,40.43715847
+Belgium,Proportion of seats held by women in national parliaments (%),higher,23.33333333,34.66666667,39.33333333,39.33333333,42,41.33333333,42
+Brazil,Proportion of seats held by women in national parliaments (%),higher,5.653021442,8.576998051,8.576998051,9.941520468,15.00974659,14.61988304,15.20467836
+Bulgaria,Proportion of seats held by women in national parliaments (%),higher,10.83333333,22.08333333,20.83333333,20.41666667,25.83333333,26.66666667,23.75
+Canada,Proportion of seats held by women in national parliaments (%),higher,,21.1038961,22.07792208,26.03550296,28.99408284,28.99408284,30.47337278
+Chile,Proportion of seats held by women in national parliaments (%),higher,10.83333333,15,14.16666667,15.83333333,22.58064516,22.58064516,35.48387097
+Costa Rica,Proportion of seats held by women in national parliaments (%),higher,19.29824561,35.0877193,38.59649123,33.33333333,45.61403509,45.61403509,45.61403509
+Croatia,Proportion of seats held by women in national parliaments (%),higher,20.52980132,21.71052632,23.52941176,15.23178808,20.52980132,31.12582781,31.12582781
+Czechia,Proportion of seats held by women in national parliaments (%),higher,15,17,22,20,22.5,22.5,25
+Denmark,Proportion of seats held by women in national parliaments (%),higher,37.4301676,36.87150838,37.98882682,37.4301676,39.10614525,39.66480447,39.66480447
+Estonia,Proportion of seats held by women in national parliaments (%),higher,17.82178218,18.81188119,22.77227723,23.76237624,29.7029703,28.71287129,25.74257426
+Finland,Proportion of seats held by women in national parliaments (%),higher,36.5,37.5,40,41.5,47,46,46
+France,Proportion of seats held by women in national parliaments (%),higher,10.91854419,12.19512195,18.89081456,26.16984402,39.68804159,39.51473137,39.51473137
+Germany,Proportion of seats held by women in national parliaments (%),higher,30.94170404,31.75895765,32.79742765,36.45007924,30.88857546,31.17066291,34.91847826
+Greece,Proportion of seats held by women in national parliaments (%),higher,8.666666667,13,17.33333333,19.66666667,20.66666667,21.66666667,21.66666667
+Hungary,Proportion of seats held by women in national parliaments (%),higher,8.29015544,9.090909091,9.067357513,10.1010101,12.56281407,12.06030151,13.06532663
+Indonesia,Proportion of seats held by women in national parliaments (%),higher,8,11.27272727,18.03571429,17.11711712,17.39130435,20.34782609,21.04347826
+Ireland,Proportion of seats held by women in national parliaments (%),higher,12.04819277,13.25301205,13.93939394,16.26506024,22.15189873,22.5,22.5
+Israel,Proportion of seats held by women in national parliaments (%),higher,12.5,15,19.16666667,26.66666667,23.33333333,27.5,28.33333333
+Italy,Proportion of seats held by women in national parliaments (%),higher,11.11111111,11.52597403,21.26984127,30.95238095,35.71428571,35.71428571,35.71428571
+Japan,Proportion of seats held by women in national parliaments (%),higher,7.291666667,8.958333333,11.25,9.473684211,10.10752688,9.892473118,9.677419355
+"Korea, Rep.",Proportion of seats held by women in national parliaments (%),higher,5.860805861,13.37792642,14.71571906,16.33333333,16.66666667,19,19
+Lithuania,Proportion of seats held by women in national parliaments (%),higher,10.63829787,21.9858156,19.14893617,23.40425532,21.27659574,26.95035461,27.65957447
+Netherlands,Proportion of seats held by women in national parliaments (%),higher,36,36.66666667,40.66666667,37.33333333,31.33333333,33.33333333,39.33333333
+New Zealand,Proportion of seats held by women in national parliaments (%),higher,30.83333333,32.23140496,33.60655738,31.40495868,40.83333333,48.33333333,49.16666667
+Norway,Proportion of seats held by women in national parliaments (%),higher,36.36363636,37.86982249,39.64497041,39.64497041,40.82840237,41.42011834,44.9704142
+Panama,Proportion of seats held by women in national parliaments (%),higher,9.85915493,16.66666667,8.450704225,18.30985915,21.12676056,22.53521127,22.53521127
+Peru,Proportion of seats held by women in national parliaments (%),higher,,18.33333333,27.5,22.30769231,30,26.15384615,40
+Poland,Proportion of seats held by women in national parliaments (%),higher,13.04347826,20.43478261,20,27.39130435,28.69565217,28.69565217,28.32244009
+Portugal,Proportion of seats held by women in national parliaments (%),higher,17.39130435,21.30434783,27.39130435,34.7826087,38.69565217,40,40
+Romania,Proportion of seats held by women in national parliaments (%),higher,,11.17824773,11.37724551,13.71571072,21.88449848,21.88449848,18.54103343
+Slovenia,Proportion of seats held by women in national parliaments (%),higher,,12.22222222,14.44444444,36.66666667,27.77777778,27.77777778,26.66666667
+Spain,Proportion of seats held by women in national parliaments (%),higher,28.28571429,36,36.57142857,41.14285714,44,44,43.42857143
+Sweden,Proportion of seats held by women in national parliaments (%),higher,42.69340974,45.2722063,44.98567335,43.5530086,47.27793696,46.99140401,46.99140401
+Switzerland,Proportion of seats held by women in national parliaments (%),higher,23,25,29,32,41.5,41.5,42.5
+Tunisia,Proportion of seats held by women in national parliaments (%),higher,11.53846154,22.75132275,27.57009346,31.33640553,22.58064516,24.88479263,26.26728111
+United Kingdom,Proportion of seats held by women in national parliaments (%),higher,18.36115326,19.65944272,22,29.38461538,32,33.84615385,34.25925926
+United States,Proportion of seats held by women in national parliaments (%),higher,,15.17241379,16.7816092,19.35483871,23.43387471,27.46478873,27.64976959
+Uruguay,Proportion of seats held by women in national parliaments (%),higher,12.12121212,11.11111111,15.15151515,16.16161616,19.19191919,21.21212121,24.24242424
+Argentina,"School enrollment, tertiary (% gross)",higher,1.340430021,1.303150058,1.329579949,1.387140036,1.406829953,1.419420004,
+Australia,"School enrollment, tertiary (% gross)",higher,,,,1.307700038,1.262480021,1.279710054,
+Austria,"School enrollment, tertiary (% gross)",higher,,,,1.161769986,1.179759979,1.193729997,
+Belgium,"School enrollment, tertiary (% gross)",higher,1.129330039,1.19698,1.210289955,1.235000014,1.255839944,1.256539941,
+Brazil,"School enrollment, tertiary (% gross)",higher,,1.222270012,,1.253520012,1.281129956,1.302029967,
+Bulgaria,"School enrollment, tertiary (% gross)",higher,1.292449951,1.138550043,1.244089961,1.216330051,1.202829957,1.203760028,
+Canada,"School enrollment, tertiary (% gross)",higher,1.253880024,,1.275349975,1.254420042,1.243860006,1.246000051,
+Chile,"School enrollment, tertiary (% gross)",higher,0.916279972,0.956879973,1.069010019,1.10236001,1.142390013,1.154610038,
+Costa Rica,"School enrollment, tertiary (% gross)",higher,,,,1.235059977,1.182979941,,
+Croatia,"School enrollment, tertiary (% gross)",higher,1.138329983,1.175740004,1.255180001,1.261459947,1.28839004,1.289579988,
+Czechia,"School enrollment, tertiary (% gross)",higher,1.03579998,1.138429999,1.283820033,1.289100051,1.280339956,1.279510021,
+Denmark,"School enrollment, tertiary (% gross)",higher,1.267629981,1.275580049,1.309679985,1.286560059,1.278489947,1.28173995,
+Estonia,"School enrollment, tertiary (% gross)",higher,1.328809977,1.406229973,1.398759961,1.339959979,1.333870053,,
+Finland,"School enrollment, tertiary (% gross)",higher,1.17426002,1.171460032,1.182399988,1.166700006,1.164360046,1.18622005,
+France,"School enrollment, tertiary (% gross)",higher,1.17640996,1.202180028,1.20472002,1.19532001,1.201099992,1.217700005,
+Germany,"School enrollment, tertiary (% gross)",higher,,,,0.980069995,1.021270037,1.053470016,
+Greece,"School enrollment, tertiary (% gross)",higher,1.081339955,1.103019953,1.063740015,,1.01978004,1.019659996,
+Hungary,"School enrollment, tertiary (% gross)",higher,1.182899952,1.316050053,1.266229987,1.204890013,1.186560035,1.190219998,
+Indonesia,"School enrollment, tertiary (% gross)",higher,0.887380004,,0.875240028,1.100880027,,,
+Ireland,"School enrollment, tertiary (% gross)",higher,1.174729943,1.195389986,1.070719957,1.081150055,1.133659959,1.148270011,
+Israel,"School enrollment, tertiary (% gross)",higher,1.299409986,1.245440006,1.227499962,1.276929975,1.32889998,1.317250013,
+Italy,"School enrollment, tertiary (% gross)",higher,1.224930048,1.269269943,1.299720049,1.271289945,1.256569982,1.265959978,
+Japan,"School enrollment, tertiary (% gross)",higher,,,,0.941139996,0.971340001,,
+"Korea, Rep.","School enrollment, tertiary (% gross)",higher,0.583500028,0.640389979,0.743579984,0.778410017,0.817260027,0.833310008,
+Lithuania,"School enrollment, tertiary (% gross)",higher,1.350600004,1.359060049,1.33852005,1.304209948,1.286309958,1.304540038,
+Netherlands,"School enrollment, tertiary (% gross)",higher,1.034929991,1.076830029,1.103680015,1.126350045,,1.140210032,
+New Zealand,"School enrollment, tertiary (% gross)",higher,,,,1.290510058,1.345059991,1.349840045,
+Norway,"School enrollment, tertiary (% gross)",higher,1.312680006,1.343649983,1.380949974,1.313169956,1.324280024,1.329839945,
+Panama,"School enrollment, tertiary (% gross)",higher,1.413319945,1.389400005,1.346539974,1.364650011,,1.352880001,
+Peru,"School enrollment, tertiary (% gross)",higher,,1.035290003,,,,,
+Poland,"School enrollment, tertiary (% gross)",higher,1.290480018,1.291939974,1.342810035,1.34010005,1.34307003,1.32438004,
+Portugal,"School enrollment, tertiary (% gross)",higher,1.252349973,1.234949946,1.153599977,1.117300034,1.141340017,1.148720026,
+Romania,"School enrollment, tertiary (% gross)",higher,1.112910032,1.208989978,1.271000028,1.202170014,1.222689986,1.223389983,
+Slovenia,"School enrollment, tertiary (% gross)",higher,1.278589964,1.298280001,1.327250004,1.318609953,1.313850045,1.306630015,
+Spain,"School enrollment, tertiary (% gross)",higher,1.155410051,1.185379982,1.190899968,1.159809947,1.176800013,1.191220045,
+Sweden,"School enrollment, tertiary (% gross)",higher,1.310549974,1.351979971,1.347149968,1.34442997,1.376309991,1.378090024,
+Switzerland,"School enrollment, tertiary (% gross)",higher,0.750660002,0.86650002,0.989650011,1.027780056,1.038319945,1.055060029,
+Tunisia,"School enrollment, tertiary (% gross)",higher,1.03884995,1.191599965,1.355819941,1.396679997,1.458240032,1.460790038,
+United Kingdom,"School enrollment, tertiary (% gross)",higher,1.154899955,1.280590057,1.251539946,1.248829961,1.270779967,1.262539983,
+United States,"School enrollment, tertiary (% gross)",higher,,1.29685998,,1.26267004,1.277590036,1.292520046,
+Uruguay,"School enrollment, tertiary (% gross)",higher,1.431390047,1.426370025,1.383889794,1.428622365,1.393583417,,
+Argentina,"Share of youth not in education, employment or training, total (% of youth population)",lower,,19.87000084,19.45999908,,19.22999954,22.32999992,16.12000084
+Australia,"Share of youth not in education, employment or training, total (% of youth population)",lower,,,11.31999969,9.800000191,,,
+Austria,"Share of youth not in education, employment or training, total (% of youth population)",lower,,11.84000015,10.78999996,11.03999996,11.01000023,11.42000008,12.26000023
+Belgium,"Share of youth not in education, employment or training, total (% of youth population)",lower,,13.02000046,10.85999966,12.18000031,9.25,9.210000038,7.420000076
+Brazil,"Share of youth not in education, employment or training, total (% of youth population)",lower,,19.06999969,,22.10000038,23.98999977,25.98999977,23.37999916
+Bulgaria,"Share of youth not in education, employment or training, total (% of youth population)",lower,,25.04999924,21.03000069,19.28000069,13.72000027,14.43999958,14.02000046
+Canada,"Share of youth not in education, employment or training, total (% of youth population)",lower,13.89999962,12.77999973,14.10000038,13.81999969,12.35999966,17.93000031,12.93999958
+Chile,"Share of youth not in education, employment or training, total (% of youth population)",lower,24.03000069,,19.15999985,19.14999962,16.5,20.52000046,16.27000046
+Costa Rica,"Share of youth not in education, employment or training, total (% of youth population)",lower,,18.65999985,19.09000015,18.64999962,17.57999992,19.95000076,18.98999977
+Croatia,"Share of youth not in education, employment or training, total (% of youth population)",lower,,16.71999931,15.67000008,18.12000084,11.77999973,12.23999977,12.68999958
+Czechia,"Share of youth not in education, employment or training, total (% of youth population)",lower,,13.40999985,9.039999962,7.71999979,5.820000172,6.679999828,6.610000134
+Denmark,"Share of youth not in education, employment or training, total (% of youth population)",lower,,4.309999943,6.860000134,7.03000021,7.71999979,7.440000057,7.079999924
+Estonia,"Share of youth not in education, employment or training, total (% of youth population)",lower,,10.93999958,14.06999969,10.84000015,6.940000057,8.840000153,10.92000008
+Finland,"Share of youth not in education, employment or training, total (% of youth population)",lower,,8.090000153,9.020000458,10.56000042,8.159999847,9.25,7.650000095
+France,"Share of youth not in education, employment or training, total (% of youth population)",lower,,11.35000038,12.88000011,13.97000027,12.61999989,12.69999981,11.46000004
+Germany,"Share of youth not in education, employment or training, total (% of youth population)",lower,,11.27999973,8.300000191,6.170000076,5.659999847,7.420000076,7.519999981
+Greece,"Share of youth not in education, employment or training, total (% of youth population)",lower,24.95999908,22.44000053,15.77000046,17.89999962,12.97999954,13.52999973,12.05000019
+Hungary,"Share of youth not in education, employment or training, total (% of youth population)",lower,,18.79000092,12.56000042,11.57999992,11,11.71000004,10.60999966
+Indonesia,"Share of youth not in education, employment or training, total (% of youth population)",lower,29.37999916,31.86000061,26.64999962,22.92000008,20.54999924,21.79999924,22.45000076
+Ireland,"Share of youth not in education, employment or training, total (% of youth population)",lower,,15.13000011,19.43000031,14.25,10.09000015,12.02000046,7.730000019
+Israel,"Share of youth not in education, employment or training, total (% of youth population)",lower,,,,14.31000042,14.27999973,16.05999947,16.76000023
+Italy,"Share of youth not in education, employment or training, total (% of youth population)",lower,,17.04999924,18.96999931,21.32999992,18.04999924,18.93000031,19.76000023
+Japan,"Share of youth not in education, employment or training, total (% of youth population)",lower,,,4.340000153,3.660000086,3.140000105,,
+"Korea, Rep.","Share of youth not in education, employment or training, total (% of youth population)",lower,,,,,,,
+Lithuania,"Share of youth not in education, employment or training, total (% of youth population)",lower,,8.770000458,13.17000008,9.199999809,8.649999619,10.76000023,11.31999969
+Netherlands,"Share of youth not in education, employment or training, total (% of youth population)",lower,,6.429999828,4.829999924,4.670000076,4.260000229,4.519999981,5.110000134
+New Zealand,"Share of youth not in education, employment or training, total (% of youth population)",lower,,11.11999989,13.64000034,11.53999996,11.61999989,12.93999958,11.88000011
+Norway,"Share of youth not in education, employment or training, total (% of youth population)",lower,,11.30000019,4.900000095,5.03000021,4.75,4.900000095,6.320000172
+Panama,"Share of youth not in education, employment or training, total (% of youth population)",lower,,,20.88999939,18.45000076,16.68000031,18.73999977,19.29999924
+Peru,"Share of youth not in education, employment or training, total (% of youth population)",lower,,23.98999977,15.18999958,18.59000015,16.87000084,25.68000031,22.70000076
+Poland,"Share of youth not in education, employment or training, total (% of youth population)",lower,,13.90999985,10.77000046,10.98999977,8.130000114,8.630000114,11.19999981
+Portugal,"Share of youth not in education, employment or training, total (% of youth population)",lower,,11.09000015,11.43999958,11.27000046,8.020000458,9.06000042,7.610000134
+Romania,"Share of youth not in education, employment or training, total (% of youth population)",lower,,16.79999924,16.61000061,18.07999992,14.65999985,14.75,18.02000046
+Slovenia,"Share of youth not in education, employment or training, total (% of youth population)",lower,,8.930000305,7.110000134,9.510000229,7.03000021,7.679999828,6.599999905
+Spain,"Share of youth not in education, employment or training, total (% of youth population)",lower,,12.96000004,17.80999947,15.64000034,12.13000011,13.88000011,10.97000027
+Sweden,"Share of youth not in education, employment or training, total (% of youth population)",lower,,14.15999985,7.670000076,6.71999979,5.480000019,6.460000038,5.070000172
+Switzerland,"Share of youth not in education, employment or training, total (% of youth population)",lower,5.760000229,8.670000076,8.449999809,9.350000381,7.710000038,8.619999886,9.890000343
+Tunisia,"Share of youth not in education, employment or training, total (% of youth population)",lower,,,25.22999954,,,,
+United Kingdom,"Share of youth not in education, employment or training, total (% of youth population)",lower,,8.420000076,13.61999989,11.05000019,10.52000046,,
+United States,"Share of youth not in education, employment or training, total (% of youth population)",lower,12.39000034,13.14999962,15.22999954,12.43999958,10.40999985,13.89000034,12.19999981
+Uruguay,"Share of youth not in education, employment or training, total (% of youth population)",lower,22.98999977,19.25,18.12000084,18.72999954,17.57999992,,
+Argentina,Strength of legal rights index (0=weak to 12=strong),higher,,,,2,2,,
+Australia,Strength of legal rights index (0=weak to 12=strong),higher,,,,11,11,,
+Austria,Strength of legal rights index (0=weak to 12=strong),higher,,,,4,4,,
+Belgium,Strength of legal rights index (0=weak to 12=strong),higher,,,,4,8,,
+Brazil,Strength of legal rights index (0=weak to 12=strong),higher,,,,2,2,,
+Bulgaria,Strength of legal rights index (0=weak to 12=strong),higher,,,,8,8,,
+Canada,Strength of legal rights index (0=weak to 12=strong),higher,,,,9,9,,
+Chile,Strength of legal rights index (0=weak to 12=strong),higher,,,,4,4,,
+Costa Rica,Strength of legal rights index (0=weak to 12=strong),higher,,,,10,10,,
+Croatia,Strength of legal rights index (0=weak to 12=strong),higher,,,,5,5,,
+Czechia,Strength of legal rights index (0=weak to 12=strong),higher,,,,7,7,,
+Denmark,Strength of legal rights index (0=weak to 12=strong),higher,,,,8,8,,
+Estonia,Strength of legal rights index (0=weak to 12=strong),higher,,,,7,7,,
+Finland,Strength of legal rights index (0=weak to 12=strong),higher,,,,6,6,,
+France,Strength of legal rights index (0=weak to 12=strong),higher,,,,4,4,,
+Germany,Strength of legal rights index (0=weak to 12=strong),higher,,,,6,6,,
+Greece,Strength of legal rights index (0=weak to 12=strong),higher,,,,2,2,,
+Hungary,Strength of legal rights index (0=weak to 12=strong),higher,,,,9,9,,
+Indonesia,Strength of legal rights index (0=weak to 12=strong),higher,,,,5,6,,
+Ireland,Strength of legal rights index (0=weak to 12=strong),higher,,,,7,7,,
+Israel,Strength of legal rights index (0=weak to 12=strong),higher,,,,6,6,,
+Italy,Strength of legal rights index (0=weak to 12=strong),higher,,,,2,2,,
+Japan,Strength of legal rights index (0=weak to 12=strong),higher,,,,5,5,,
+"Korea, Rep.",Strength of legal rights index (0=weak to 12=strong),higher,,,,5,5,,
+Lithuania,Strength of legal rights index (0=weak to 12=strong),higher,,,,6,6,,
+Netherlands,Strength of legal rights index (0=weak to 12=strong),higher,,,,2,2,,
+New Zealand,Strength of legal rights index (0=weak to 12=strong),higher,,,,12,12,,
+Norway,Strength of legal rights index (0=weak to 12=strong),higher,,,,5,5,,
+Panama,Strength of legal rights index (0=weak to 12=strong),higher,,,,7,8,,
+Peru,Strength of legal rights index (0=weak to 12=strong),higher,,,,7,7,,
+Poland,Strength of legal rights index (0=weak to 12=strong),higher,,,,7,7,,
+Portugal,Strength of legal rights index (0=weak to 12=strong),higher,,,,2,2,,
+Romania,Strength of legal rights index (0=weak to 12=strong),higher,,,,9,9,,
+Slovenia,Strength of legal rights index (0=weak to 12=strong),higher,,,,3,3,,
+Spain,Strength of legal rights index (0=weak to 12=strong),higher,,,,5,5,,
+Sweden,Strength of legal rights index (0=weak to 12=strong),higher,,,,7,7,,
+Switzerland,Strength of legal rights index (0=weak to 12=strong),higher,,,,6,6,,
+Tunisia,Strength of legal rights index (0=weak to 12=strong),higher,,,,3,3,,
+United Kingdom,Strength of legal rights index (0=weak to 12=strong),higher,,,,7,7,,
+United States,Strength of legal rights index (0=weak to 12=strong),higher,,,,11,11,,
+Uruguay,Strength of legal rights index (0=weak to 12=strong),higher,,,,4,4,,
+Argentina,"Suicide mortality rate (per 100,000 population)",lower,9.1,8.6,8.6,8.3,8.4,,
+Australia,"Suicide mortality rate (per 100,000 population)",lower,12.7,11.2,11.7,13.2,12.5,,
+Austria,"Suicide mortality rate (per 100,000 population)",lower,19.9,17.2,16.1,16,14.6,,
+Belgium,"Suicide mortality rate (per 100,000 population)",lower,22,20.7,20.5,18.6,18.3,,
+Brazil,"Suicide mortality rate (per 100,000 population)",lower,4,4.7,5,5.9,6.9,,
+Bulgaria,"Suicide mortality rate (per 100,000 population)",lower,18.2,13.3,12.4,9.8,9.7,,
+Canada,"Suicide mortality rate (per 100,000 population)",lower,11.9,12.2,12.1,13,11.8,,
+Chile,"Suicide mortality rate (per 100,000 population)",lower,10.3,9.7,11.6,10,9,,
+Costa Rica,"Suicide mortality rate (per 100,000 population)",lower,6.4,6.6,6.9,6.7,8.1,,
+Croatia,"Suicide mortality rate (per 100,000 population)",lower,20.8,20.1,18.3,17.6,16.4,,
+Czechia,"Suicide mortality rate (per 100,000 population)",lower,16.3,15.8,15,13.6,12.2,,
+Denmark,"Suicide mortality rate (per 100,000 population)",lower,15.6,14.8,11.8,10.9,10.7,,
+Estonia,"Suicide mortality rate (per 100,000 population)",lower,29.1,22.6,18.8,15.9,14.9,,
+Finland,"Suicide mortality rate (per 100,000 population)",lower,24.3,19.9,18.6,14,15.3,,
+France,"Suicide mortality rate (per 100,000 population)",lower,20.2,19.1,18.2,15.8,13.8,,
+Germany,"Suicide mortality rate (per 100,000 population)",lower,14.5,13.3,13.2,13.3,12.3,,
+Greece,"Suicide mortality rate (per 100,000 population)",lower,3.5,3.7,3.5,5,5.1,,
+Hungary,"Suicide mortality rate (per 100,000 population)",lower,33.4,26.4,25.5,19.9,16.6,,
+Indonesia,"Suicide mortality rate (per 100,000 population)",lower,3.5,3,2.6,2.4,2.4,,
+Ireland,"Suicide mortality rate (per 100,000 population)",lower,12.7,11.8,11.9,9.3,9.6,,
+Israel,"Suicide mortality rate (per 100,000 population)",lower,6.8,6.7,6.7,4.5,5.3,,
+Italy,"Suicide mortality rate (per 100,000 population)",lower,7.5,6.7,6.9,7.1,6.7,,
+Japan,"Suicide mortality rate (per 100,000 population)",lower,23.9,24.3,24.1,19.1,15.3,,
+"Korea, Rep.","Suicide mortality rate (per 100,000 population)",lower,14.5,26.7,34,28,28.6,,
+Lithuania,"Suicide mortality rate (per 100,000 population)",lower,50.1,42.7,37.2,34.9,26.1,,
+Netherlands,"Suicide mortality rate (per 100,000 population)",lower,9.6,9.8,9.8,11.8,11.8,,
+New Zealand,"Suicide mortality rate (per 100,000 population)",lower,12.5,12.9,12.6,11.7,11,,
+Norway,"Suicide mortality rate (per 100,000 population)",lower,13.9,12.4,12.4,12.5,11.8,,
+Panama,"Suicide mortality rate (per 100,000 population)",lower,5.4,5,4.2,2.9,2.9,,
+Peru,"Suicide mortality rate (per 100,000 population)",lower,3.1,2.7,3.5,2.7,2.8,,
+Poland,"Suicide mortality rate (per 100,000 population)",lower,17,17.7,18.6,15.9,11.3,,
+Portugal,"Suicide mortality rate (per 100,000 population)",lower,7.6,11.4,13.6,13.2,11.5,,
+Romania,"Suicide mortality rate (per 100,000 population)",lower,12.9,12.3,13.2,11.5,9.7,,
+Slovenia,"Suicide mortality rate (per 100,000 population)",lower,32,26.8,20.7,21,19.8,,
+Spain,"Suicide mortality rate (per 100,000 population)",lower,8.6,8,6.9,7.9,7.7,,
+Sweden,"Suicide mortality rate (per 100,000 population)",lower,15.1,15.7,14.7,15.7,14.7,,
+Switzerland,"Suicide mortality rate (per 100,000 population)",lower,20.2,19,14.5,15,14.5,,
+Tunisia,"Suicide mortality rate (per 100,000 population)",lower,3.7,3.7,3.5,3.1,3.3,,
+United Kingdom,"Suicide mortality rate (per 100,000 population)",lower,8.6,7.9,7.8,8.8,7.9,,
+United States,"Suicide mortality rate (per 100,000 population)",lower,11,11.9,13.1,14.4,16.1,,
+Uruguay,"Suicide mortality rate (per 100,000 population)",lower,16,14.8,16,18.6,21.2,,
+Argentina,Unemployment with advanced education (% of total labor force with advanced education),lower,,5.019999981,3.049999952,,3.869999886,4.71999979,3.430000067
+Australia,Unemployment with advanced education (% of total labor force with advanced education),lower,3.650000095,3.019999981,3.019999981,3.549999952,2.170000076,4.090000153,
+Austria,Unemployment with advanced education (% of total labor force with advanced education),lower,2.24000001,3.029999971,2.529999971,3.950000048,3.069999933,3.279999971,4.139999866
+Belgium,Unemployment with advanced education (% of total labor force with advanced education),lower,2.660000086,4.409999847,4.449999809,4.590000153,3.150000095,3.430000067,3.569999933
+Brazil,Unemployment with advanced education (% of total labor force with advanced education),lower,,4.199999809,,5.079999924,6.730000019,7.429999828,7.519999981
+Bulgaria,Unemployment with advanced education (% of total labor force with advanced education),lower,6.699999809,4.309999943,4.559999943,3.950000048,1.909999967,2.460000038,1.970000029
+Canada,Unemployment with advanced education (% of total labor force with advanced education),lower,4.699999809,5.039999962,5.96999979,5.230000019,4.409999847,7.480000019,5.920000076
+Chile,Unemployment with advanced education (% of total labor force with advanced education),lower,3.210000038,,5.739999771,5.059999943,6.760000229,9.229999542,7.889999866
+Costa Rica,Unemployment with advanced education (% of total labor force with advanced education),lower,2.210000038,4.949999809,3.970000029,5.849999905,6.099999905,8.930000305,7.5
+Croatia,Unemployment with advanced education (% of total labor force with advanced education),lower,,6.269999981,8.340000153,9.239999771,5.25,5.360000134,4.900000095
+Czechia,Unemployment with advanced education (% of total labor force with advanced education),lower,6.269999981,4.039999962,5,2.380000114,1,1.419999957,1.360000014
+Denmark,Unemployment with advanced education (% of total labor force with advanced education),lower,2.589999914,3.670000076,4.690000057,4.619999886,4.099999905,4.679999828,4.019999981
+Estonia,Unemployment with advanced education (% of total labor force with advanced education),lower,5.090000153,4.130000114,9.369999886,3.849999905,2.859999895,4.769999981,3.440000057
+Finland,Unemployment with advanced education (% of total labor force with advanced education),lower,5.210000038,4.400000095,4.409999847,5.949999809,3.940000057,4.320000172,4.630000114
+France,Unemployment with advanced education (% of total labor force with advanced education),lower,5.550000191,6.400000095,5.619999886,6.300000191,5.099999905,5.210000038,5.300000191
+Germany,Unemployment with advanced education (% of total labor force with advanced education),lower,4.260000229,5.510000229,3.019999981,2.319999933,1.809999943,2.549999952,2.420000076
+Greece,Unemployment with advanced education (% of total labor force with advanced education),lower,8.460000038,8.159999847,10.01000023,19.72999954,12.09000015,11.56000042,10.93999958
+Hungary,Unemployment with advanced education (% of total labor force with advanced education),lower,1.419999957,2.680000067,4.579999924,2.420000076,1.539999962,1.850000024,1.74000001
+Indonesia,Unemployment with advanced education (% of total labor force with advanced education),lower,10.38000011,11.32999992,9.880000114,5.440000057,4.380000114,4.599999905,4.429999828
+Ireland,Unemployment with advanced education (% of total labor force with advanced education),lower,1.75,2.450000048,8.079999924,5.639999866,3.220000029,4.119999886,4.239999771
+Israel,Unemployment with advanced education (% of total labor force with advanced education),lower,5.21999979,5.190000057,4.389999866,3.349999905,2.569999933,2.869999886,3.460000038
+Italy,Unemployment with advanced education (% of total labor force with advanced education),lower,6.059999943,6.059999943,5.659999847,7.099999905,5.699999809,5.329999924,5.050000191
+Japan,Unemployment with advanced education (% of total labor force with advanced education),lower,,3.480000019,3.99000001,2.720000029,2.029999971,2.470000029,
+"Korea, Rep.",Unemployment with advanced education (% of total labor force with advanced education),lower,3.789999962,3.74000001,3.710000038,4.070000172,3.890000105,3.930000067,3.630000114
+Lithuania,Unemployment with advanced education (% of total labor force with advanced education),lower,9.289999962,3.99000001,7.650000095,3.680000067,2.900000095,4.090000153,4.039999962
+Netherlands,Unemployment with advanced education (% of total labor force with advanced education),lower,1.710000038,3.539999962,3.089999914,3.859999895,2.269999981,2.579999924,2.930000067
+New Zealand,Unemployment with advanced education (% of total labor force with advanced education),lower,2,3.900000095,4.559999943,2.809999943,2.220000029,2.930000067,
+Norway,Unemployment with advanced education (% of total labor force with advanced education),lower,2.5,2.599999905,1.840000033,2.609999895,2.190000057,2.809999943,2.609999895
+Panama,Unemployment with advanced education (% of total labor force with advanced education),lower,,11.42000008,4.400000095,2.369999886,5.139999866,13.22999954,7.480000019
+Peru,Unemployment with advanced education (% of total labor force with advanced education),lower,7.659999847,7.050000191,4.349999905,4.190000057,3.609999895,9.109999657,6.619999886
+Poland,Unemployment with advanced education (% of total labor force with advanced education),lower,5.46999979,7.110000134,4.980000019,3.960000038,2,1.950000048,1.769999981
+Portugal,Unemployment with advanced education (% of total labor force with advanced education),lower,2.690000057,6.230000019,7,9.239999771,5.309999943,5.809999943,5.289999962
+Romania,Unemployment with advanced education (% of total labor force with advanced education),lower,3.599999905,3.859999895,4.820000172,4.110000134,1.570000052,2.230000019,2.089999914
+Slovenia,Unemployment with advanced education (% of total labor force with advanced education),lower,2.200000048,3.190000057,4.289999962,5.800000191,3,3.160000086,3.329999924
+Spain,Unemployment with advanced education (% of total labor force with advanced education),lower,10.85000038,6.730000019,11.14999962,13.18999958,8.609999657,10.22999954,9.210000038
+Sweden,Unemployment with advanced education (% of total labor force with advanced education),lower,2.99000001,4.460000038,4.71999979,4.269999981,3.720000029,4.730000019,4.309999943
+Switzerland,Unemployment with advanced education (% of total labor force with advanced education),lower,1.370000005,2.799999952,2.960000038,3.680000067,3.230000019,3.50999999,3.460000038
+Tunisia,Unemployment with advanced education (% of total labor force with advanced education),lower,,14.02000046,22.87999916,26.84000015,,,
+United Kingdom,Unemployment with advanced education (% of total labor force with advanced education),lower,2.450000048,2.559999943,4.059999943,2.940000057,2.480000019,,
+United States,Unemployment with advanced education (% of total labor force with advanced education),lower,1.929999948,2.710000038,5.46999979,3.029999971,2.380000114,5.590000153,3.579999924
+Uruguay,Unemployment with advanced education (% of total labor force with advanced education),lower,9.06000042,3.24000001,2.00999999,2.210000038,3.00999999,,
+Argentina,Women Business and the Law Index Score (scale 1-100),higher,65,70,73.125,73.125,76.25,76.25,79.375
+Australia,Women Business and the Law Index Score (scale 1-100),higher,81.25,81.25,83.75,96.875,96.875,96.875,96.875
+Austria,Women Business and the Law Index Score (scale 1-100),higher,78.75,85,91.25,94.375,94.375,96.875,96.875
+Belgium,Women Business and the Law Index Score (scale 1-100),higher,75.625,84.375,93.75,100,100,100,100
+Brazil,Women Business and the Law Index Score (scale 1-100),higher,56.875,79.375,81.875,81.875,81.875,85,85
+Bulgaria,Women Business and the Law Index Score (scale 1-100),higher,68.125,91.25,93.75,90.625,90.625,90.625,90.625
+Canada,Women Business and the Law Index Score (scale 1-100),higher,97.5,97.5,97.5,97.5,100,100,100
+Chile,Women Business and the Law Index Score (scale 1-100),higher,60.625,66.875,75,77.5,77.5,80,80
+Costa Rica,Women Business and the Law Index Score (scale 1-100),higher,77.5,77.5,80,80,83.125,86.25,86.25
+Croatia,Women Business and the Law Index Score (scale 1-100),higher,67.5,76.25,93.75,93.75,93.75,93.75,93.75
+Czechia,Women Business and the Law Index Score (scale 1-100),higher,73.125,73.125,88.125,91.25,93.75,93.75,93.75
+Denmark,Women Business and the Law Index Score (scale 1-100),higher,91.25,91.25,97.5,100,100,100,100
+Estonia,Women Business and the Law Index Score (scale 1-100),higher,63.75,81.875,91.25,91.25,97.5,97.5,97.5
+Finland,Women Business and the Law Index Score (scale 1-100),higher,85,94.375,97.5,97.5,97.5,97.5,97.5
+France,Women Business and the Law Index Score (scale 1-100),higher,86.25,91.875,97.5,100,100,100,100
+Germany,Women Business and the Law Index Score (scale 1-100),higher,76.875,79.375,94.375,94.375,97.5,97.5,97.5
+Greece,Women Business and the Law Index Score (scale 1-100),higher,73.125,73.125,88.125,97.5,97.5,97.5,100
+Hungary,Women Business and the Law Index Score (scale 1-100),higher,69.375,75.625,93.75,96.875,96.875,96.875,96.875
+Indonesia,Women Business and the Law Index Score (scale 1-100),higher,50,64.375,64.375,64.375,64.375,64.375,64.375
+Ireland,Women Business and the Law Index Score (scale 1-100),higher,95,95,95,95,97.5,100,100
+Israel,Women Business and the Law Index Score (scale 1-100),higher,78.125,75,77.5,80.625,80.625,80.625,80.625
+Italy,Women Business and the Law Index Score (scale 1-100),higher,76.875,83.125,89.375,94.375,97.5,97.5,97.5
+Japan,Women Business and the Law Index Score (scale 1-100),higher,73.75,76.25,78.75,78.75,78.75,78.75,78.75
+"Korea, Rep.",Women Business and the Law Index Score (scale 1-100),higher,66.25,76.25,85,85,85,85,85
+Lithuania,Women Business and the Law Index Score (scale 1-100),higher,73.75,88.75,91.25,93.75,93.75,93.75,93.75
+Netherlands,Women Business and the Law Index Score (scale 1-100),higher,89.375,89.375,95,97.5,97.5,97.5,97.5
+New Zealand,Women Business and the Law Index Score (scale 1-100),higher,86.875,89.375,91.875,91.875,94.375,97.5,97.5
+Norway,Women Business and the Law Index Score (scale 1-100),higher,88.125,94.375,96.875,96.875,96.875,96.875,96.875
+Panama,Women Business and the Law Index Score (scale 1-100),higher,68.125,73.75,73.75,76.875,79.375,79.375,79.375
+Peru,Women Business and the Law Index Score (scale 1-100),higher,80.625,86.875,92.5,92.5,95,95,95
+Poland,Women Business and the Law Index Score (scale 1-100),higher,66.875,66.875,78.75,84.375,93.75,93.75,93.75
+Portugal,Women Business and the Law Index Score (scale 1-100),higher,79.375,91.875,97.5,97.5,97.5,100,100
+Romania,Women Business and the Law Index Score (scale 1-100),higher,70,87.5,90.625,90.625,90.625,90.625,90.625
+Slovenia,Women Business and the Law Index Score (scale 1-100),higher,64.375,88.125,90.625,90.625,93.75,96.875,96.875
+Spain,Women Business and the Law Index Score (scale 1-100),higher,94.375,94.375,97.5,97.5,97.5,97.5,100
+Sweden,Women Business and the Law Index Score (scale 1-100),higher,90.625,90.625,96.875,100,100,100,100
+Switzerland,Women Business and the Law Index Score (scale 1-100),higher,78.125,83.125,85.625,85.625,85.625,85.625,88.125
+Tunisia,Women Business and the Law Index Score (scale 1-100),higher,55.625,55.625,55.625,55.625,64.375,64.375,64.375
+United Kingdom,Women Business and the Law Index Score (scale 1-100),higher,86.25,88.75,95,97.5,97.5,97.5,97.5
+United States,Women Business and the Law Index Score (scale 1-100),higher,83.75,83.75,83.75,83.75,91.25,91.25,91.25
+Uruguay,Women Business and the Law Index Score (scale 1-100),higher,68.125,71.25,83.125,85.625,88.75,88.75,88.75
