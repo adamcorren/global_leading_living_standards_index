@@ -6,13 +6,13 @@ Download PDF for best quality.
 
 ## Index Objective 
 
-The objective of the Leading Living Standards Index is 
-to compile a list of the foremost countries to reside in. 
-To accomplish this, an analysis will be conducted using 
-a set of 48 distinct metrics. These metrics encompass a 
-wide array of indexes, surveys, and annual data points, 
-collectively forming a detailed framework for assessing 
-living standards.
+The Global Leading Living Standards Index focuses on
+identifying the best countries to live in, rather than
+ranking every country. To ensure a relatively high
+standard for inclusion in the index, a set of benchmark
+criteria is introduced. A country must meet all four of
+these benchmarks to be included:
+
 
 ## Index Benchmarks
 
@@ -23,22 +23,22 @@ a relatively high standard for inclusion in the index, a set
 of benchmark criteria is introduced. A country must 
 meet all four of these benchmarks to be included:
 
-- Democracy:  The presence of a democratic system 
-that ensures citizens' participation and 
-representation in governance.
+- Democracy:  The presence of a democratic system
+that ensures citizens' participation and
+representation.
 
-- Safety: : A basic level of safety and security that 
-allows for a safe environment for citizens to thrive.
-A country must have a travelsafe.com safety index
+- Safety: : A basic level of safety and security that
+allows for a safe environment for citizens. A
+country must have a travelsafe.com safety index
 score of at least 50 (out of 100).
 
-- Economy: Economic stability and opportunities 
-that support sustainable growth and prosperity. A 
-country must rank in the top 100 countries globally
-in gross domestic product (GDP).
+- Economy: Economic stability and opportunities
+that support sustainable growth. A country must
+rank in the top 100 countries globally in gross
+domestic product (GDP).
 
-- Availability of metrics:  A minimum of 40 out of 
-the 48 metrics must be available for a country.
+- Availability of metrics:  A minimum of 40 out of
+the 48 metrics must be available.
 
 Out of the 161 countries that offered current data for
 the democracy, safety, and economic benchmarks, a 
@@ -92,39 +92,6 @@ Leading Living Standards Index.
 - United Kingdom
 - United States
 - Uruguay
-
-## Index Framework 
-
-Once the qualified countries have been identified, they 
-are subjected to an analysis across four different 
-subindices, each representing a significant area of living 
-standards. These subindices encompass various 
-aspects that contribute to the overall quality of life 
-within a country and allow for a broad understanding of 
-the strengths and weaknesses of each Nation
-
-- Economic health and stability: : Evaluates a country's 
-capacity to maintain a stable and well-managed 
-economic environment, showing its ability to provide 
-favourable economic conditions for its citizens
-
-- Quality of life:  Encompasses a broad spectrum of 
-factors that collectively contribute to the overall wellbeing and satisfaction within a country. It is the most 
-significant and heavily weighted subindex as it captures 
-crucial areas that directly impact the daily lives and 
-happiness of citizens.
-
-- Cost of living:: Focuses on assessing the general prices 
-and expenses associated with living in a particular 
-country, as well as providing insights into the 
-affordability and financial implications of living in a 
-country.
-
-- Growth and development: : Assesses the current and
-potential for future economic growth, general 
-development, and overall living standards, offering 
-insights into the positive or negative trajectory of a 
-country’s living standards.
 
 ## Data
 
